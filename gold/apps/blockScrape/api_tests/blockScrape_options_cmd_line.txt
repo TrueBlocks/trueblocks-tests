@@ -1,0 +1,6 @@
+scrape?dryRun&appsPerChunk=10000&snapToGrid=10000&firstSnap=10000&unripeDist=10000&channelCount=10000
+{
+  "errors": [
+    "chifra scrape is not available in API mode"
+  ]
+}
