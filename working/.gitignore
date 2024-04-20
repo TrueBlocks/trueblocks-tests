@@ -1,0 +1,17 @@
+*file
+*.cache
+*.csv
+*.env
+*.gz
+*.json
+*.redir
+*.sol
+*.toml
+*.txt
+cmd_file*
+command.fil
+filter.csv
+test_file
+testing_file
+testing_data
+tests

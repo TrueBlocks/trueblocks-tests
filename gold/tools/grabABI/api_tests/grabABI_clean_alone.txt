@@ -1,0 +1,6 @@
+abis?decache
+{
+  "errors": [
+    "The --decache option is not available in API mode."
+  ]
+}
