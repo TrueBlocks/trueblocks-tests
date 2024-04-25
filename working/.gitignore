@@ -1,7 +1,7 @@
-out.tsv
 *file
 *.cache
 *.csv
+*.tsv
 *.env
 *.gz
 *.json
@@ -16,3 +16,4 @@ test_file
 testing_file
 testing_data
 tests
+output*
