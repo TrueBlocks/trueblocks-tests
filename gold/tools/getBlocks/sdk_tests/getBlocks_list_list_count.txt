@@ -8,7 +8,7 @@ Format:  json
 {
   "data": [
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999100,
       "date": "2016-08-02 17:54:26 UTC",
       "difficulty": 50175511434372,
@@ -23,7 +23,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999099,
       "date": "2016-08-02 17:54:20 UTC",
       "difficulty": 50151023498858,
@@ -38,7 +38,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999098,
       "date": "2016-08-02 17:54:05 UTC",
       "difficulty": 50151023367786,
@@ -53,7 +53,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999097,
       "date": "2016-08-02 17:54:03 UTC",
       "difficulty": 50126547383500,
@@ -68,7 +68,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999096,
       "date": "2016-08-02 17:53:58 UTC",
       "difficulty": 50102083344545,
@@ -83,7 +83,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999095,
       "date": "2016-08-02 17:53:55 UTC",
       "difficulty": 50077631245092,
@@ -98,7 +98,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999094,
       "date": "2016-08-02 17:53:38 UTC",
       "difficulty": 50077631114020,
@@ -113,7 +113,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999093,
       "date": "2016-08-02 17:53:36 UTC",
       "difficulty": 50053190948306,
@@ -128,7 +128,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999092,
       "date": "2016-08-02 17:52:55 UTC",
       "difficulty": 50126618481024,
@@ -143,7 +143,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 1999091,
       "date": "2016-08-02 17:52:43 UTC",
       "difficulty": 50126618349952,

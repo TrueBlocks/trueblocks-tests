@@ -2,7 +2,7 @@ blocks?listCount=2&list=1030000&blocks=10010
 {
   "data": [
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 970100,
       "date": "2016-02-08 00:27:18 UTC",
       "difficulty": 11467093517127,
@@ -17,7 +17,7 @@ blocks?listCount=2&list=1030000&blocks=10010
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": 0,
+      "baseFeePerGas": "0",
       "blockNumber": 970099,
       "date": "2016-02-08 00:27:16 UTC",
       "difficulty": 11461497082877,
