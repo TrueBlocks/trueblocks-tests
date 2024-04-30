@@ -58,6 +58,14 @@ when?verbose
       "timestamp": 1438984075
     },
     {
+      "blockNumber": 52029,
+      "component": "execution",
+      "date": "2015-08-08 06:22:55 UTC",
+      "description": "The block containing the first log generated on the Ethereum Mainnet blockchain.",
+      "name": "firstLog",
+      "timestamp": 1439014975
+    },
+    {
       "blockNumber": 200000,
       "component": "execution",
       "date": "2015-09-07 21:33:09 UTC",
@@ -312,6 +320,14 @@ when?verbose
       "description": "The Shanghai upgrade brought staking withdrawals to the execution layer. In tandem with the Capella upgrade&#44; this enabled blocks to accept withdrawal operations&#44; which allows stakers to withdraw their ETH from the Beacon Chain to the execution layer.",
       "name": "shanghai",
       "timestamp": 1681338479
+    },
+    {
+      "blockNumber": 19426587,
+      "component": "execution",
+      "date": "2024-03-13 13:55:35 UTC",
+      "description": "Also called Cancun-Deneb includes EIP-4844 (Proto-Danksharding) through data blobs",
+      "name": "dencun",
+      "timestamp": 1710338135
     }
   ],
   "meta": {

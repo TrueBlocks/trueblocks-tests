@@ -5,7 +5,7 @@ Transactions:  [46147.0]
 Decache:  true
 Caps:  cache,decache,raw
 Format:  json
-Not implemented yet.
+chifra receipts --decache not yet implemented
 {
   "data": [],
   "meta": {
