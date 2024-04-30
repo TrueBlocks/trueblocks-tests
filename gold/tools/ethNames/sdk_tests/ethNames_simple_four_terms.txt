@@ -4,7 +4,6 @@ Opts: {"terms":["etwork","one","88897","torj"],"autoname":"0x0"}
 Terms:  [etwork one 88897 torj]
 Format:  json
 No known names found for [etwork one 88897 torj]
-Original command: [testRunner]
 {
   "data": [],
   "meta": {

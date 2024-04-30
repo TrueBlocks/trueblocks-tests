@@ -7,7 +7,6 @@ Append:  true
 Format:  json
 { "outputFilename": "--output_filename--" }
 No known names found for [0xf503017d7baf7fbc0fff7492b751025c6a78179b]
-Original command: [testRunner]
 {
   "data": [],
   "meta": {
