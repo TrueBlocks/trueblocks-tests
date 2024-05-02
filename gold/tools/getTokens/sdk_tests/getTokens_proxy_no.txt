@@ -19,6 +19,6 @@ Format:  json
     "chain": "mainnet"
   },
   "errors": [
-    "0x00000000441378008ea67f4284a57932b1c000a5 address is not token"
+    "address is not token"
   ]
 }
