@@ -2,7 +2,7 @@ blocks?blocks=0x79990fd526c4751139a7a3afc7420cde1a1141b1920d2afd411858ecb4926a39
 {
   "data": [
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 4000001,
       "date": "2017-07-09 20:52:51 UTC",
       "difficulty": 1097113993909745,

@@ -9,7 +9,7 @@ Format:  json
 {
   "data": [
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1001001,
       "date": "2016-02-14 03:51:23 UTC",
       "difficulty": 12468438268070,
@@ -123,7 +123,7 @@ Format:  json
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1001002,
       "date": "2016-02-14 03:52:05 UTC",
       "difficulty": 12462350163703,
@@ -214,7 +214,7 @@ Format:  json
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1001003,
       "date": "2016-02-14 03:52:28 UTC",
       "difficulty": 12456265032044,
@@ -380,7 +380,7 @@ Format:  json
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1001004,
       "date": "2016-02-14 03:52:44 UTC",
       "difficulty": 12450182871640,

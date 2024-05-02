@@ -2,7 +2,7 @@ blocks?blocks=0x3d6122660cc824376f11ee842f83addc3525e2dd6756b9bcf0affa6aa88cf741
 {
   "data": [
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1,
       "date": "2015-07-30 15:26:58 UTC",
       "difficulty": 0,
@@ -17,7 +17,7 @@ blocks?blocks=0x3d6122660cc824376f11ee842f83addc3525e2dd6756b9bcf0affa6aa88cf741
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 466,
       "date": "2015-07-30 15:45:49 UTC",
       "difficulty": 0,
@@ -32,7 +32,7 @@ blocks?blocks=0x3d6122660cc824376f11ee842f83addc3525e2dd6756b9bcf0affa6aa88cf741
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 466,
       "date": "2015-07-30 15:45:49 UTC",
       "difficulty": 0,

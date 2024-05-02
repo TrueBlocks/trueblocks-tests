@@ -9,7 +9,7 @@ Format:  json
 {
   "data": [
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 970100,
       "date": "2016-02-08 00:27:18 UTC",
       "difficulty": 11467093517127,
@@ -24,7 +24,7 @@ Format:  json
       "withdrawalsCnt": 0
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 970099,
       "date": "2016-02-08 00:27:16 UTC",
       "difficulty": 11461497082877,

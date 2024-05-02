@@ -5,7 +5,7 @@ TEST[DATE|TIME] Format:  json
 {
   "data": [
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1920000,
       "date": "2016-07-20 13:20:40 UTC",
       "difficulty": 62413376722602,

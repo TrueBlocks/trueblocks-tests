@@ -6,7 +6,7 @@ TEST[DATE|TIME] Format:  json
 {
   "data": [
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 1,
       "date": "2015-07-30 15:26:58 UTC",
       "difficulty": 0,
@@ -21,7 +21,7 @@ TEST[DATE|TIME] Format:  json
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 466,
       "date": "2015-07-30 15:45:49 UTC",
       "difficulty": 0,
@@ -36,7 +36,7 @@ TEST[DATE|TIME] Format:  json
       "withdrawals": []
     },
     {
-      "baseFeePerGas": "0",
+      "baseFeePerGas": 0,
       "blockNumber": 466,
       "date": "2015-07-30 15:45:49 UTC",
       "difficulty": 0,
