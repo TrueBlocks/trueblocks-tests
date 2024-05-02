@@ -39,7 +39,7 @@ TEST[DATE|TIME] Format:  json
       "to": "0x209c4784ab1e8183cf58ca33cb740efbf3fc18ef",
       "traces": [],
       "transactionIndex": 4,
-      "value": "0.9981745"
+      "value": "998174500000000000"
     },
     {
       "blockHash": "0xb8a3f7f5cfc1748f91a684f20fe89031202cbadcd15078c49b85ec2a57f43853",
@@ -125,7 +125,7 @@ TEST[DATE|TIME] Format:  json
       "to": "0x11b1f00bccf07754e6f1996864531fa162145cde",
       "traces": [],
       "transactionIndex": 68,
-      "value": "0.202229176215950944"
+      "value": "202229176215950944"
     }
   ]
 }
