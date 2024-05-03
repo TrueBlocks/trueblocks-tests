@@ -1,7 +1,8 @@
-traces?transactions=0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b
-Args: [transactions=0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b]
-Opts: {"transactions":["0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b"]}
+traces?transactions=0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b&ether
+Args: [transactions=0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b ether]
+Opts: {"transactions":["0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b"],"ether":true}
 Transactions:  [0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b]
+Ether:  true
 Caps:  cache,decache,raw,ether
 Format:  json
 {
@@ -9,6 +10,7 @@ Format:  json
     {
       "action": {
         "callType": "call",
+        "ether": "0",
         "from": "0x00a3819199113fc6a6e6ba1298afde7377e2009b",
         "gas": 12716,
         "input": "0xd8963b9100000000000000000000000000a3819199113fc6a6e6ba1298afde7377e2009b",
@@ -32,6 +34,8 @@ Format:  json
       "action": {
         "address": "0x204882bcba3e6d804e5f7d6e483bb18dd2b3d678",
         "balance": "200000000000000000",
+        "balanceEth": "0.2",
+        "ether": "0",
         "refundAddress": "0x00a3819199113fc6a6e6ba1298afde7377e2009b",
         "value": "0"
       },
