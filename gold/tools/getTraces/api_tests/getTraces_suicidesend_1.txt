@@ -27,7 +27,8 @@ traces?transactions=0x343ba476313771d4431018d7d2e935eba2bfe26d5be3e6cb84af6817fd
       "action": {
         "address": "0x9bd20e68b22f63c651a30f2cdbf6d539e465f83c",
         "balance": "490372688211999273",
-        "refundAddress": "0xfb6916095ca1df60bb79ce92ce3ea74c37c5d359"
+        "refundAddress": "0xfb6916095ca1df60bb79ce92ce3ea74c37c5d359",
+        "value": "0"
       },
       "blockHash": "0x86a0d17255a65e6bd660dd7e8f747350c15bcc3d270b12ec9bd9ab16d189a3b3",
       "blockNumber": 2608034,
