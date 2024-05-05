@@ -6,7 +6,7 @@ TEST[DATE|TIME] Format:  json
 {
   "data": [
     {
-      "msg": "5 items totaling 1916 bytes were removed from the blocks cache."
+      "msg": "5 items totaling 1924 bytes were removed from the blocks cache."
     }
   ]
 }
