@@ -1,10 +1,9 @@
-slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&types=token&blocks=0-1500000&ether
-Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e types=token blocks=0-1500000 ether]
-Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"types":8,"ether":true}
+slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&types=token&blocks=0-1500000
+Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e types=token blocks=0-1500000]
+Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"types":8}
 Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 Blocks:  [0-1500000]
 Types:  [token]
-Ether:  true
 Caps:  cache,decache,raw,ether
 Format:  json
 {
@@ -24,7 +23,7 @@ Format:  json
       "timestamp": 1462055608,
       "to": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "transactionIndex": 2,
-      "value": "0.000000000000000001"
+      "value": "1"
     }
   ],
   "meta": {

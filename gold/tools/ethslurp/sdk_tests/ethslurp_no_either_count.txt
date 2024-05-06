@@ -1,23 +1,18 @@
-slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&appearances&source=key&count&page=2&perPage=12
-Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e blocks=0-1500000 appearances source=key count page=2 perPage=12]
-Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"appearances":true,"source":4,"count":true,"page":2,"perPage":12}
+slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&appearances&source=key&count&pageId=invalid&perPage=12
+Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e blocks=0-1500000 appearances source=key count pageId=invalid perPage=12]
+Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"appearances":true,"source":4,"count":true,"pageId":"invalid","perPage":12}
 Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 Blocks:  [0-1500000]
 Types:  [ext]
 Appearances:  true
 Source:  key
 Count:  true
-Page:  2
+PageId:  invalid
 PerPage:  12
 Caps:  cache,decache,raw,ether
 Format:  json
 {
-  "data": [
-    {
-      "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
-      "nRecords": 43
-    }
-  ],
+  "data": [],
   "meta": {
     "client": "0xdeadbeef",
     "finalized": "0xdeadbeef",
@@ -27,5 +22,9 @@ Format:  json
     "chainId": 1,
     "networkId": 1,
     "chain": "mainnet"
-  }
+  },
+  "errors": [
+    "502 Bad Gateway: 502",
+    "zero transactions reported, 0 fetched"
+  ]
 }

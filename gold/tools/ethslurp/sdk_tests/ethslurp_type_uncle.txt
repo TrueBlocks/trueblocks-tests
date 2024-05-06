@@ -1,10 +1,9 @@
-slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-1000&ether
-Args: [addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f types=uncles blocks=1-1000 ether]
-Opts: {"addrs":["0x05a56e2d52c817161883f50c441c3228cfe54d9f"],"blocks":["1-1000"],"types":128,"ether":true}
+slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-1000
+Args: [addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f types=uncles blocks=1-1000]
+Opts: {"addrs":["0x05a56e2d52c817161883f50c441c3228cfe54d9f"],"blocks":["1-1000"],"types":128}
 Addrs:  [0x05a56e2d52c817161883f50c441c3228cfe54d9f]
 Blocks:  [1-1000]
 Types:  [uncles]
-Ether:  true
 Caps:  cache,decache,raw,ether
 Format:  json
 {
@@ -16,7 +15,7 @@ Format:  json
       "timestamp": 1438272103,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 561,
@@ -25,7 +24,7 @@ Format:  json
       "timestamp": 1438271333,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 498,
@@ -34,7 +33,7 @@ Format:  json
       "timestamp": 1438271208,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 244,
@@ -43,7 +42,7 @@ Format:  json
       "timestamp": 1438270734,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 54,
@@ -52,7 +51,7 @@ Format:  json
       "timestamp": 1438270316,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     }
   ],
   "meta": {

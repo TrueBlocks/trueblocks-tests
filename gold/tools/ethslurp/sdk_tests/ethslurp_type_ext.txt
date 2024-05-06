@@ -1,10 +1,9 @@
-slurp?addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346&types=ext&blocks=0-7000000&ether
-Args: [addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346 types=ext blocks=0-7000000 ether]
-Opts: {"addrs":["0x1324e7b922b30B49Ab8EA81086341cc41C249346"],"blocks":["0-7000000"],"types":2,"ether":true}
+slurp?addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346&types=ext&blocks=0-7000000
+Args: [addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346 types=ext blocks=0-7000000]
+Opts: {"addrs":["0x1324e7b922b30B49Ab8EA81086341cc41C249346"],"blocks":["0-7000000"],"types":2}
 Addrs:  [0x1324e7b922b30b49ab8ea81086341cc41c249346]
 Blocks:  [0-7000000]
 Types:  [ext]
-Ether:  true
 Caps:  cache,decache,raw,ether
 Format:  json
 {
@@ -22,7 +21,7 @@ Format:  json
       "timestamp": 1495165137,
       "to": "0x1324e7b922b30b49ab8ea81086341cc41c249346",
       "transactionIndex": 16,
-      "value": "26911.71373498"
+      "value": "26911713734980000000000"
     },
     {
       "blockHash": "0xb16325508885d09880efb6111b5e450f934e77155db250e47e4bc0bfb937b8cf",
@@ -37,7 +36,7 @@ Format:  json
       "timestamp": 1495165176,
       "to": "0x1324e7b922b30b49ab8ea81086341cc41c249346",
       "transactionIndex": 17,
-      "value": "157900.169159979996854272"
+      "value": "157900169159979996854272"
     },
     {
       "blockHash": "0xe89f481688f749769778b42a9a6ce36c38119ac195236067b14bd9f4ee4cdc22",
@@ -53,7 +52,7 @@ Format:  json
       "timestamp": 1495166269,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
       "transactionIndex": 2,
-      "value": "184811"
+      "value": "184811000000000000000000"
     },
     {
       "blockHash": "0x4df7282b34c517f77b2ca33dda9e19b008fdfa3a83513abc6cab7be3a2c2e91f",
@@ -101,7 +100,7 @@ Format:  json
       "timestamp": 1496159345,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
       "transactionIndex": 57,
-      "value": "184761"
+      "value": "184761000000000000000000"
     },
     {
       "blockHash": "0xa697ec9e97b0d424a48209d676d7bc4be05fbf6e8e987b6144f29a93e379c845",
@@ -149,7 +148,7 @@ Format:  json
       "timestamp": 1496855525,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
       "transactionIndex": 8,
-      "value": "184400"
+      "value": "184400000000000000000000"
     },
     {
       "blockHash": "0xfd7b0cca844f99c173ece9156cf34c2f61312b0f784495732e8feb71292e875b",
@@ -197,7 +196,7 @@ Format:  json
       "timestamp": 1500167743,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
       "transactionIndex": 10,
-      "value": "10000"
+      "value": "10000000000000000000000"
     },
     {
       "blockHash": "0x03fc27f0b4b3dd0054a65a64001a361fe6e5304c28b6fa13ae3039db26ff08be",
@@ -228,7 +227,7 @@ Format:  json
       "timestamp": 1508195529,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 4,
-      "value": "6928"
+      "value": "6928000000000000000000"
     },
     {
       "blockHash": "0xc41bdd8e26c0bc5bf5d0a42dff0376a3dd80f14150b74dfb3ec5a73f5882229a",
@@ -243,7 +242,7 @@ Format:  json
       "timestamp": 1509070659,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 28,
-      "value": "4027"
+      "value": "4027000000000000000000"
     },
     {
       "blockHash": "0x1eb21a1bb4be1ab4e1c65818962647f34f4e5d1aec27ec1edd3bdbbe4b667bab",
@@ -258,7 +257,7 @@ Format:  json
       "timestamp": 1509721694,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 49,
-      "value": "8361"
+      "value": "8361000000000000000000"
     },
     {
       "blockHash": "0xda49b6dfab1b72379103a2099f739f9d45c824efcc73fc5b72e43cead0f496d4",
@@ -273,7 +272,7 @@ Format:  json
       "timestamp": 1510026020,
       "to": "0x2586e4b30c581ee20af694495dbcf98daecde75e",
       "transactionIndex": 3,
-      "value": "300"
+      "value": "300000000000000000000"
     },
     {
       "blockHash": "0xe3229b673e377163d88769b9ca4481ccd88c61cef785b99b80aff2ed9d67f9a0",
@@ -288,7 +287,7 @@ Format:  json
       "timestamp": 1510580015,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 9,
-      "value": "5080"
+      "value": "5080000000000000000000"
     },
     {
       "blockHash": "0xa6a9821655a6d2293040157eac4d3ae37af849775559af3df6bf2ae4ca7ec12b",
@@ -303,7 +302,7 @@ Format:  json
       "timestamp": 1511187061,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 39,
-      "value": "7822"
+      "value": "7822000000000000000000"
     },
     {
       "blockHash": "0x3cf2b296a883085db99b50cce138b5e8dbaa804cdb3ee4f74055f31698742bc9",
@@ -318,7 +317,7 @@ Format:  json
       "timestamp": 1511643927,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 23,
-      "value": "11000"
+      "value": "11000000000000000000000"
     },
     {
       "blockHash": "0x3a68211d732f2d18a7151205b46d6049cf3a493077abfb80f70c0d14cd1f45d6",
@@ -333,7 +332,7 @@ Format:  json
       "timestamp": 1511802572,
       "to": "0x1324e7b922b30b49ab8ea81086341cc41c249346",
       "transactionIndex": 98,
-      "value": "0.005"
+      "value": "5000000000000000"
     },
     {
       "blockHash": "0xe78966c248935c6bdd5744c37110cbe15c5248ed13b7676d6dc6cb560c2f8039",
@@ -348,7 +347,7 @@ Format:  json
       "timestamp": 1512446193,
       "to": "0xeb31acbf35b4e48ae39c8c62bb5674cf9d7c4fbe",
       "transactionIndex": 174,
-      "value": "2000"
+      "value": "2000000000000000000000"
     },
     {
       "blockHash": "0x34212d3617c451680e91ddd35e84c42028cbc0adc5764725b82d04fd6aa8426b",
@@ -363,7 +362,7 @@ Format:  json
       "timestamp": 1512854395,
       "to": "0x2586e4b30c581ee20af694495dbcf98daecde75e",
       "transactionIndex": 93,
-      "value": "250"
+      "value": "250000000000000000000"
     },
     {
       "blockHash": "0xf82e6824e1bbeebcd628973cc7fd6b015299f06bb872b5d6e1fe4cbe9e65434d",
@@ -378,7 +377,7 @@ Format:  json
       "timestamp": 1513356242,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 162,
-      "value": "2032"
+      "value": "2032000000000000000000"
     },
     {
       "blockHash": "0x8aa0ea152242f48eb28fc0f126f6a1749bfd48140769d9af1529ce617c1d0de7",
@@ -393,7 +392,7 @@ Format:  json
       "timestamp": 1513474157,
       "to": "0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae",
       "transactionIndex": 57,
-      "value": "6435"
+      "value": "6435000000000000000000"
     },
     {
       "blockHash": "0xad361b37175a4048d3a433add061dcf2de464f9d821563fc47be275fea31799c",
@@ -408,7 +407,7 @@ Format:  json
       "timestamp": 1513618474,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 309,
-      "value": "2713"
+      "value": "2713000000000000000000"
     },
     {
       "blockHash": "0xaceaec9812345997c38c62a0b9cdda29fca4af65aaa1f154d54987a09348c254",
@@ -423,7 +422,7 @@ Format:  json
       "timestamp": 1513693912,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 200,
-      "value": "3883"
+      "value": "3883000000000000000000"
     },
     {
       "blockHash": "0x10e04d16f942d5a1e7d0f30b36d2137e87391fa601dcdd92a45059160c70cf08",
@@ -438,7 +437,7 @@ Format:  json
       "timestamp": 1514933132,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 147,
-      "value": "4023"
+      "value": "4023000000000000000000"
     },
     {
       "blockHash": "0x6afbbf73e0b2f40d01ce2ce663026064b6f8ab99d8abebf86be147d0a4d25c79",
@@ -453,7 +452,7 @@ Format:  json
       "timestamp": 1515154150,
       "to": "0x53e0f8fdef22017eeb48061e3421d1ad8a102188",
       "transactionIndex": 130,
-      "value": "28.7401"
+      "value": "28740100000000000000"
     },
     {
       "blockHash": "0xb885b734aa40dbd962f2fd0a8a3823186f0b47e1fd975615a5c415be89276ed7",
@@ -468,7 +467,7 @@ Format:  json
       "timestamp": 1515491792,
       "to": "0x2586e4b30c581ee20af694495dbcf98daecde75e",
       "transactionIndex": 63,
-      "value": "150"
+      "value": "150000000000000000000"
     },
     {
       "blockHash": "0x0e95c7d65bad6a874d3bd13ead4e62e8c0669e276292078d0fad262f959e2268",
@@ -483,7 +482,7 @@ Format:  json
       "timestamp": 1515804089,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 240,
-      "value": "4706"
+      "value": "4706000000000000000000"
     },
     {
       "blockHash": "0xaa41ccab5c846ee80fa4a1307d31075ba6ae30755b88250169e424eaf8007a1f",
@@ -498,7 +497,7 @@ Format:  json
       "timestamp": 1518562780,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 17,
-      "value": "7143"
+      "value": "7143000000000000000000"
     },
     {
       "blockHash": "0xcc4932f900135117aa5e81584707aeda9a1ec7b59f5c8bef51b82cfe48b0b0b2",
@@ -513,7 +512,7 @@ Format:  json
       "timestamp": 1520270690,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 10,
-      "value": "7560"
+      "value": "7560000000000000000000"
     },
     {
       "blockHash": "0xc06f50acb07e6af500d40e15d16832f0b484704e735b0bd802ed0badc1d1c1e7",
@@ -528,7 +527,7 @@ Format:  json
       "timestamp": 1521621484,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 25,
-      "value": "8950"
+      "value": "8950000000000000000000"
     },
     {
       "blockHash": "0xfb90a242a46bf0c82a35b6530522ed853020f4f60b861af5e18f6798a9010869",
@@ -543,7 +542,7 @@ Format:  json
       "timestamp": 1522089081,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 45,
-      "value": "11702"
+      "value": "11702000000000000000000"
     },
     {
       "blockHash": "0xbe651345d0b6ee9ec4e2e11369662710dd85eedc0ce5a7c35aad53d26b3a805c",
@@ -558,7 +557,7 @@ Format:  json
       "timestamp": 1523317722,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 127,
-      "value": "18735"
+      "value": "18735000000000000000000"
     },
     {
       "blockHash": "0xc0e3375228cadd6293426cf10a84cb086e061818ed53c263fc4dacfdf86dd9f5",
@@ -573,7 +572,7 @@ Format:  json
       "timestamp": 1523919376,
       "to": "0x2586e4b30c581ee20af694495dbcf98daecde75e",
       "transactionIndex": 184,
-      "value": "350"
+      "value": "350000000000000000000"
     },
     {
       "blockHash": "0x3cdd11a7bc9651dd8157c4892abeaa9a9da8b5cad08b8fb3407cb23eee41bc37",
@@ -588,7 +587,7 @@ Format:  json
       "timestamp": 1525057650,
       "to": "0x2586e4b30c581ee20af694495dbcf98daecde75e",
       "transactionIndex": 41,
-      "value": "1305"
+      "value": "1305000000000000000000"
     },
     {
       "blockHash": "0x0cd19272663850f22d7a9f2c942acb857527440b0add402b1562ada1e70199a1",
@@ -603,7 +602,7 @@ Format:  json
       "timestamp": 1525058158,
       "to": "0x1324e7b922b30b49ab8ea81086341cc41c249346",
       "transactionIndex": 110,
-      "value": "3190"
+      "value": "3190000000000000000000"
     },
     {
       "blockHash": "0x151f6b01d862bf57ef7edf093d31764d57f6e80f3e06380398b85aedeb32514b",
@@ -618,7 +617,7 @@ Format:  json
       "timestamp": 1525075516,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 168,
-      "value": "3190"
+      "value": "3190000000000000000000"
     },
     {
       "blockHash": "0xf4b57ba085e47720a521f2aa5e4258c2375104f303db43179da4067f4e1a0651",
@@ -633,7 +632,7 @@ Format:  json
       "timestamp": 1525674068,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 25,
-      "value": "6667"
+      "value": "6667000000000000000000"
     },
     {
       "blockHash": "0x86f9dcb3dd1d8e14371a19ef69eccfa97d56d94d69e70e9863f367a5f8c994ab",
@@ -648,7 +647,7 @@ Format:  json
       "timestamp": 1526997570,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 146,
-      "value": "1460"
+      "value": "1460000000000000000000"
     },
     {
       "blockHash": "0xb295fb2d23738b276c3f016dc5e3453e3f63900914c8e6b32820bff7be348042",
@@ -663,7 +662,7 @@ Format:  json
       "timestamp": 1528425729,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 88,
-      "value": "6000"
+      "value": "6000000000000000000000"
     }
   ],
   "meta": {
