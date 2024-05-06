@@ -1,4 +1,4 @@
-slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-1000&fmt=json&ether
+slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-1000&fmt=json
 {
   "data": [
     {
@@ -8,7 +8,7 @@ slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-100
       "timestamp": 1438272103,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 561,
@@ -17,7 +17,7 @@ slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-100
       "timestamp": 1438271333,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 498,
@@ -26,7 +26,7 @@ slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-100
       "timestamp": 1438271208,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 244,
@@ -35,7 +35,7 @@ slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-100
       "timestamp": 1438270734,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     },
     {
       "blockNumber": 54,
@@ -44,7 +44,7 @@ slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-100
       "timestamp": 1438270316,
       "to": "0x05a56e2d52c817161883f50c441c3228cfe54d9f",
       "transactionIndex": 99998,
-      "value": "3.75"
+      "value": "3750000000000000000"
     }
   ],
   "meta": {

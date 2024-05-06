@@ -1,11 +1,6 @@
 slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&appearances&source=etherscan&count&page=2&fmt=json
 {
-  "data": [
-    {
-      "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
-      "nRecords": 19
-    }
-  ],
+  "data": [],
   "meta": {
     "client": "0xdeadbeef",
     "finalized": "0xdeadbeef",
@@ -15,5 +10,8 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&appearan
     "chainId": 1,
     "networkId": 1,
     "chain": "mainnet"
-  }
+  },
+  "errors": [
+    "zero transactions reported, 0 fetched"
+  ]
 }
