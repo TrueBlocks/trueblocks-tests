@@ -4,6 +4,7 @@ slurp?addrs=0xdefae2ee3146e258a4383c15bb90239e85ba3cad&types=withdrawals&blocks=
     {
       "blockNumber": 17034904,
       "date": "2023-04-12 22:36:23 UTC",
+      "ether": "0.00000000289964411",
       "from": "0x000000000000000000005769746864726177616c",
       "timestamp": 1681338983,
       "to": "0xdefae2ee3146e258a4383c15bb90239e85ba3cad",
