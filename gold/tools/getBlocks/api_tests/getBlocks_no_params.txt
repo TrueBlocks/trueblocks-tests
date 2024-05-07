@@ -1,6 +1,6 @@
 blocks?
 {
   "errors": [
-    "Please supply either a block identifier or the --list_count option."
+    "Please supply at least one block identifier."
   ]
 }
