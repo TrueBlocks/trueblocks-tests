@@ -14,10 +14,16 @@ Format:  json
       "blockFreq": 1586,
       "blockSpan": 20629,
       "count": 13,
-      "firstApp": "8855603.121",
+      "firstApp": {
+        "blockNumber": 8855603,
+        "transactionIndex": 121
+      },
       "firstDate": "2019-11-01 23:31:45 UTC",
       "firstTs": 1572651105,
-      "latestApp": "8876232.84",
+      "latestApp": {
+        "blockNumber": 8876232,
+        "transactionIndex": 84
+      },
       "latestDate": "2019-11-05 07:18:48 UTC",
       "latestTs": 1572938328
     }
