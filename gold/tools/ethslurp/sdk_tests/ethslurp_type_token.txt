@@ -1,9 +1,10 @@
-slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&types=token&blocks=0-1500000
-Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e types=token blocks=0-1500000]
-Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"types":8}
+slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&types=token&blocks=0-1500000&ether
+Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e types=token blocks=0-1500000 ether]
+Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"types":8,"ether":true}
 Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 Blocks:  [0-1500000]
 Types:  [token]
+Ether:  true
 Caps:  cache,decache,raw,ether
 Format:  json
 {
@@ -13,6 +14,7 @@ Format:  json
       "blockNumber": 1434022,
       "contractAddress": "0x89205a3a3b2a69de6dbf7f01ed13b2108b2c43e7",
       "date": "2016-04-30 22:33:28 UTC",
+      "ether": "0.000000000000000001",
       "from": "0xfd23407a31f54413e32043adb7b1ee61a6e04027",
       "gas": 136032,
       "gasCost": 720640000000000,

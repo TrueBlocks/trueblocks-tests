@@ -13,6 +13,6 @@ TEST[DATE|TIME] Format:  json
   "data": [],
   "errors": [
     "502 Bad Gateway: 502",
-    "no id for requested page"
+    "zero transactions reported, 0 fetched"
   ]
 }
