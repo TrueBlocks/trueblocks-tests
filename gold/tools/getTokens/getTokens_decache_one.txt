@@ -5,4 +5,4 @@ TEST[DATE|TIME] Parts:  [all]
 TEST[DATE|TIME] Decache:  true
 TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  txt
-EROR[DATE|TIME] Not implemented yet.
+EROR[DATE|TIME] chifra tokens --decache is not yet implemented

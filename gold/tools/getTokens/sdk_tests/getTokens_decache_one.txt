@@ -7,7 +7,7 @@ Parts:  [all]
 Decache:  true
 Caps:  cache,decache
 Format:  json
-Not implemented yet.
+chifra tokens --decache is not yet implemented
 {
   "data": [],
   "meta": {
