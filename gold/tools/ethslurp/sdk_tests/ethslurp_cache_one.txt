@@ -14,6 +14,7 @@ Format:  json
       "blockHash": "0x4d372256ad75e54ee85de19d9a058c07c220631b3e74355662a9b77927489642",
       "blockNumber": 4186279,
       "date": "2017-08-21 14:59:34 UTC",
+      "ether": "1",
       "from": "0xae041ae80fac16891184be898c4359ccda01fa76",
       "gas": 21000,
       "gasCost": 1260000000000000,

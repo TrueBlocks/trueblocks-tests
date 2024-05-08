@@ -9,8 +9,10 @@ TEST[DATE|TIME] Page:  2
 TEST[DATE|TIME] Caps:  cache,decache,raw,ether
 TEST[DATE|TIME] Format:  json
 {
-  "data": [],
-  "errors": [
-    "404 Not Found: 404"
+  "data": [
+    {
+      "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
+      "nRecords": 20
+    }
   ]
 }

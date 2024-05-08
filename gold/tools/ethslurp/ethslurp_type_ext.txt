@@ -704,7 +704,7 @@ TEST[DATE|TIME] Format:  json
       "timestamp": 1528425729,
       "to": "0xacd5774a14a5624ed9836c6c7025338cb3b7704b",
       "transactionIndex": 88,
-      "value": "6000"
+      "value": "6000000000000000000000"
     }
   ]
 }

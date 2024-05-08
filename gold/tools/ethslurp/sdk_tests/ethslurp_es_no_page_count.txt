@@ -10,12 +10,7 @@ Page:  2
 Caps:  cache,decache,raw,ether
 Format:  json
 {
-  "data": [
-    {
-      "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
-      "nRecords": 19
-    }
-  ],
+  "data": [],
   "meta": {
     "client": "0xdeadbeef",
     "finalized": "0xdeadbeef",
@@ -25,5 +20,8 @@ Format:  json
     "chainId": 1,
     "networkId": 1,
     "chain": "mainnet"
-  }
+  },
+  "errors": [
+    "zero transactions reported, 0 fetched"
+  ]
 }

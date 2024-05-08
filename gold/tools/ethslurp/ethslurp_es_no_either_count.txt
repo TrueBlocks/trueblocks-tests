@@ -12,7 +12,7 @@ TEST[DATE|TIME] Format:  json
   "data": [
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
-      "nRecords": 19
+      "nRecords": 7
     }
   ]
 }
