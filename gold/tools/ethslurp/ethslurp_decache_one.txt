@@ -5,4 +5,4 @@ TEST[DATE|TIME] Types:  [ext]
 TEST[DATE|TIME] Decache:  true
 TEST[DATE|TIME] Caps:  cache,decache,raw,ether
 TEST[DATE|TIME] Format:  txt
-EROR[DATE|TIME] Not implemented yet.
+EROR[DATE|TIME] chifra slurp --decache is not yet implemented
