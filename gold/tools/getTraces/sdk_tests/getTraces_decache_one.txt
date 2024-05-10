@@ -8,7 +8,7 @@ Format:  json
 {
   "data": [
     {
-      "msg": "2 items totaling 792 bytes were removed from the traces cache."
+      "msg": "2 items totaling 784 bytes were removed from the traces cache."
     }
   ],
   "meta": {
