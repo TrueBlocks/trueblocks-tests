@@ -86,7 +86,7 @@ TEST[DATE|TIME] Format:  json
           "nFolders": 456,
           "path": "--paths--",
           "sizeInBytes": 789,
-          "type": "resultsCache"
+          "type": "logsCache"
         },
         {
           "items": [],
@@ -95,7 +95,16 @@ TEST[DATE|TIME] Format:  json
           "nFolders": 456,
           "path": "--paths--",
           "sizeInBytes": 789,
-          "type": "logsCache"
+          "type": "receiptsCache"
+        },
+        {
+          "items": [],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "resultsCache"
         },
         {
           "items": [],
@@ -150,6 +159,15 @@ TEST[DATE|TIME] Format:  json
           "path": "--paths--",
           "sizeInBytes": 789,
           "type": "transactionsCache"
+        },
+        {
+          "items": [],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "withdrawalsCache"
         }
       ],
       "chainConfig": "--paths--",

@@ -174,15 +174,6 @@ Format:  json
           "type": "blocksCache"
         },
         {
-          "items": [],
-          "lastCached": "--lastCached--",
-          "nFiles": 123,
-          "nFolders": 456,
-          "path": "--paths--",
-          "sizeInBytes": 789,
-          "type": "resultsCache"
-        },
-        {
           "items": [
             {
               "fileDate": "--fileDate--",
@@ -197,6 +188,37 @@ Format:  json
           "path": "--paths--",
           "sizeInBytes": 789,
           "type": "logsCache"
+        },
+        {
+          "items": [
+            {
+              "fileDate": "--fileDate--",
+              "filename": "$cachePath/data-model/file.bin",
+              "itemType": "receiptsCacheItem",
+              "sizeInBytes": 123456789
+            },
+            {
+              "fileDate": "--fileDate--",
+              "filename": "$cachePath/data-model/file.bin",
+              "itemType": "receiptsCacheItem",
+              "sizeInBytes": 123456789
+            }
+          ],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "receiptsCache"
+        },
+        {
+          "items": [],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "resultsCache"
         },
         {
           "items": [],
@@ -277,6 +299,15 @@ Format:  json
           "path": "--paths--",
           "sizeInBytes": 789,
           "type": "transactionsCache"
+        },
+        {
+          "items": [],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "withdrawalsCache"
         }
       ],
       "chainConfig": "--paths--",

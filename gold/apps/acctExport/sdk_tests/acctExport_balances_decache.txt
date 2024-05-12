@@ -8,6 +8,8 @@ Format:  json
 0 items totaling 0 bytes were removed from the statements cache.
 0 items totaling 0 bytes were removed from the traces cache.
 0 items totaling 0 bytes were removed from the transactions cache.
+0 items totaling 0 bytes were removed from the receipts cache.
+0 items totaling 0 bytes were removed from the withdrawals cache.
 {
   "data": [
     {

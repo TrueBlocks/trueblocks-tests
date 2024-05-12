@@ -83,7 +83,7 @@ status?modes=all&maxRecords=100
           "nFolders": 456,
           "path": "--paths--",
           "sizeInBytes": 789,
-          "type": "resultsCache"
+          "type": "logsCache"
         },
         {
           "items": [],
@@ -92,7 +92,16 @@ status?modes=all&maxRecords=100
           "nFolders": 456,
           "path": "--paths--",
           "sizeInBytes": 789,
-          "type": "logsCache"
+          "type": "receiptsCache"
+        },
+        {
+          "items": [],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "resultsCache"
         },
         {
           "items": [],
@@ -147,6 +156,15 @@ status?modes=all&maxRecords=100
           "path": "--paths--",
           "sizeInBytes": 789,
           "type": "transactionsCache"
+        },
+        {
+          "items": [],
+          "lastCached": "--lastCached--",
+          "nFiles": 123,
+          "nFolders": 456,
+          "path": "--paths--",
+          "sizeInBytes": 789,
+          "type": "withdrawalsCache"
         }
       ],
       "chainConfig": "--paths--",
