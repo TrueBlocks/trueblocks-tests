@@ -2,6 +2,21 @@ export?addrs=0x04fe1f0c597fbc65700f4fba6f87501edc20e665&firstBlock=10277780&last
 {
   "data": [
     {
+      "msg": "0 items totaling 0 bytes were removed from the statements cache."
+    },
+    {
+      "msg": "0 items totaling 0 bytes were removed from the traces cache."
+    },
+    {
+      "msg": "1 items totaling 834 bytes were removed from the transactions cache."
+    },
+    {
+      "msg": "0 items totaling 0 bytes were removed from the receipts cache."
+    },
+    {
+      "msg": "0 items totaling 0 bytes were removed from the withdrawals cache."
+    },
+    {
       "msg": "Monitor for 0x04fe1f0c597fbc65700f4fba6f87501edc20e665 was permanently removed."
     }
   ],
