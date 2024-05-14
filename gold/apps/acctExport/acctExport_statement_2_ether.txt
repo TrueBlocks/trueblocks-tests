@@ -1,9 +1,10 @@
-chifra export  0x08166f02313feae18bb044e7877c808b55b5bf58 --accounting --statements --last_block 4000000 --fmt json --output statement_2_out.file
+chifra export  0x08166f02313feae18bb044e7877c808b55b5bf58 --accounting --statements --last_block 4000000 --fmt json --ether --output statement_2_ether_out.file
 TEST[DATE|TIME] Addrs:  [0x08166f02313feae18bb044e7877c808b55b5bf58]
 TEST[DATE|TIME] Accounting:  true
 TEST[DATE|TIME] Statements:  true
 TEST[DATE|TIME] LastBlock:  4000000
-TEST[DATE|TIME] OutputFn:  statement_2_out.file
+TEST[DATE|TIME] Ether:  true
+TEST[DATE|TIME] OutputFn:  statement_2_ether_out.file
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 INFO[DATE|TIME] { "outputFilename": "--output_filename--" }
@@ -26,7 +27,7 @@ TEST[DATE|TIME] reconciliationType:     genesis
 TEST[DATE|TIME] assetType:              eth
 TEST[DATE|TIME] accountedFor:           0x08166f02313feae18bb044e7877c808b55b5bf58
 TEST[DATE|TIME] sender:                 0x0000000000000000000000000050726566756e64  ==>  0x08166f02313feae18bb044e7877c808b55b5bf58
-TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (WEI) decimals: 18
+TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (ETH) decimals: 18
 TEST[DATE|TIME] hash:                   0x0000000000000000000000000000000000000000000000000000000000000000
 TEST[DATE|TIME] timestamp:              1438269975
 TEST[DATE|TIME] blockNumber:            0.270
@@ -62,7 +63,7 @@ TEST[DATE|TIME] reconciliationType:     genesis
 TEST[DATE|TIME] assetType:              trace-eth
 TEST[DATE|TIME] accountedFor:           0x08166f02313feae18bb044e7877c808b55b5bf58
 TEST[DATE|TIME] sender:                 0x0000000000000000000000000050726566756e64  ==>  0x08166f02313feae18bb044e7877c808b55b5bf58
-TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (WEI) decimals: 18
+TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (ETH) decimals: 18
 TEST[DATE|TIME] hash:                   0x0000000000000000000000000000000000000000000000000000000000000000
 TEST[DATE|TIME] timestamp:              1438269975
 TEST[DATE|TIME] blockNumber:            0.270.0
@@ -95,7 +96,7 @@ TEST[DATE|TIME] reconciliationType:     diff-diff
 TEST[DATE|TIME] assetType:              eth
 TEST[DATE|TIME] accountedFor:           0x08166f02313feae18bb044e7877c808b55b5bf58
 TEST[DATE|TIME] sender:                 0x08166f02313feae18bb044e7877c808b55b5bf58  ==>  0xad00b7a324f31351d397408c8c3952ea198317eb
-TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (WEI) decimals: 18
+TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (ETH) decimals: 18
 TEST[DATE|TIME] hash:                   0x10893338fa5633ab747450b8698457fb047098f87f78e98b3dbee3134067b6b8
 TEST[DATE|TIME] timestamp:              1438927408
 TEST[DATE|TIME] blockNumber:            46685.0
@@ -129,7 +130,7 @@ TEST[DATE|TIME] reconciliationType:     diff-last
 TEST[DATE|TIME] assetType:              eth
 TEST[DATE|TIME] accountedFor:           0x08166f02313feae18bb044e7877c808b55b5bf58
 TEST[DATE|TIME] sender:                 0x08166f02313feae18bb044e7877c808b55b5bf58  ==>  0xad00b7a324f31351d397408c8c3952ea198317eb
-TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (WEI) decimals: 18
+TEST[DATE|TIME] assetAddr:              0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (ETH) decimals: 18
 TEST[DATE|TIME] hash:                   0x10d5c5f2386c6d6d93ca6b43fa25e8679971d07448db8d6c81d856ff3c3c001a
 TEST[DATE|TIME] timestamp:              1438927854
 TEST[DATE|TIME] blockNumber:            46709.0
@@ -152,137 +153,208 @@ TEST[DATE|TIME]    reconciled:          true
 TEST[DATE|TIME] ---------------------------------------------------
 TEST[DATE|TIME] End of trial balance report
 ----
-Results in ./statement_2_out.file
+Results in ./statement_2_ether_out.file
 {
   "data": [
     {
       "accountedFor": "0x08166f02313feae18bb044e7877c808b55b5bf58",
       "amountIn": "0",
+      "amountIn-eth": "0",
       "amountNet": "0",
+      "amountNet-eth": "0",
       "amountOut": "0",
+      "amountOut-eth": "0",
       "assetAddr": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "assetSymbol": "WEI",
+      "assetSymbol": "ETH",
       "assetType": "trace-eth",
       "begBal": "89500000000000000",
+      "begBal-eth": "0.0895",
       "begBalDiff": "0",
+      "begBalDiff-eth": "0",
       "blockNumber": 0,
       "correctingIn": "0",
+      "correctingIn-eth": "0",
       "correctingOut": "0",
+      "correctingOut-eth": "0",
       "correctingReason": "",
       "date": "2015-07-30 15:26:15 UTC",
       "decimals": 18,
       "endBal": "1970000000000000000000",
+      "endBal-eth": "1970",
       "endBalCalc": "89500000000000000",
+      "endBalCalc-eth": "0.0895",
       "endBalDiff": "-1969910500000000000000",
+      "endBalDiff-eth": "-1969.9105",
       "gasOut": "0",
+      "gasOut-eth": "0",
       "internalIn": "0",
+      "internalIn-eth": "0",
       "internalOut": "0",
+      "internalOut-eth": "0",
       "logIndex": 0,
       "minerBaseRewardIn": "0",
+      "minerBaseRewardIn-eth": "0",
       "minerNephewRewardIn": "0",
+      "minerNephewRewardIn-eth": "0",
       "minerTxFeeIn": "0",
+      "minerTxFeeIn-eth": "0",
       "minerUncleRewardIn": "0",
+      "minerUncleRewardIn-eth": "0",
       "prefundIn": "0",
+      "prefundIn-eth": "0",
       "priceSource": "eth-not-priced-pre-maker",
       "recipient": "0x08166f02313feae18bb044e7877c808b55b5bf58",
       "reconciled": false,
       "reconciliationType": "genesis",
       "selfDestructIn": "0",
+      "selfDestructIn-eth": "0",
       "selfDestructOut": "0",
+      "selfDestructOut-eth": "0",
       "sender": "0x0000000000000000000000000050726566756e64",
       "spotPrice": 0,
       "timestamp": 1438269975,
       "totalIn": "0",
+      "totalIn-eth": "0",
       "totalOut": "0",
+      "totalOut-eth": "0",
       "totalOutLessGas": "0",
+      "totalOutLessGas-eth": "0",
       "transactionHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "transactionIndex": 270
     },
     {
       "accountedFor": "0x08166f02313feae18bb044e7877c808b55b5bf58",
       "amountIn": "0",
+      "amountIn-eth": "0",
       "amountNet": "-5010500000000000000",
+      "amountNet-eth": "-5.0105",
       "amountOut": "5000000000000000000",
+      "amountOut-eth": "5",
       "assetAddr": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "assetSymbol": "WEI",
+      "assetSymbol": "ETH",
       "assetType": "eth",
       "begBal": "1970000000000000000000",
+      "begBal-eth": "1970",
       "begBalDiff": "0",
+      "begBalDiff-eth": "0",
       "blockNumber": 46685,
       "correctingIn": "0",
+      "correctingIn-eth": "0",
       "correctingOut": "0",
+      "correctingOut-eth": "0",
       "correctingReason": "",
       "date": "2015-08-07 06:03:28 UTC",
       "decimals": 18,
       "endBal": "1964989500000000000000",
+      "endBal-eth": "1964.9895",
       "endBalCalc": "1964989500000000000000",
+      "endBalCalc-eth": "1964.9895",
       "endBalDiff": "0",
+      "endBalDiff-eth": "0",
       "gasOut": "10500000000000000",
+      "gasOut-eth": "0.0105",
       "internalIn": "0",
+      "internalIn-eth": "0",
       "internalOut": "0",
+      "internalOut-eth": "0",
       "logIndex": 0,
       "minerBaseRewardIn": "0",
+      "minerBaseRewardIn-eth": "0",
       "minerNephewRewardIn": "0",
+      "minerNephewRewardIn-eth": "0",
       "minerTxFeeIn": "0",
+      "minerTxFeeIn-eth": "0",
       "minerUncleRewardIn": "0",
+      "minerUncleRewardIn-eth": "0",
       "prefundIn": "0",
+      "prefundIn-eth": "0",
       "prevBal": "1970000000000000000000",
+      "prevBal-eth": "1970",
       "priceSource": "eth-not-priced-pre-maker",
       "recipient": "0xad00b7a324f31351d397408c8c3952ea198317eb",
       "reconciled": true,
       "reconciliationType": "diff-diff",
       "selfDestructIn": "0",
+      "selfDestructIn-eth": "0",
       "selfDestructOut": "0",
+      "selfDestructOut-eth": "0",
       "sender": "0x08166f02313feae18bb044e7877c808b55b5bf58",
       "spotPrice": 0,
       "timestamp": 1438927408,
       "totalIn": "0",
+      "totalIn-eth": "0",
       "totalOut": "5010500000000000000",
+      "totalOut-eth": "5.0105",
       "totalOutLessGas": "5000000000000000000",
+      "totalOutLessGas-eth": "5",
       "transactionHash": "0x10893338fa5633ab747450b8698457fb047098f87f78e98b3dbee3134067b6b8",
       "transactionIndex": 0
     },
     {
       "accountedFor": "0x08166f02313feae18bb044e7877c808b55b5bf58",
       "amountIn": "0",
+      "amountIn-eth": "0",
       "amountNet": "-1964900000000000000000",
+      "amountNet-eth": "-1964.9",
       "amountOut": "1964889500000000000000",
+      "amountOut-eth": "1964.8895",
       "assetAddr": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "assetSymbol": "WEI",
+      "assetSymbol": "ETH",
       "assetType": "eth",
       "begBal": "1964989500000000000000",
+      "begBal-eth": "1964.9895",
       "begBalDiff": "0",
+      "begBalDiff-eth": "0",
       "blockNumber": 46709,
       "correctingIn": "0",
+      "correctingIn-eth": "0",
       "correctingOut": "0",
+      "correctingOut-eth": "0",
       "correctingReason": "",
       "date": "2015-08-07 06:10:54 UTC",
       "decimals": 18,
       "endBal": "89500000000000000",
+      "endBal-eth": "0.0895",
       "endBalCalc": "89500000000000000",
+      "endBalCalc-eth": "0.0895",
       "endBalDiff": "0",
+      "endBalDiff-eth": "0",
       "gasOut": "10500000000000000",
+      "gasOut-eth": "0.0105",
       "internalIn": "0",
+      "internalIn-eth": "0",
       "internalOut": "0",
+      "internalOut-eth": "0",
       "logIndex": 0,
       "minerBaseRewardIn": "0",
+      "minerBaseRewardIn-eth": "0",
       "minerNephewRewardIn": "0",
+      "minerNephewRewardIn-eth": "0",
       "minerTxFeeIn": "0",
+      "minerTxFeeIn-eth": "0",
       "minerUncleRewardIn": "0",
+      "minerUncleRewardIn-eth": "0",
       "prefundIn": "0",
+      "prefundIn-eth": "0",
       "prevBal": "1964989500000000000000",
+      "prevBal-eth": "1964.9895",
       "priceSource": "eth-not-priced-pre-maker",
       "recipient": "0xad00b7a324f31351d397408c8c3952ea198317eb",
       "reconciled": true,
       "reconciliationType": "diff-last",
       "selfDestructIn": "0",
+      "selfDestructIn-eth": "0",
       "selfDestructOut": "0",
+      "selfDestructOut-eth": "0",
       "sender": "0x08166f02313feae18bb044e7877c808b55b5bf58",
       "spotPrice": 0,
       "timestamp": 1438927854,
       "totalIn": "0",
+      "totalIn-eth": "0",
       "totalOut": "1964900000000000000000",
+      "totalOut-eth": "1964.9",
       "totalOutLessGas": "1964889500000000000000",
+      "totalOutLessGas-eth": "1964.8895",
       "transactionHash": "0x10d5c5f2386c6d6d93ca6b43fa25e8679971d07448db8d6c81d856ff3c3c001a",
       "transactionIndex": 0
     }
