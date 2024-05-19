@@ -4,7 +4,7 @@ Opts: {"transactions":["3657480.11 3657480.10"],"output":"output_test_file","app
 Transactions:  [3657480.11 3657480.10]
 OutputFn:  output_test_file
 Append:  true
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 { "outputFilename": "--output_filename--" }
 {

@@ -1,7 +1,7 @@
 chifra logs  15001001.0 15001001.1 --emitter 0x514910771af9ca656af840dff83e8264ecf986ca --emitter 0x9194fbb0363c5dc78bc918f888a5b87781bb9d00 --fmt json
 TEST[DATE|TIME] Transactions:  [15001001.0 15001001.1]
 TEST[DATE|TIME] Emitter:  [0x514910771af9ca656af840dff83e8264ecf986ca 0x9194fbb0363c5dc78bc918f888a5b87781bb9d00]
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  json
 {
   "data": [

@@ -1,7 +1,7 @@
 logs?
 Args: []
 Opts: {}
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "errors": [

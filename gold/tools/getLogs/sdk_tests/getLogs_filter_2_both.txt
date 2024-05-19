@@ -4,7 +4,7 @@ Opts: {"transactions":["15001001.0 15001001.1"],"emitter":["0x514910771af9ca656a
 Transactions:  [15001001.0 15001001.1]
 Emitter:  [0x514910771af9ca656af840dff83e8264ecf986ca 0x9194fbb0363c5dc78bc918f888a5b87781bb9d00]
 Topic:  [0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [

@@ -1,5 +1,5 @@
-logs?transactions=12.0&chain&verbose&output&append&cache&decache&raw&failOnPurpose
-Args: [transactions=12.0 chain verbose output append cache decache raw failOnPurpose]
+logs?transactions=12.0&chain&verbose&output&append&cache&decache&failOnPurpose
+Args: [transactions=12.0 chain verbose output append cache decache failOnPurpose]
 Opts: null
 {
   "errors": [

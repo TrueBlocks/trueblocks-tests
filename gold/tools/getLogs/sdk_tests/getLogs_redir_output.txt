@@ -3,7 +3,7 @@ Args: [transactions=3657480.12 3657480.9 output=output_test_file]
 Opts: {"transactions":["3657480.12 3657480.9"],"output":"output_test_file"}
 Transactions:  [3657480.12 3657480.9]
 OutputFn:  output_test_file
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 { "outputFilename": "--output_filename--" }
 {

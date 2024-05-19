@@ -2,7 +2,7 @@ logs?transactions=1233123
 Args: [transactions=1233123]
 Opts: {"transactions":["1233123"]}
 Transactions:  [1233123]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "errors": [

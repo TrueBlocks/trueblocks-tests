@@ -2,7 +2,7 @@ logs?transactions=0x6afbe0f0ea3613edd6b84b71260836c03bddce81604f05c81a070cd671d3
 Args: [transactions=0x6afbe0f0ea3613edd6b84b71260836c03bddce81604f05c81a070cd671d3d765]
 Opts: {"transactions":["0x6afbe0f0ea3613edd6b84b71260836c03bddce81604f05c81a070cd671d3d765"]}
 Transactions:  [0x6afbe0f0ea3613edd6b84b71260836c03bddce81604f05c81a070cd671d3d765]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [

@@ -2,7 +2,7 @@ logs?transactions=15001001.0%2015001001.1
 Args: [transactions=15001001.0 15001001.1]
 Opts: {"transactions":["15001001.0 15001001.1"]}
 Transactions:  [15001001.0 15001001.1]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [

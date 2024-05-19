@@ -1,6 +1,6 @@
 chifra logs  15001001.0 15001001.1 --fmt json
 TEST[DATE|TIME] Transactions:  [15001001.0 15001001.1]
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  json
 {
   "data": [
