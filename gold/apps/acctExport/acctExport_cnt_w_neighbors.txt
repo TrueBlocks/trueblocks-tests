@@ -34,7 +34,7 @@ Flags:
   -f, --flow string         for the accounting options only, export statements with incoming, outgoing, or zero value
                             One of [ in | out | zero ]
   -y, --factory             for --traces only, report addresses created by (or self-destructed by) the given address(es)
-  -u, --unripe              export transactions labeled upripe (i.e. less than 28 blocks old)
+  -u, --unripe              export transactions labeled unripe (i.e. less than 28 blocks old)
   -O, --load string         a comma separated list of dynamic traversers to load (hidden)
   -E, --reversed            produce results in reverse chronological order
   -z, --no_zero             for the --count option only, suppress the display of zero appearance accounts
@@ -57,4 +57,3 @@ Notes:
   - The --first_record and --max_record options are zero-based (as are the block options).
   - The _block and _record options are ignored when used with the --count option.
   - The --decache option will remove all cache items (blocks, txs, traces, recons) for the given address(es).
-
