@@ -27,9 +27,8 @@ Format:  json
       "blockNumber": 3191290,
       "error": "",
       "result": {
-        "address": "",
-        "code": "",
-        "gasUsed": "0x1ab6",
+        "address": "0x0",
+        "gasUsed": 6838,
         "output": "0x"
       },
       "subtraces": 1,
