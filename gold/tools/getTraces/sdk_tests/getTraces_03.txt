@@ -2,7 +2,7 @@ traces?transactions=0x17104ac9d3312d8c136b7f44d4b8b47852618065ebfa534bd2d3b5ef21
 Args: [transactions=0x17104ac9d3312d8c136b7f44d4b8b47852618065ebfa534bd2d3b5ef218ca1f3]
 Opts: {"transactions":["0x17104ac9d3312d8c136b7f44d4b8b47852618065ebfa534bd2d3b5ef218ca1f3"]}
 Transactions:  [0x17104ac9d3312d8c136b7f44d4b8b47852618065ebfa534bd2d3b5ef218ca1f3]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

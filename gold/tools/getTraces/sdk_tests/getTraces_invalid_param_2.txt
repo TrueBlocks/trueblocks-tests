@@ -2,7 +2,7 @@ traces?transactions=.whatever
 Args: [transactions=.whatever]
 Opts: {"transactions":[".whatever"]}
 Transactions:  [.whatever]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

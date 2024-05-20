@@ -3,7 +3,7 @@ Args: [transactions=3648669.24 chain=non-tracing]
 Opts: {"transactions":["3648669.24"],"chain":"non-tracing"}
 Transactions:  [3648669.24]
 Chain:  non-tracing
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

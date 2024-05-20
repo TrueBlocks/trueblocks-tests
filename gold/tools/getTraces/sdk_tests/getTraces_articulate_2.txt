@@ -4,7 +4,7 @@ Opts: {"transactions":["3648669.24"],"articulate":true,"verbose":true}
 Transactions:  [3648669.24]
 Articulate:  true
 Verbose:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

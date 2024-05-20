@@ -32,7 +32,7 @@ TEST[DATE|TIME] Format:  json
         "from": "0x91337a300e0361bddb2e377dd4e88ccb7796663d",
         "gas": 69000,
         "to": "0xe9475a01ba4095760d9f9c02b79c6e8094a30d74",
-        "value": "18446744073709551615"
+        "value": "100990000000000000000"
       },
       "blockHash": "0xc65ac7164218ff90ca8101c360f717c465da10bd63007b071c26dd7dedd41324",
       "blockNumber": 2222222,

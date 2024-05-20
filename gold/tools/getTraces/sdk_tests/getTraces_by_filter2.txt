@@ -2,7 +2,7 @@ traces?filter=0x2ed0c4!0x2ed128!!0x8bbb73bcb5d553b5a556358d27625323fd781d37!!
 Args: [filter=0x2ed0c4!0x2ed128!!0x8bbb73bcb5d553b5a556358d27625323fd781d37!!]
 Opts: {"filter":"0x2ed0c4!0x2ed128!!0x8bbb73bcb5d553b5a556358d27625323fd781d37!!"}
 Filter:  0x2ed0c4!0x2ed128!!0x8bbb73bcb5d553b5a556358d27625323fd781d37!!
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 map[after:0 count:18446744073709551615 fromAddress:0x0 fromBlock:3068100 toAddress:0x8bbb73bcb5d553b5a556358d27625323fd781d37 toBlock:3068200] {3068100 3068200}
 {

@@ -2,7 +2,7 @@ traces?transactions=4279119.46
 Args: [transactions=4279119.46]
 Opts: {"transactions":["4279119.46"]}
 Transactions:  [4279119.46]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

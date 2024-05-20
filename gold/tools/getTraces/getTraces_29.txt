@@ -1,7 +1,7 @@
 chifra traces  0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b --fmt json --ether
 TEST[DATE|TIME] Transactions:  [0xf9d426284bd20415a53991a004122b3a3a619b295ea98d1d88a5fd3a4125408b]
 TEST[DATE|TIME] Ether:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

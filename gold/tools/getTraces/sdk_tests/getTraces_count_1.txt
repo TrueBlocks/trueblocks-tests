@@ -3,7 +3,7 @@ Args: [transactions=1001001.0 1001001.0 2462000.* 14000201.0 count]
 Opts: {"transactions":["1001001.0 1001001.0 2462000.* 14000201.0"],"count":true}
 Transactions:  [1001001.0 1001001.0 2462000.* 14000201.0]
 Count:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

@@ -4,7 +4,7 @@ Opts: {"filter":"4370000!4370002","cache":true}
 Filter:  4370000!4370002
 Enabled:  traces, transactions
 Cache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 map[after:0 count:18446744073709551615 fromAddress:0x0 fromBlock:4370000 toAddress:0x0 toBlock:4370002] {4370000 4370002}
 {

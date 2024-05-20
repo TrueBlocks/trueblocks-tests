@@ -2,7 +2,7 @@ traces?verbose
 Args: [verbose]
 Opts: {"verbose":true}
 Verbose:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

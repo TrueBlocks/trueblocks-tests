@@ -1,30 +1,23 @@
-chifra traces  4000000.5 --raw
+chifra traces  4000000.5 --fmt json
 TEST[DATE|TIME] Transactions:  [4000000.5]
-TEST[DATE|TIME] ShowRaw:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
-TEST[DATE|TIME] Format:  txt
+TEST[DATE|TIME] Caps:  cache,decache,ether
+TEST[DATE|TIME] Format:  json
 {
   "data": [
     {
       "action": {
-        "address": "0x0",
-        "author": "0x0",
-        "balance": "0",
         "callType": "call",
         "from": "0x40584168524a928ae43b4e83893f963e467e9d73",
         "gas": 976936,
         "input": "0xa9059cbb00000000000000000000000043a4210390998945dc7658a20b43c6c4189ac7d4000000000000000000000000000000000000000000000000000000000a21fe80",
-        "refundAddress": "0x0",
-        "selfDestructed": "0x0",
         "to": "0x1a95b271b0535d15fa49932daba31ba612b52946",
         "value": "0"
       },
       "blockHash": "0xb8a3f7f5cfc1748f91a684f20fe89031202cbadcd15078c49b85ec2a57f43853",
       "blockNumber": 4000000,
+      "date": "2017-07-09 20:52:47 UTC",
       "result": {
-        "address": "0x0",
-        "gasUsed": 29552,
-        "output": "0x"
+        "gasUsed": 29552
       },
       "subtraces": 0,
       "timestamp": 1499633567,

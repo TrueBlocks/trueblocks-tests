@@ -3,7 +3,7 @@ Args: [transactions=4348290.92 count]
 Opts: {"transactions":["4348290.92"],"count":true}
 Transactions:  [4348290.92]
 Count:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [
