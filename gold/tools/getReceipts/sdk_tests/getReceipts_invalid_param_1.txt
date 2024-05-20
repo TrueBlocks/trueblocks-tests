@@ -2,7 +2,7 @@ receipts?transactions=.clink
 Args: [transactions=.clink]
 Opts: {"transactions":[".clink"]}
 Transactions:  [.clink]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "errors": [

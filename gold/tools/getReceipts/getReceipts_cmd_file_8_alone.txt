@@ -2,7 +2,7 @@ chifra receipts  --file cmd_file.8 5644782.0
 TEST[DATE|TIME] Transactions:  [5644782.0 5644882.0]
 TEST[DATE|TIME] Verbose:  true
 TEST[DATE|TIME] File:  cmd_file.8
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  json
 {
   "data": [
@@ -10,9 +10,11 @@ TEST[DATE|TIME] Format:  json
       "blockHash": "0x37e9e5ad5ff7aaf10d4ba0ab9eaa5ebe76e6d5bf29602ca67aec6675e2b51135",
       "blockNumber": 5644782,
       "cumulativeGasUsed": 21000,
+      "from": "0xae40d78fe82fa8f006cd052b1c2533c361f58613",
       "gasUsed": 21000,
       "logs": [],
       "status": 1,
+      "to": "0xf5bec430576ff1b82e44ddb5a1c93f6f9d0884f3",
       "transactionHash": "0x785b88bfb800c34f0972bd2a1b02fb4bd03abc72dce675d00c2e4ae99f7aff96",
       "transactionIndex": 0
     },
@@ -20,6 +22,7 @@ TEST[DATE|TIME] Format:  json
       "blockHash": "0xccff406c95943cebea30307dd06824423f91240bd6aab7029d8003655ae7f23e",
       "blockNumber": 5644882,
       "cumulativeGasUsed": 52053,
+      "from": "0x2bd36c4eb60f9a412b9dd1d12c1ea23e6ee09e30",
       "gasUsed": 52053,
       "logs": [
         {
@@ -40,6 +43,7 @@ TEST[DATE|TIME] Format:  json
         }
       ],
       "status": 1,
+      "to": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
       "transactionHash": "0xb440bb9522672cdee57b447f406a22feec453764be784c6bd1b1f3188fa677be",
       "transactionIndex": 0
     }
@@ -47,27 +51,27 @@ TEST[DATE|TIME] Format:  json
 }
 TEST[DATE|TIME] Transactions:  [5644782.0]
 TEST[DATE|TIME] File:  cmd_file.8
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  csv
 blockNumber,transactionIndex,transactionHash,status,gasUsed,logsCnt,isError
 5644782,0,0x785b88bfb800c34f0972bd2a1b02fb4bd03abc72dce675d00c2e4ae99f7aff96,1,21000,0,false
 TEST[DATE|TIME] Transactions:  [5644782.0]
 TEST[DATE|TIME] Verbose:  true
 TEST[DATE|TIME] File:  cmd_file.8
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  txt
 blockNumber	transactionIndex	transactionHash	status	gasUsed	logsCnt	isError	contractAddress
 5644782	0	0x785b88bfb800c34f0972bd2a1b02fb4bd03abc72dce675d00c2e4ae99f7aff96	1	21000	0	false	0x0
 TEST[DATE|TIME] Transactions:  [5644782.0 5644882.0]
 TEST[DATE|TIME] File:  cmd_file.8
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  txt
 blockNumber	transactionIndex	transactionHash	status	gasUsed	logsCnt	isError
 5644782	0	0x785b88bfb800c34f0972bd2a1b02fb4bd03abc72dce675d00c2e4ae99f7aff96	1	21000	0	false
 5644882	0	0xb440bb9522672cdee57b447f406a22feec453764be784c6bd1b1f3188fa677be	1	52053	1	false
 TEST[DATE|TIME] Transactions:  [5644782.0 5644884.0]
 TEST[DATE|TIME] File:  cmd_file.8
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  txt
 blockNumber	transactionIndex	transactionHash	status	gasUsed	logsCnt	isError
 5644782	0	0x785b88bfb800c34f0972bd2a1b02fb4bd03abc72dce675d00c2e4ae99f7aff96	1	21000	0	false

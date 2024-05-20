@@ -2,7 +2,7 @@ receipts?transactions=2222222.0%202332332.0
 Args: [transactions=2222222.0 2332332.0]
 Opts: {"transactions":["2222222.0 2332332.0"]}
 Transactions:  [2222222.0 2332332.0]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [

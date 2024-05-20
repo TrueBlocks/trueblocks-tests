@@ -2,7 +2,7 @@ receipts?transactions=0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441
 Args: [transactions=0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9dc190f.155]
 Opts: {"transactions":["0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9dc190f.155"]}
 Transactions:  [0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9dc190f.155]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [],

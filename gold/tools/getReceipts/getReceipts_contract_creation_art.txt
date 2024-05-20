@@ -1,12 +1,13 @@
 chifra receipts  1428968.4 --fmt json --articulate
 TEST[DATE|TIME] Transactions:  [1428968.4]
 TEST[DATE|TIME] Articulate:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  json
 {
   "data": [
     {
       "blockNumber": 1428968,
+      "from": "0xb26842086a407eb4fef0465f502285f3d25d168b",
       "gasUsed": 66946,
       "logs": [
         {
@@ -53,6 +54,7 @@ TEST[DATE|TIME] Format:  json
         }
       ],
       "status": 1,
+      "to": "0x33990122638b9132ca29c723bdf037f1a891a70c",
       "transactionHash": "0x62bb4735a3f6d7ddabe3ba498996aa2fa2d0f6c6a4eae6a92e50fecd82e77714",
       "transactionIndex": 4
     }

@@ -3,7 +3,7 @@ Args: [transactions=5644782.0 raw]
 Opts: {"transactions":["5644782.0"],"raw":true}
 Transactions:  [5644782.0]
 ShowRaw:  true
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [

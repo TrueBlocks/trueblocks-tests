@@ -3,7 +3,7 @@ Args: [transactions=0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9
 Opts: {"transactions":["0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9dc190f.55"],"verbose":true}
 Transactions:  [0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9dc190f.55]
 Verbose:  true
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [
@@ -11,6 +11,7 @@ Format:  json
       "blockHash": "0x693b52d0fc09ec86d86aa117dd2b397116b6031cf2b672f8673c4441b9dc190f",
       "blockNumber": 4001001,
       "cumulativeGasUsed": 2032777,
+      "from": "0x4ad64328076e1220333a82a4e602b1aaddd215e3",
       "gasUsed": 44493,
       "logs": [
         {
@@ -29,6 +30,7 @@ Format:  json
         }
       ],
       "status": 1,
+      "to": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819",
       "transactionHash": "0xe49b9d48866035a82b622e4900791210cbf36905194a7ae3dc38feedf8ca3762",
       "transactionIndex": 55
     }

@@ -2,7 +2,7 @@ receipts?transactions=1.0
 Args: [transactions=1.0]
 Opts: {"transactions":["1.0"]}
 Transactions:  [1.0]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [],

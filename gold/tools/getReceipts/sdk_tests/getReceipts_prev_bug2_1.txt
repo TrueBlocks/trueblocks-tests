@@ -2,12 +2,13 @@ receipts?transactions=4279119.46
 Args: [transactions=4279119.46]
 Opts: {"transactions":["4279119.46"]}
 Transactions:  [4279119.46]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "data": [
     {
       "blockNumber": 4279119,
+      "from": "0x9fe00a70fd9a3a521835bd683297a94f39a6bf8b",
       "gasUsed": 48267,
       "logs": [
         {
@@ -42,6 +43,7 @@ Format:  json
         }
       ],
       "status": 1,
+      "to": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819",
       "transactionHash": "0xe611769659eac98190fadf0a2205bcdac9fa515245fb3a53702c03e9c96c8b48",
       "transactionIndex": 46
     }

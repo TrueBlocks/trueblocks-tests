@@ -2,7 +2,7 @@ receipts?verbose
 Args: [verbose]
 Opts: {"verbose":true}
 Verbose:  true
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "errors": [

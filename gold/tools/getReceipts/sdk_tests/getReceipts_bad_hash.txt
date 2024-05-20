@@ -2,7 +2,7 @@ receipts?transactions=0x0012
 Args: [transactions=0x0012]
 Opts: {"transactions":["0x0012"]}
 Transactions:  [0x0012]
-Caps:  cache,decache,raw
+Caps:  cache,decache
 Format:  json
 {
   "errors": [

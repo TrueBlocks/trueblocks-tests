@@ -1,20 +1,23 @@
 chifra receipts  2222222.0 2332332.0 --fmt json
 TEST[DATE|TIME] Transactions:  [2222222.0 2332332.0]
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  json
 {
   "data": [
     {
       "blockNumber": 2222222,
+      "from": "0x02fcf30912b6fe2b6452ee19721c6068fe4c7b61",
       "gasUsed": 1000000,
       "isError": true,
       "logs": [],
       "status": 0,
+      "to": "0x37a9679c41e99db270bda88de8ff50c0cd23f326",
       "transactionHash": "0x9c34ba45c523f75009d279553fe2a7e9a99a991a297439226321bea26ab62bbb",
       "transactionIndex": 0
     },
     {
       "blockNumber": 2332332,
+      "from": "0xdb89587bb407b576134ff297d1848ea6d9066812",
       "gasUsed": 21298,
       "logs": [
         {
@@ -35,6 +38,7 @@ TEST[DATE|TIME] Format:  json
         }
       ],
       "status": 1,
+      "to": "0x37a9679c41e99db270bda88de8ff50c0cd23f326",
       "transactionHash": "0xa023f79cc26b321111cf051cab92b3a325e00ecfa9d377845a41654f6b2f0ebe",
       "transactionIndex": 0
     }
