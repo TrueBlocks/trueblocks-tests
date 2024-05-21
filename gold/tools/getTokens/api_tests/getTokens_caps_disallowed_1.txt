@@ -1,6 +1,0 @@
-tokens?addrs=trueblocks.eth&war
-{
-  "errors": [
-    "Invalid key (war) in tokens route."
-  ]
-}

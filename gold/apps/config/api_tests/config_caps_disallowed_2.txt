@@ -1,6 +1,0 @@
-config?war
-{
-  "errors": [
-    "Invalid key (war) in config route."
-  ]
-}

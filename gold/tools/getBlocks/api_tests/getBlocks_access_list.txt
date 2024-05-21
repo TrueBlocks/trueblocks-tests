@@ -1,4 +1,4 @@
-blocks?blocks=16500011&fmt=json&war
+blocks?blocks=16500011&fmt=json
 {
   "data": [
     {

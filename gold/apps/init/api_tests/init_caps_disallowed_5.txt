@@ -1,6 +1,0 @@
-init?war
-{
-  "errors": [
-    "Invalid key (war) in init route."
-  ]
-}

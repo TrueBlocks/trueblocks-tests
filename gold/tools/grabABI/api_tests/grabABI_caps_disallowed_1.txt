@@ -1,6 +1,0 @@
-abis?addrs=trueblocks.eth&war
-{
-  "errors": [
-    "Invalid key (war) in abis route."
-  ]
-}

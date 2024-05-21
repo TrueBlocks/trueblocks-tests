@@ -1,6 +1,0 @@
-state?addrs=trueblocks.eth&war
-{
-  "errors": [
-    "Invalid key (war) in state route."
-  ]
-}

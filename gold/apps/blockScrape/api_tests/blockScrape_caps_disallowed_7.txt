@@ -1,6 +1,0 @@
-scrape?war
-{
-  "errors": [
-    "Invalid key (war) in scrape route."
-  ]
-}

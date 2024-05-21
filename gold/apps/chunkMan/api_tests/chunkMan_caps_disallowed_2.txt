@@ -1,6 +1,0 @@
-chunks?mode=blooms&war
-{
-  "errors": [
-    "Invalid key (war) in chunks route."
-  ]
-}

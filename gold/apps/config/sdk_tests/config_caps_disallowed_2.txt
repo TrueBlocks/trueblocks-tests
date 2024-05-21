@@ -1,9 +1,0 @@
-config?war
-Args: [war]
-Opts: {}
-Format:  json
-{
-  "errors": [
-    "Invalid key (war) in config route."
-  ]
-}

@@ -1,4 +1,4 @@
-chifra blocks  16500011 --fmt json --war
+chifra blocks  16500011 --fmt json
 TEST[DATE|TIME] Blocks:  [16500011]
 TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  json

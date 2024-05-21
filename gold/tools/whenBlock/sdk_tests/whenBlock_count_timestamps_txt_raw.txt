@@ -1,12 +1,24 @@
-when?count&timestamps&war
-Args: [count timestamps war]
+when?count&timestamps
+Args: [count timestamps]
 Opts: {"timestamps":true,"count":true}
 Timestamps:  true
 Count:  true
 Caps:  cache,decache
 Format:  json
 {
-  "errors": [
-    "Invalid key (war) in when route."
-  ]
+  "data": [
+    {
+      "count": 5000000
+    }
+  ],
+  "meta": {
+    "client": "0xdeadbeef",
+    "finalized": "0xdeadbeef",
+    "staging": "0xdeadbeef",
+    "ripe": "0xdeadbeef",
+    "unripe": "0xdeadbeef",
+    "chainId": 1,
+    "networkId": 1,
+    "chain": "mainnet"
+  }
 }

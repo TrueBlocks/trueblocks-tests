@@ -1,6 +1,0 @@
-export?addrs=trueblocks.eth&war&maxRecords=3
-{
-  "errors": [
-    "Invalid key (war) in export route."
-  ]
-}

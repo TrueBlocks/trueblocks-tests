@@ -1,3 +1,0 @@
-scrape?war
-Args: [war]
-Unknown sdk endpoint: scrape

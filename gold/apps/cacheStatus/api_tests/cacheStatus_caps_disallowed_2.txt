@@ -1,6 +1,0 @@
-status?modes=blooms&war
-{
-  "errors": [
-    "Invalid key (war) in status route."
-  ]
-}

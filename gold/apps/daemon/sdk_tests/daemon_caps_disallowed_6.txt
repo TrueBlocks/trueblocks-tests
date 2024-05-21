@@ -1,3 +1,0 @@
-daemon?war
-Args: [war]
-Unknown sdk endpoint: daemon
