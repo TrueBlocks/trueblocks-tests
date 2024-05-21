@@ -4,7 +4,7 @@ Opts: {"addrs":["0xdefae2ee3146e258a4383c15bb90239e85ba3cad"],"blocks":["1703490
 Addrs:  [0xdefae2ee3146e258a4383c15bb90239e85ba3cad]
 Blocks:  [17034900-17034910]
 Types:  [withdrawals]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

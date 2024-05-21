@@ -8,7 +8,7 @@ Appearances:  true
 Count:  true
 Page:  2
 PerPage:  12
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

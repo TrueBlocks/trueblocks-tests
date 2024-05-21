@@ -4,7 +4,7 @@ Opts: {"addrs":["wolfofethereum.eth"],"blocks":["12524380-13675400"],"types":4}
 Addrs:  [0x0559a413a3ab19508a144aeebc474eb14c5e76ce]
 Blocks:  [12524380-13675400]
 Types:  [int]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

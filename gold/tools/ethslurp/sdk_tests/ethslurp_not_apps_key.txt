@@ -5,7 +5,7 @@ Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 Blocks:  [0-1500000]
 Types:  [ext]
 Source:  key
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

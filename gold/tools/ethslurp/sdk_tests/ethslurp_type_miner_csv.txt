@@ -4,7 +4,7 @@ Opts: {"addrs":["0x05a56e2d52c817161883f50c441c3228cfe54d9f"],"blocks":["0-1000"
 Addrs:  [0x05a56e2d52c817161883f50c441c3228cfe54d9f]
 Blocks:  [0-1000]
 Types:  [miner]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

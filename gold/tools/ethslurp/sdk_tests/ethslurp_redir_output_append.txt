@@ -6,7 +6,7 @@ Blocks:  [3730590-3730700]
 Types:  [ext]
 OutputFn:  output_test_file
 Append:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 { "outputFilename": "--output_filename--" }
 {

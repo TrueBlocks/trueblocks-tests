@@ -5,7 +5,7 @@ Addrs:  [0x83f564d180b58ad9a02a449105568189ee7de8cb]
 Blocks:  [13103657-13255822]
 Types:  [1155]
 Ether:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

@@ -4,7 +4,7 @@ TEST[DATE|TIME] Blocks:  [0-3793420]
 TEST[DATE|TIME] Types:  [ext int token nfts 1155 miner uncles withdrawals]
 TEST[DATE|TIME] Articulate:  true
 TEST[DATE|TIME] Ether:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

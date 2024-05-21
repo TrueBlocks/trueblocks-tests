@@ -7,7 +7,7 @@ Types:  [ext]
 Appearances:  true
 Count:  true
 Page:  2
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [],

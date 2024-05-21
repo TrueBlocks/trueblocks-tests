@@ -2,7 +2,7 @@ chifra slurp  0xdefae2ee3146e258a4383c15bb90239e85ba3cad --types withdrawals 170
 TEST[DATE|TIME] Addrs:  [0xdefae2ee3146e258a4383c15bb90239e85ba3cad]
 TEST[DATE|TIME] Blocks:  [17034900-17034910]
 TEST[DATE|TIME] Types:  [withdrawals]
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

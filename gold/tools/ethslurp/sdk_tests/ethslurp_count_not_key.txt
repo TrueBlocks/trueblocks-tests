@@ -6,7 +6,7 @@ Blocks:  [0-1500000]
 Types:  [ext]
 Appearances:  true
 Count:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

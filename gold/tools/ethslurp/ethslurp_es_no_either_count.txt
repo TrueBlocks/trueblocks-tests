@@ -6,7 +6,7 @@ TEST[DATE|TIME] Appearances:  true
 TEST[DATE|TIME] Count:  true
 TEST[DATE|TIME] Page:  2
 TEST[DATE|TIME] PerPage:  12
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

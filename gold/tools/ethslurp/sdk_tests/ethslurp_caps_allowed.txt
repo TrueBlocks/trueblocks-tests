@@ -1,5 +1,5 @@
-slurp?addrs=trueblocks.eth&chain&verbose&output&append&cache&decache&raw&ether&failOnPurpose
-Args: [addrs=trueblocks.eth chain verbose output append cache decache raw ether failOnPurpose]
+slurp?addrs=trueblocks.eth&chain&verbose&output&append&cache&decache&ether&failOnPurpose
+Args: [addrs=trueblocks.eth chain verbose output append cache decache ether failOnPurpose]
 Opts: null
 {
   "errors": [

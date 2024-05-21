@@ -5,7 +5,7 @@ Addrs:  [0x63c8c29af409bd31ec7ddeea58ff14f21e8980b0]
 Blocks:  [4186279]
 Types:  [ext]
 Decache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 chifra slurp --decache is not yet implemented
 {

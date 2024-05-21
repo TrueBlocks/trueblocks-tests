@@ -9,7 +9,7 @@ Source:  key
 Count:  true
 PageId:  invalid
 PerPage:  12
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [],

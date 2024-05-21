@@ -5,7 +5,7 @@ Addrs:  [0x1324e7b922b30b49ab8ea81086341cc41c249346]
 Blocks:  [3730547-3730590]
 Types:  [ext]
 OutputFn:  output_test_file
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 { "outputFilename": "--output_filename--" }
 {

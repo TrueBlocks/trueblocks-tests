@@ -6,7 +6,7 @@ Blocks:  [4186279]
 Types:  [ext]
 Enabled:  transactions
 Cache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

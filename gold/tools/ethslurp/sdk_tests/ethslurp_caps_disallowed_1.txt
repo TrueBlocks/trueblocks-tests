@@ -3,7 +3,7 @@ Args: [addrs=trueblocks.eth]
 Opts: {"addrs":["trueblocks.eth"]}
 Addrs:  [0xf503017d7baf7fbc0fff7492b751025c6a78179b]
 Types:  [ext]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

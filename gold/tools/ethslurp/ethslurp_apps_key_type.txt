@@ -4,7 +4,7 @@ TEST[DATE|TIME] Blocks:  [0-1500000]
 TEST[DATE|TIME] Types:  [ext]
 TEST[DATE|TIME] Appearances:  true
 TEST[DATE|TIME] Source:  key
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 Error: The --source=key option is only available with a valid api key.
 Usage:
@@ -37,4 +37,3 @@ Notes:
   - Portions of this software are Powered by Etherscan.io APIs.
   - The withdrawals option is only available on certain chains. It is ignored otherwise.
   - If the value of --source is key, --types is ignored and only appearances are returned.
-

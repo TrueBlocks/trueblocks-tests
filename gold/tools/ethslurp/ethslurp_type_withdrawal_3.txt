@@ -3,7 +3,7 @@ TEST[DATE|TIME] Addrs:  [0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63]
 TEST[DATE|TIME] Blocks:  [18000000-18200000]
 TEST[DATE|TIME] Types:  [withdrawals]
 TEST[DATE|TIME] Ether:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
 blockNumber	validatorIndex	withdrawalIndex	timestamp	date	from	to	value	ether
 18010752	28	15612778	1693196855	2023-08-28 04:27:35 UTC	0x000000000000000000005769746864726177616c	0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63	15518435	0.000000000015518435

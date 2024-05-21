@@ -4,7 +4,7 @@ Opts: {"addrs":["0x00a3819199113fc6a6e6ba1298afde7377e2009b"],"blocks":["0-85000
 Addrs:  [0x00a3819199113fc6a6e6ba1298afde7377e2009b]
 Blocks:  [0-8500000]
 Types:  [nfts]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

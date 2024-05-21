@@ -2,7 +2,7 @@ slurp?
 Args: []
 Opts: {}
 Types:  [ext]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

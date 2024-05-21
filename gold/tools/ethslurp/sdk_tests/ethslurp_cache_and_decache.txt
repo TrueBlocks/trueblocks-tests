@@ -7,7 +7,7 @@ Types:  [ext]
 Enabled:  transactions
 Cache:  true
 Decache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
