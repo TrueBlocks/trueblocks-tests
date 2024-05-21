@@ -3,7 +3,7 @@ Args: [transactions=46147.0 decache]
 Opts: {"transactions":["46147.0"],"decache":true}
 Transactions:  [46147.0]
 Decache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

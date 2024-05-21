@@ -3,7 +3,7 @@ Args: [transactions=14987654.0 uniq]
 Opts: {"transactions":["14987654.0"],"uniq":true}
 Transactions:  [14987654.0]
 Uniq:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

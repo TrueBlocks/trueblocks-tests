@@ -3,7 +3,7 @@ Args: [transactions=11476466.96 articulate]
 Opts: {"transactions":["11476466.96"],"articulate":true}
 Transactions:  [11476466.96]
 Articulate:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

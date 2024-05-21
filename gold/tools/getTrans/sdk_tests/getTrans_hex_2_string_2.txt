@@ -3,7 +3,7 @@ Args: [transactions=0x178e2bcd2d2eb05002d4f7b3ae5f47731bddba6c8ef940738a696ae2bd
 Opts: {"transactions":["0x178e2bcd2d2eb05002d4f7b3ae5f47731bddba6c8ef940738a696ae2bd4a0b39"],"articulate":true}
 Transactions:  [0x178e2bcd2d2eb05002d4f7b3ae5f47731bddba6c8ef940738a696ae2bd4a0b39]
 Articulate:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

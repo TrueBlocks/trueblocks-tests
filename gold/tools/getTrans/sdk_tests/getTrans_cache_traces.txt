@@ -5,7 +5,7 @@ Transactions:  [46147.0]
 CacheTraces:  true
 Enabled:  traces, transactions
 Cache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

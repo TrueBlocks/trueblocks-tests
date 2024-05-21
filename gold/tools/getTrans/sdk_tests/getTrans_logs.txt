@@ -3,7 +3,7 @@ Args: [transactions=9004225.10 logs]
 Opts: {"transactions":["9004225.10"],"logs":true}
 Transactions:  [9004225.10]
 Logs:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

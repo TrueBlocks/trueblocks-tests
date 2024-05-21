@@ -4,7 +4,7 @@ Opts: {"transactions":["17900008.54"],"logs":true,"emitter":["giveth.eth"]}
 Transactions:  [17900008.54]
 Logs:  true
 Emitter:  [0x4d9339dd97db55e3b9bcbe65de39ff9c04d1c2cd]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

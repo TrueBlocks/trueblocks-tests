@@ -2,7 +2,7 @@ transactions?transactions=0xeec4ccd13fe05907f9d732a8ad245bcb7f918217157b89baaa23
 Args: [transactions=0xeec4ccd13fe05907f9d732a8ad245bcb7f918217157b89baaa23895c12eb329a]
 Opts: {"transactions":["0xeec4ccd13fe05907f9d732a8ad245bcb7f918217157b89baaa23895c12eb329a"]}
 Transactions:  [0xeec4ccd13fe05907f9d732a8ad245bcb7f918217157b89baaa23895c12eb329a]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

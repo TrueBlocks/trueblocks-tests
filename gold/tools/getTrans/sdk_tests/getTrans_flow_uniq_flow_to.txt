@@ -4,7 +4,7 @@ Opts: {"transactions":["4102000.0"],"uniq":true,"flow":4}
 Transactions:  [4102000.0]
 Uniq:  true
 Flow:  to
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

@@ -1,7 +1,7 @@
 chifra transactions  2222221.\* --fmt json --ether
 TEST[DATE|TIME] Transactions:  [2222221.*]
 TEST[DATE|TIME] Ether:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

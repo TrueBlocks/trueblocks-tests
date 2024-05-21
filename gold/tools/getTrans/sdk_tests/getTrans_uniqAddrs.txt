@@ -4,7 +4,7 @@ Opts: {"transactions":["1301011.0 1301672.0 1301324.0"],"uniq":true,"verbose":tr
 Transactions:  [1301011.0 1301672.0 1301324.0]
 Uniq:  true
 Verbose:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

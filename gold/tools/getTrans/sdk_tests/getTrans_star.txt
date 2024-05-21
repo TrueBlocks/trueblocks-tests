@@ -3,7 +3,7 @@ Args: [transactions=2222221.* ether]
 Opts: {"transactions":["2222221.*"],"ether":true}
 Transactions:  [2222221.*]
 Ether:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

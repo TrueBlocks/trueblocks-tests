@@ -1,7 +1,7 @@
 transactions?
 Args: []
 Opts: {}
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

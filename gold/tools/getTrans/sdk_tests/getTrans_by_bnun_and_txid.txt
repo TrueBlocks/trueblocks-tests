@@ -3,7 +3,7 @@ Args: [transactions=4000002.5 traces]
 Opts: {"transactions":["4000002.5"],"traces":true}
 Transactions:  [4000002.5]
 Traces:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

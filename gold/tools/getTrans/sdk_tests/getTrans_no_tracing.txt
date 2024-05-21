@@ -4,7 +4,7 @@ Opts: {"transactions":["0x0f0171122023385b433a766e70c65928ea9f9e29e6a6c82a7330cb
 Transactions:  [0x0f0171122023385b433a766e70c65928ea9f9e29e6a6c82a7330cb46b63334e7e9ba7a35c3]
 Traces:  true
 Chain:  non-tracing
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

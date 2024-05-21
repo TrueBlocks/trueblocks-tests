@@ -4,7 +4,7 @@ Opts: {"transactions":["0x557c3e14a8e86cd0b947d5c7790d332bbe52bb6ec8cba0aa532ddc
 Transactions:  [0x557c3e14a8e86cd0b947d5c7790d332bbe52bb6ec8cba0aa532ddc717ffd0abe]
 Articulate:  true
 Traces:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

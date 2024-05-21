@@ -4,7 +4,7 @@ Opts: {"transactions":["9004225.10"],"logs":true,"emitter":["0xbbbbca6a901c926f2
 Transactions:  [9004225.10]
 Logs:  true
 Emitter:  [0xbbbbca6a901c926f240b89eacb641d8aec7aeaf]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

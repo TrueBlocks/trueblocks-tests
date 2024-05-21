@@ -4,7 +4,7 @@ Opts: {"transactions":["3657480.12"],"verbose":true,"output":"output_test_file"}
 Transactions:  [3657480.12]
 Verbose:  true
 OutputFn:  output_test_file
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 { "outputFilename": "--output_filename--" }
 {
