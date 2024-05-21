@@ -3,7 +3,7 @@ Args: [blocks=3 12 469 uncles]
 Opts: {"blocks":["3 12 469"],"uncles":true}
 Blocks:  [3 12 469]
 Uncles:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

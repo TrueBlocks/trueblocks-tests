@@ -2,7 +2,7 @@ chifra blocks  4001001 --chain sepolia --hashes
 TEST[DATE|TIME] Blocks:  [4001001]
 TEST[DATE|TIME] Hashes:  true
 TEST[DATE|TIME] Chain:  sepolia
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

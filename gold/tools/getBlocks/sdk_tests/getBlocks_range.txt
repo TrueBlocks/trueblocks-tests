@@ -2,7 +2,7 @@ blocks?blocks=4000001-4000003
 Args: [blocks=4000001-4000003]
 Opts: {"blocks":["4000001-4000003"]}
 Blocks:  [4000001-4000003]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

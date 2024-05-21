@@ -4,7 +4,7 @@ Opts: {"blocks":["32279"],"uniq":true,"verbose":true}
 Blocks:  [32279]
 Uniq:  true
 Verbose:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

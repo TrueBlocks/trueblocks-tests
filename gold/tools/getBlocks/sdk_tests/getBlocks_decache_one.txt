@@ -3,7 +3,7 @@ Args: [blocks=12 decache]
 Opts: {"blocks":["12"],"decache":true}
 Blocks:  [12]
 Decache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

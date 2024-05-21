@@ -3,7 +3,7 @@ Args: [blocks=3 count]
 Opts: {"blocks":["3"],"count":true}
 Blocks:  [3]
 Count:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

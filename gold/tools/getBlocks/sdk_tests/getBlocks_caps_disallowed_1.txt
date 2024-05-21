@@ -2,7 +2,7 @@ blocks?blocks=3000000
 Args: [blocks=3000000]
 Opts: {"blocks":["3000000"]}
 Blocks:  [3000000]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

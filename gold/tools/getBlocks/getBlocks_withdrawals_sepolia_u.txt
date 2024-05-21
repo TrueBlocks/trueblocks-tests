@@ -3,7 +3,7 @@ TEST[DATE|TIME] Blocks:  [2990908-2990913]
 TEST[DATE|TIME] Hashes:  true
 TEST[DATE|TIME] Uniq:  true
 TEST[DATE|TIME] Chain:  sepolia
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
 address	blockNumber	transactionIndex	traceIndex	reason
 0xb12713bfa9d1de339ca14b01f8f14f092ffe75bf	2990908	0		from

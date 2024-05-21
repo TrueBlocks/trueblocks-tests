@@ -3,7 +3,7 @@ Args: [blocks=4012000-4012001 topic=0xddf252ad1be2c89b69c2b068fc378daa952ba7f163
 Opts: {"blocks":["4012000-4012001"],"topic":["0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef"]}
 Blocks:  [4012000-4012001]
 Topic:  [0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

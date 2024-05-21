@@ -2,7 +2,7 @@ blocks?blocks=1001001
 Args: [blocks=1001001]
 Opts: {"blocks":["1001001"]}
 Blocks:  [1001001]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

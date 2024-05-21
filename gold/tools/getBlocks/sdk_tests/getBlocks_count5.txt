@@ -4,7 +4,7 @@ Opts: {"blocks":["3"],"traces":true,"count":true}
 Blocks:  [3]
 Traces:  true
 Count:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

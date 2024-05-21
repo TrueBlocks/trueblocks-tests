@@ -5,7 +5,7 @@ Blocks:  [1152642]
 Uniq:  true
 Enabled:  blocks, receipts, traces, transactions
 Cache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

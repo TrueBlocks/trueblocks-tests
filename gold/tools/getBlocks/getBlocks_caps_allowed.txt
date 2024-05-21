@@ -1,4 +1,4 @@
-chifra blocks  3000000 --chain --fmt --nocolor --noop --version --verbose --no_header --file --output --append --cache --decache --raw --ether --fail_on_purpose
+chifra blocks  3000000 --chain --fmt --nocolor --noop --version --verbose --no_header --file --output --append --cache --decache --ether --fail_on_purpose
 Error: 
   unknown flag: --fail_on_purpose
 
@@ -24,7 +24,6 @@ Flags:
       --cache_txs         force a write of the block's transactions to the cache (slow) (hidden)
       --cache_traces      force a write of the block's traces to the cache (slower) (hidden)
   -H, --ether             specify value in ether
-  -w, --raw               report JSON data from the source with minimal processing
   -o, --cache             force the results of the query into the cache
   -D, --decache           removes related items from the cache
   -x, --fmt string        export format, one of [none|json*|txt|csv]

@@ -3,7 +3,7 @@ TEST[DATE|TIME] Blocks:  [4012000-4012001]
 TEST[DATE|TIME] Logs:  true
 TEST[DATE|TIME] Enabled:  blocks, logs, receipts
 TEST[DATE|TIME] Cache:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

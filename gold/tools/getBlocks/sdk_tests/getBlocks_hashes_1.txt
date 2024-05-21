@@ -3,7 +3,7 @@ Args: [blocks=4001001 hashes]
 Opts: {"blocks":["4001001"],"hashes":true}
 Blocks:  [4001001]
 Hashes:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

@@ -4,7 +4,7 @@ Opts: {"blocks":["4012000-4012001"],"uncles":true,"uniq":true}
 Blocks:  [4012000-4012001]
 Uncles:  true
 Uniq:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

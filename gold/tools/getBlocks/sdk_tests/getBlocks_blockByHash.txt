@@ -2,7 +2,7 @@ blocks?blocks=0xd19bc98080cd70951fad3951cef2d512e6334aa3c7e64a38985c955d4d2e273b
 Args: [blocks=0xd19bc98080cd70951fad3951cef2d512e6334aa3c7e64a38985c955d4d2e273b]
 Opts: {"blocks":["0xd19bc98080cd70951fad3951cef2d512e6334aa3c7e64a38985c955d4d2e273b"]}
 Blocks:  [0xd19bc98080cd70951fad3951cef2d512e6334aa3c7e64a38985c955d4d2e273b]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

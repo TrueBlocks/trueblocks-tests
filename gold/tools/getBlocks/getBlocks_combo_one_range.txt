@@ -1,7 +1,7 @@
 chifra blocks  1590000 4000001-4000002 1001001 1234567 --ether
 TEST[DATE|TIME] Blocks:  [1590000 4000001-4000002 1001001 1234567]
 TEST[DATE|TIME] Ether:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

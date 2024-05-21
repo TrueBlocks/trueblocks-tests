@@ -3,7 +3,7 @@ Args: [blocks=2222222 traces]
 Opts: {"blocks":["2222222"],"traces":true}
 Blocks:  [2222222]
 Traces:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

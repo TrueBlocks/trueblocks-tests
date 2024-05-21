@@ -4,7 +4,7 @@ Opts: {"blocks":["4012000-4012001"],"logs":true,"topic":["0xddf252ad1be2c89b69c2
 Blocks:  [4012000-4012001]
 Logs:  true
 Topic:  [0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef 0x0000000000000000000000008d71cd37bc1c715f6d4e9b5d68aa17a8b42cac87]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

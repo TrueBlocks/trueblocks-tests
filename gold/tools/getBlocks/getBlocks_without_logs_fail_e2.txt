@@ -1,7 +1,7 @@
 chifra blocks  4012000-4012001 --emitter 0x86fa049857e0209aa7d9e616f7eb3b3b7
 TEST[DATE|TIME] Blocks:  [4012000-4012001]
 TEST[DATE|TIME] Emitter:  [0x86fa049857e0209aa7d9e616f7eb3b3b7]
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 Error: hex string must be an even length
 Usage:
@@ -26,7 +26,6 @@ Flags:
       --cache_txs         force a write of the block's transactions to the cache (slow) (hidden)
       --cache_traces      force a write of the block's traces to the cache (slower) (hidden)
   -H, --ether             specify value in ether
-  -w, --raw               report JSON data from the source with minimal processing
   -o, --cache             force the results of the query into the cache
   -D, --decache           removes related items from the cache
   -x, --fmt string        export format, one of [none|json*|txt|csv]

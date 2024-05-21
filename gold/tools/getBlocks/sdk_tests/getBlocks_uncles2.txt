@@ -3,7 +3,7 @@ Args: [blocks=0x3d6122660cc824376f11ee842f83addc3525e2dd6756b9bcf0affa6aa88cf741
 Opts: {"blocks":["0x3d6122660cc824376f11ee842f83addc3525e2dd6756b9bcf0affa6aa88cf741 0x753bd45eb11dfe6bd3dcec5147b2365b046c2f02bfdff595c0b091c3f91e7627"],"uncles":true}
 Blocks:  [0x3d6122660cc824376f11ee842f83addc3525e2dd6756b9bcf0affa6aa88cf741 0x753bd45eb11dfe6bd3dcec5147b2365b046c2f02bfdff595c0b091c3f91e7627]
 Uncles:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

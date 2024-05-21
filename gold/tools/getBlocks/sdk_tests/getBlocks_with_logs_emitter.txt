@@ -4,7 +4,7 @@ Opts: {"blocks":["4012000-4012001"],"logs":true,"emitter":["0x86fa049857e0209aa7
 Blocks:  [4012000-4012001]
 Logs:  true
 Emitter:  [0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

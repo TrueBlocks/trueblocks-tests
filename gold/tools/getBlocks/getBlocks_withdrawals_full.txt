@@ -1,7 +1,7 @@
 chifra blocks  17034900 --hashes
 TEST[DATE|TIME] Blocks:  [17034900]
 TEST[DATE|TIME] Hashes:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw,ether
+TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
 {
   "data": [

@@ -2,7 +2,7 @@ blocks?blocks=2222222%202332332
 Args: [blocks=2222222 2332332]
 Opts: {"blocks":["2222222 2332332"]}
 Blocks:  [2222222 2332332]
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

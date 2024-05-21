@@ -3,7 +3,7 @@ Args: [blocks=4012000-4012001 logs]
 Opts: {"blocks":["4012000-4012001"],"logs":true}
 Blocks:  [4012000-4012001]
 Logs:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

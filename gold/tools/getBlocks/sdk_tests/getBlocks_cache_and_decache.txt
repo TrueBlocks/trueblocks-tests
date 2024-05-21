@@ -5,7 +5,7 @@ Blocks:  [12]
 Enabled:  blocks, receipts
 Cache:  true
 Decache:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [

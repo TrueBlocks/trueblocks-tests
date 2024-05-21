@@ -3,7 +3,7 @@ Args: [blocks=1152642 uniq]
 Opts: {"blocks":["1152642"],"uniq":true}
 Blocks:  [1152642]
 Uniq:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

@@ -4,7 +4,7 @@ Opts: {"blocks":["4001001"],"hashes":true,"chain":"sepolia"}
 Blocks:  [4001001]
 Hashes:  true
 Chain:  sepolia
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 {
   "data": [

@@ -4,7 +4,7 @@ Opts: {"blocks":["1001005-1001010"],"output":"output_test_file","append":true}
 Blocks:  [1001005-1001010]
 OutputFn:  output_test_file
 Append:  true
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 { "outputFilename": "--output_filename--" }
 {

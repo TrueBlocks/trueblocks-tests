@@ -3,7 +3,7 @@ Args: [blocks=1001001-1001005 output=output_test_file]
 Opts: {"blocks":["1001001-1001005"],"output":"output_test_file"}
 Blocks:  [1001001-1001005]
 OutputFn:  output_test_file
-Caps:  cache,decache,raw,ether
+Caps:  cache,decache,ether
 Format:  json
 { "outputFilename": "--output_filename--" }
 {
