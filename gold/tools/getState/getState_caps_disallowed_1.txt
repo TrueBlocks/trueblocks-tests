@@ -1,6 +1,6 @@
-chifra state  trueblocks.eth --raw
+chifra state  trueblocks.eth --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra state [flags] <address> [address...] [block...]

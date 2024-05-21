@@ -1,6 +1,6 @@
-chifra daemon  --raw
+chifra daemon  --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra daemon [flags]

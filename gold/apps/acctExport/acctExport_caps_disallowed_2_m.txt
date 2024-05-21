@@ -1,6 +1,6 @@
-chifra monitors  trueblocks.eth --raw
+chifra monitors  trueblocks.eth --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra monitors [flags] <address> [address...]

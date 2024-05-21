@@ -1,6 +1,6 @@
-chifra when  --count --fmt txt --timestamps --raw
+chifra when  --count --fmt txt --timestamps --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra when [flags] < block | date > [ block... | date... ]

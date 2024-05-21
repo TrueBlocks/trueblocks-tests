@@ -1,6 +1,6 @@
-chifra abis  trueblocks.eth --raw
+chifra abis  trueblocks.eth --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra abis [flags] <address> [address...]

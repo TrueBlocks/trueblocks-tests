@@ -1,6 +1,6 @@
-chifra list  trueblocks.eth --raw
+chifra list  trueblocks.eth --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra list [flags] <address> [address...]

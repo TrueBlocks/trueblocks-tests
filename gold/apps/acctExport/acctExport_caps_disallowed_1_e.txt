@@ -1,6 +1,6 @@
-chifra export  trueblocks.eth --raw --max_records 3
+chifra export  trueblocks.eth --war --max_records 3
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra export [flags] <address> [address...] [topics...] [fourbytes...]

@@ -1,13 +1,12 @@
-when?count&timestamps&raw
-Args: [count timestamps raw]
-Opts: {"timestamps":true,"count":true,"raw":true}
+when?count&timestamps&war
+Args: [count timestamps war]
+Opts: {"timestamps":true,"count":true}
 Timestamps:  true
 Count:  true
-ShowRaw:  true
 Caps:  cache,decache
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in when route."
+    "Invalid key (war) in when route."
   ]
 }

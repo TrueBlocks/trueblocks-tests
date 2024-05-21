@@ -1,6 +1,6 @@
-when?count&fmt=txt&timestamps&raw
+when?count&fmt=txt&timestamps&war
 {
   "errors": [
-    "Invalid key (raw) in when route."
+    "Invalid key (war) in when route."
   ]
 }

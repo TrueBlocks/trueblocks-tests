@@ -1,6 +1,6 @@
-status?modes=blooms&raw
+status?modes=blooms&war
 {
   "errors": [
-    "Invalid key (raw) in status route."
+    "Invalid key (war) in status route."
   ]
 }

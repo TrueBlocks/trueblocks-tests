@@ -1,6 +1,6 @@
-monitors?addrs=trueblocks.eth&raw
+monitors?addrs=trueblocks.eth&war
 {
   "errors": [
-    "Invalid key (raw) in monitors route."
+    "Invalid key (war) in monitors route."
   ]
 }

@@ -1,8 +1,7 @@
-receipts?transactions=5644782.0&raw
-Args: [transactions=5644782.0 raw]
-Opts: {"transactions":["5644782.0"],"raw":true}
+receipts?transactions=5644782.0&war
+Args: [transactions=5644782.0 war]
+Opts: {"transactions":["5644782.0"]}
 Transactions:  [5644782.0]
-ShowRaw:  true
 Caps:  cache,decache
 Format:  json
 {

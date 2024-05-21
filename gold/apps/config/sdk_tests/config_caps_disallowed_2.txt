@@ -1,10 +1,9 @@
-config?raw
-Args: [raw]
-Opts: {"raw":true}
-ShowRaw:  true
+config?war
+Args: [war]
+Opts: {}
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in config route."
+    "Invalid key (war) in config route."
   ]
 }

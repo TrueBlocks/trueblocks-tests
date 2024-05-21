@@ -1,10 +1,9 @@
-chifra slurp  0x839395e20bbb182fa440d08f850e6c7a8f6f0780 --per_page 1999 --types int --cache --raw
+chifra slurp  0x839395e20bbb182fa440d08f850e6c7a8f6f0780 --per_page 1999 --types int --cache --war
 TEST[DATE|TIME] Addrs:  [0x839395e20bbb182fa440d08f850e6c7a8f6f0780]
 TEST[DATE|TIME] Types:  [int]
 TEST[DATE|TIME] PerPage:  1999
-TEST[DATE|TIME] ShowRaw:  true
 TEST[DATE|TIME] Cache:  true
-TEST[DATE|TIME] Caps:  cache,decache,raw
+TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  txt
 {
   "data": [

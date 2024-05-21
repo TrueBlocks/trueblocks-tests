@@ -1,6 +1,6 @@
-abis?addrs=trueblocks.eth&raw
+abis?addrs=trueblocks.eth&war
 {
   "errors": [
-    "Invalid key (raw) in abis route."
+    "Invalid key (war) in abis route."
   ]
 }

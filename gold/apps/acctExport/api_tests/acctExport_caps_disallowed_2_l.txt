@@ -1,6 +1,6 @@
-list?addrs=trueblocks.eth&raw
+list?addrs=trueblocks.eth&war
 {
   "errors": [
-    "Invalid key (raw) in list route."
+    "Invalid key (war) in list route."
   ]
 }

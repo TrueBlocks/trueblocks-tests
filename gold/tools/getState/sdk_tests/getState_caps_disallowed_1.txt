@@ -1,13 +1,12 @@
-state?addrs=trueblocks.eth&raw
-Args: [addrs=trueblocks.eth raw]
-Opts: {"addrs":["trueblocks.eth"],"proxyFor":"0x0","raw":true}
+state?addrs=trueblocks.eth&war
+Args: [addrs=trueblocks.eth war]
+Opts: {"addrs":["trueblocks.eth"],"proxyFor":"0x0"}
 Addrs:  [0xf503017d7baf7fbc0fff7492b751025c6a78179b]
 Blocks:  [17000000]
-ShowRaw:  true
 Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in state route."
+    "Invalid key (war) in state route."
   ]
 }

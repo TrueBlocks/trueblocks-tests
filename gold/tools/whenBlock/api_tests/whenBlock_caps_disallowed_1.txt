@@ -1,6 +1,6 @@
-when?blocks=3000000&raw
+when?blocks=3000000&war
 {
   "errors": [
-    "Invalid key (raw) in when route."
+    "Invalid key (war) in when route."
   ]
 }

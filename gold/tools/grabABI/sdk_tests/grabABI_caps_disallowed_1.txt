@@ -1,12 +1,11 @@
-abis?addrs=trueblocks.eth&raw
-Args: [addrs=trueblocks.eth raw]
-Opts: {"addrs":["trueblocks.eth"],"proxyFor":"0x0","raw":true}
+abis?addrs=trueblocks.eth&war
+Args: [addrs=trueblocks.eth war]
+Opts: {"addrs":["trueblocks.eth"],"proxyFor":"0x0"}
 Addrs:  [0xf503017d7baf7fbc0fff7492b751025c6a78179b]
-ShowRaw:  true
 Caps:  cache,decache
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in abis route."
+    "Invalid key (war) in abis route."
   ]
 }

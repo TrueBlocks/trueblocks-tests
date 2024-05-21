@@ -1,6 +1,6 @@
-init?raw
+init?war
 {
   "errors": [
-    "Invalid key (raw) in init route."
+    "Invalid key (war) in init route."
   ]
 }

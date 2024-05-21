@@ -1,6 +1,6 @@
-chifra tokens  trueblocks.eth --raw
+chifra tokens  trueblocks.eth --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra tokens [flags] <address> <address> [address...] [block...]

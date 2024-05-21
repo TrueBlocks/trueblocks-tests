@@ -1,6 +1,6 @@
-chifra explore  12.0 --raw
+chifra explore  12.0 --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra explore [flags] [terms...]

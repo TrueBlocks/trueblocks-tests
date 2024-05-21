@@ -1,6 +1,6 @@
-export?addrs=trueblocks.eth&raw&maxRecords=3
-Args: [addrs=trueblocks.eth raw maxRecords=3]
-Opts: {"addrs":["trueblocks.eth"],"maxRecords":3,"raw":true}
+export?addrs=trueblocks.eth&war&maxRecords=3
+Args: [addrs=trueblocks.eth maxRecords=3]
+Opts: {"addrs":["trueblocks.eth"],"maxRecords":3}
 Addrs:  [0xf503017d7baf7fbc0fff7492b751025c6a78179b]
 MaxRecords:  3
 ShowRaw:  true
@@ -8,6 +8,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in export route."
+    "Invalid key (war) in export route."
   ]
 }

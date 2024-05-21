@@ -1,6 +1,6 @@
-chifra names  find_nothing --raw
+chifra names  find_nothing --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra names [flags] <term> [term...]

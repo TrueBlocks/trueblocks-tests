@@ -1,6 +1,6 @@
-chifra init  --raw
+chifra init  --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra init [flags]

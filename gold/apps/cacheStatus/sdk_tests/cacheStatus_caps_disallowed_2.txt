@@ -1,11 +1,10 @@
-status?modes=blooms&raw
-Args: [modes=blooms raw]
-Opts: {"modes":4,"raw":true}
+status?modes=blooms&war
+Args: [modes=blooms war]
+Opts: {"modes":4}
 Modes:  [blooms]
-ShowRaw:  true
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in status route."
+    "Invalid key (war) in status route."
   ]
 }

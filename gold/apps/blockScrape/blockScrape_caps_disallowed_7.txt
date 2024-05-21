@@ -1,6 +1,6 @@
-chifra scrape  --raw
+chifra scrape  --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra scrape [flags]

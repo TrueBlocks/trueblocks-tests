@@ -1,6 +1,6 @@
-chifra status  blooms --raw
+chifra status  blooms --war
 Error: 
-  unknown flag: --raw
+  unknown flag: --war
 
 Usage:
   chifra status <mode> [mode...] [flags]

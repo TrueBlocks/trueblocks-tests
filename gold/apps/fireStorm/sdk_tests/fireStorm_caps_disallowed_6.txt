@@ -1,3 +1,3 @@
-explore?terms=12.0&raw
-Args: [terms=12.0 raw]
+explore?terms=12.0&war
+Args: [terms=12.0 war]
 Unknown sdk endpoint: explore

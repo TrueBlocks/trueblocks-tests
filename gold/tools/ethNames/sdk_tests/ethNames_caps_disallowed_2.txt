@@ -1,11 +1,10 @@
-names?terms=find_nothing&raw
-Args: [terms=find_nothing raw]
-Opts: {"terms":["find_nothing"],"autoname":"0x0","raw":true}
+names?terms=find_nothing&war
+Args: [terms=find_nothing war]
+Opts: {"terms":["find_nothing"],"autoname":"0x0"}
 Terms:  [find_nothing]
-ShowRaw:  true
 Format:  json
 {
   "errors": [
-    "Invalid key (raw) in names route."
+    "Invalid key (war) in names route."
   ]
 }

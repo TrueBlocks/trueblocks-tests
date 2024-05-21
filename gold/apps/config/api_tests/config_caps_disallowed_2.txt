@@ -1,6 +1,6 @@
-config?raw
+config?war
 {
   "errors": [
-    "Invalid key (raw) in config route."
+    "Invalid key (war) in config route."
   ]
 }

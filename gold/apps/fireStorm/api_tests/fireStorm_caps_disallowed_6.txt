@@ -1,6 +1,6 @@
-explore?terms=12.0&raw
+explore?terms=12.0&war
 {
   "errors": [
-    "Invalid key (raw) in explore route."
+    "Invalid key (war) in explore route."
   ]
 }
