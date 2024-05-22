@@ -1,4 +1,4 @@
-slurp?addrs=0x839395e20bbb182fa440d08f850e6c7a8f6f0780&perPage=1999&types=int&cache&war
+slurp?addrs=0x839395e20bbb182fa440d08f850e6c7a8f6f0780&perPage=1999&types=int&cache
 {
   "data": [
     {
