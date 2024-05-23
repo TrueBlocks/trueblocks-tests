@@ -17,7 +17,7 @@ TEST[DATE|TIME] Format:  json
       "blockNumber": 2229051,
       "date": "2016-09-09 18:22:48 UTC",
       "error": "invalid jump destination",
-      "result": null,
+      "result": {},
       "subtraces": 0,
       "timestamp": 1473445368,
       "traceAddress": [],

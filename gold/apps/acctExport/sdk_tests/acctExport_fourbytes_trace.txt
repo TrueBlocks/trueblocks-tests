@@ -137,7 +137,7 @@ Format:  json
       "blockNumber": 9193806,
       "date": "2020-01-01 02:36:41 UTC",
       "error": "out of gas",
-      "result": null,
+      "result": {},
       "subtraces": 0,
       "timestamp": 1577846201,
       "traceAddress": [],

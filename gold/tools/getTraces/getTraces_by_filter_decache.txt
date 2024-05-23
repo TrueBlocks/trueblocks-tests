@@ -1,0 +1,6 @@
+chifra traces  4370000.\* 4370001.\* 4370002.\* --decache
+TEST[DATE|TIME] Transactions:  [4370000.* 4370001.* 4370002.*]
+TEST[DATE|TIME] Decache:  true
+TEST[DATE|TIME] Caps:  cache,decache,ether
+TEST[DATE|TIME] Format:  txt
+478 items totaling 842684 bytes were removed from the traces cache.

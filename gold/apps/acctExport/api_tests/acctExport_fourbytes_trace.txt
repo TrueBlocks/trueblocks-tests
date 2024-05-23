@@ -129,7 +129,7 @@ export?addrs=0xf503017d7baf7fbc0fff7492b751025c6a78179b&fourbytes=0xa9059cbb&tra
       "blockNumber": 9193806,
       "date": "2020-01-01 02:36:41 UTC",
       "error": "out of gas",
-      "result": null,
+      "result": {},
       "subtraces": 0,
       "timestamp": 1577846201,
       "traceAddress": [],

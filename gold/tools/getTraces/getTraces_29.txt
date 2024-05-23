@@ -40,7 +40,7 @@ TEST[DATE|TIME] Format:  json
       "blockHash": "0x9ffade8b2d130070ce1d45ffe06bdab963993d597b8a7851320c1789c579b857",
       "blockNumber": 3191290,
       "date": "2017-02-16 01:56:50 UTC",
-      "result": null,
+      "result": {},
       "subtraces": 0,
       "timestamp": 1487210210,
       "traceAddress": [

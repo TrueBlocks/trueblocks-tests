@@ -14,7 +14,7 @@ traces?transactions=2222222.0%202332332.0
       "blockNumber": 2222222,
       "date": "2016-09-08 15:22:45 UTC",
       "error": "invalid jump destination",
-      "result": null,
+      "result": {},
       "subtraces": 0,
       "timestamp": 1473348165,
       "traceAddress": [],

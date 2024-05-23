@@ -183,7 +183,7 @@ TEST[DATE|TIME] Format:  json
           "blockHash": "0x10a610f712557f961e854be9b19561eea3c9c19ab7b302027877181935789da8",
           "blockNumber": 6513870,
           "error": "invalid jump destination",
-          "result": null,
+          "result": {},
           "subtraces": 0,
           "timestamp": 1539524970,
           "traceAddress": [],
