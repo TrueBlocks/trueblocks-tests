@@ -2,6 +2,7 @@ config?
 Args: []
 Opts: {}
 Format:  json
+Can not process this command in test mode.
 {
   "data": [],
   "meta": {
