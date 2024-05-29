@@ -7,6 +7,24 @@ TEST[DATE|TIME] Format:  json
   "data": [
     {
       "action": {
+        "author": "0xbcdfc35b86bedf72f0cda046a3c16829a2ef41d1",
+        "rewardType": "block",
+        "to": "0x0",
+        "value": "5000000000000000000"
+      },
+      "blockHash": "0xc65ac7164218ff90ca8101c360f717c465da10bd63007b071c26dd7dedd41324",
+      "blockNumber": 2222222,
+      "date": "2016-09-08 15:22:45 UTC",
+      "result": {},
+      "subtraces": 0,
+      "timestamp": 1473348165,
+      "traceAddress": [],
+      "transactionHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "transactionIndex": 0,
+      "type": "reward"
+    },
+    {
+      "action": {
         "callType": "call",
         "from": "0x02fcf30912b6fe2b6452ee19721c6068fe4c7b61",
         "gas": 976744,
@@ -301,24 +319,6 @@ TEST[DATE|TIME] Format:  json
       "transactionHash": "0x0d7d2dde7e180e8c060047c898961d45bcb643d6d238cbfcff2755978912c906",
       "transactionIndex": 14,
       "type": "call"
-    },
-    {
-      "action": {
-        "author": "0xbcdfc35b86bedf72f0cda046a3c16829a2ef41d1",
-        "rewardType": "block",
-        "to": "0x0",
-        "value": "5000000000000000000"
-      },
-      "blockHash": "0xc65ac7164218ff90ca8101c360f717c465da10bd63007b071c26dd7dedd41324",
-      "blockNumber": 2222222,
-      "date": "2016-09-08 15:22:45 UTC",
-      "result": {},
-      "subtraces": 0,
-      "timestamp": 1473348165,
-      "traceAddress": [],
-      "transactionHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "transactionIndex": 0,
-      "type": "reward"
     }
   ]
 }
