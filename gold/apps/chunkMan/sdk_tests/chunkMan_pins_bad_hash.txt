@@ -7,6 +7,6 @@ Unpin:  true
 Format:  json
 {
   "errors": [
-    "The ./unpins file does not exist."
+    "The file ./unpins was not found in the local folder."
   ]
 }
