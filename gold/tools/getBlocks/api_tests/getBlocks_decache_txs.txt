@@ -2,7 +2,7 @@ blocks?blocks=12&decache
 {
   "data": [
     {
-      "msg": "1 items totaling 168 bytes were removed from the blocks cache."
+      "msg": "2 items totaling 188 bytes were removed from the blocks cache."
     }
   ],
   "meta": {
