@@ -2,22 +2,7 @@ export?addrs=meriam.eth&decache
 {
   "data": [
     {
-      "msg": "0 items totaling 0 bytes were removed from the statements cache."
-    },
-    {
-      "msg": "0 items totaling 0 bytes were removed from the traces cache."
-    },
-    {
-      "msg": "0 items totaling 0 bytes were removed from the transactions cache."
-    },
-    {
-      "msg": "0 items totaling 0 bytes were removed from the receipts cache."
-    },
-    {
-      "msg": "0 items totaling 0 bytes were removed from the withdrawals cache."
-    },
-    {
-      "msg": "Monitor for 0x054993ab0f2b1acc0fdc65405ee203b4271bebe6 was permanently removed."
+      "msg": "Monitor for 0x054993ab0f2b1acc0fdc65405ee203b4271bebe6 was permanently removed.                              "
     }
   ],
   "meta": {

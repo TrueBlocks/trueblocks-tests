@@ -3,14 +3,4 @@ TEST[DATE|TIME] Addrs:  [0x00ad1a7b0ef4d3c5070d73b9412b6ed22efb7533]
 TEST[DATE|TIME] Decache:  true
 TEST[DATE|TIME] Caps:  cache,decache
 TEST[DATE|TIME] Format:  txt
-TEST[DATE|TIME] Addrs:  [0x00ad1a7b0ef4d3c5070d73b9412b6ed22efb7533]
-TEST[DATE|TIME] Decache:  true
-TEST[DATE|TIME] Caps:  cache,decache,ether
-TEST[DATE|TIME] Format:  txt
-0 items totaling 0 bytes were removed from the statements cache.
-0 items totaling 0 bytes were removed from the traces cache.
-0 items totaling 0 bytes were removed from the transactions cache.
-0 items totaling 0 bytes were removed from the receipts cache.
-0 items totaling 0 bytes were removed from the withdrawals cache.
-Monitor for 0x00ad1a7b0ef4d3c5070d73b9412b6ed22efb7533 was permanently removed.
-INFO[DATE|TIME] Decaching complete
+Monitor for 0x00ad1a7b0ef4d3c5070d73b9412b6ed22efb7533 was permanently removed.                              
