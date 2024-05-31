@@ -1,4 +1,4 @@
-slurp?addrs=wolfofethereum.eth&types=int&blocks=12524380-13675400&fmt=json
+slurp?addrs=wolfofethereum.eth&parts=int&blocks=12524380-13675400&fmt=json
 {
   "data": [
     {

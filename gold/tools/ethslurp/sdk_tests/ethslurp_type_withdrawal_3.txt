@@ -1,9 +1,9 @@
-slurp?addrs=0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63&types=withdrawals&blocks=18000000-18200000&ether
-Args: [addrs=0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63 types=withdrawals blocks=18000000-18200000 ether]
-Opts: {"addrs":["0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63"],"blocks":["18000000-18200000"],"types":256,"ether":true}
+slurp?addrs=0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63&parts=withdrawals&blocks=18000000-18200000&ether
+Args: [addrs=0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63 parts=withdrawals blocks=18000000-18200000 ether]
+Opts: {"addrs":["0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63"],"blocks":["18000000-18200000"],"parts":256,"ether":true}
 Addrs:  [0x0e39e47eebd12cc4d08b214a0037c63c78f1fc63]
 Blocks:  [18000000-18200000]
-Types:  [withdrawals]
+Parts:  [withdrawals]
 Ether:  true
 Caps:  cache,decache,ether
 Format:  json

@@ -3,7 +3,7 @@ Args: [addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e blocks=0-1500000 appeara
 Opts: {"addrs":["0x9519afbc60719a83c470ceec41e32d3e4b8b262e"],"blocks":["0-1500000"],"appearances":true,"source":2,"count":true}
 Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 Blocks:  [0-1500000]
-Types:  [ext]
+Parts:  [ext]
 Appearances:  true
 Count:  true
 Caps:  cache,decache,ether

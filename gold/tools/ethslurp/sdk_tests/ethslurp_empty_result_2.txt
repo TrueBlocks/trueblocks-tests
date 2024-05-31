@@ -2,7 +2,7 @@ slurp?addrs=0x63c8c29af409bd31ec7ddeea58ff14f21e8980b5
 Args: [addrs=0x63c8c29af409bd31ec7ddeea58ff14f21e8980b5]
 Opts: {"addrs":["0x63c8c29af409bd31ec7ddeea58ff14f21e8980b5"]}
 Addrs:  [0x63c8c29af409bd31ec7ddeea58ff14f21e8980b5]
-Types:  [ext]
+Parts:  [ext]
 Caps:  cache,decache,ether
 Format:  json
 {

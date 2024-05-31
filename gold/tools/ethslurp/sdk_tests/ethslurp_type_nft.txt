@@ -1,9 +1,9 @@
-slurp?addrs=0x00a3819199113fc6a6e6ba1298afde7377e2009b&types=nfts&blocks=0-8500000
-Args: [addrs=0x00a3819199113fc6a6e6ba1298afde7377e2009b types=nfts blocks=0-8500000]
-Opts: {"addrs":["0x00a3819199113fc6a6e6ba1298afde7377e2009b"],"blocks":["0-8500000"],"types":16}
+slurp?addrs=0x00a3819199113fc6a6e6ba1298afde7377e2009b&parts=nfts&blocks=0-8500000
+Args: [addrs=0x00a3819199113fc6a6e6ba1298afde7377e2009b parts=nfts blocks=0-8500000]
+Opts: {"addrs":["0x00a3819199113fc6a6e6ba1298afde7377e2009b"],"blocks":["0-8500000"],"parts":16}
 Addrs:  [0x00a3819199113fc6a6e6ba1298afde7377e2009b]
 Blocks:  [0-8500000]
-Types:  [nfts]
+Parts:  [nfts]
 Caps:  cache,decache,ether
 Format:  json
 {

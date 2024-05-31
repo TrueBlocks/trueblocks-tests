@@ -1,9 +1,9 @@
-slurp?addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346&types=ext&blocks=0-7000000&ether
-Args: [addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346 types=ext blocks=0-7000000 ether]
-Opts: {"addrs":["0x1324e7b922b30B49Ab8EA81086341cc41C249346"],"blocks":["0-7000000"],"types":2,"ether":true}
+slurp?addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346&parts=ext&blocks=0-7000000&ether
+Args: [addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346 parts=ext blocks=0-7000000 ether]
+Opts: {"addrs":["0x1324e7b922b30B49Ab8EA81086341cc41C249346"],"blocks":["0-7000000"],"parts":2,"ether":true}
 Addrs:  [0x1324e7b922b30b49ab8ea81086341cc41c249346]
 Blocks:  [0-7000000]
-Types:  [ext]
+Parts:  [ext]
 Ether:  true
 Caps:  cache,decache,ether
 Format:  json

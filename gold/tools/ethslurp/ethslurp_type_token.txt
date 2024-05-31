@@ -1,7 +1,9 @@
 chifra slurp  0x9519afbc60719a83c470ceec41e32d3e4b8b262e --types token 0-1500000 --fmt json --ether
+Flag --types has been deprecated, The --types option has been deprecated.
+WARN[DATE|TIME] The --types flag is deprecated. Please use --parts instead.
 TEST[DATE|TIME] Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 TEST[DATE|TIME] Blocks:  [0-1500000]
-TEST[DATE|TIME] Types:  [token]
+TEST[DATE|TIME] Parts:  [token]
 TEST[DATE|TIME] Ether:  true
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json

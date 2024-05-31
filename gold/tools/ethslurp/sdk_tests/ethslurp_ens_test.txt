@@ -1,9 +1,9 @@
-slurp?addrs=wolfofethereum.eth&types=int&blocks=12524380-13675400
-Args: [addrs=wolfofethereum.eth types=int blocks=12524380-13675400]
-Opts: {"addrs":["wolfofethereum.eth"],"blocks":["12524380-13675400"],"types":4}
+slurp?addrs=wolfofethereum.eth&parts=int&blocks=12524380-13675400
+Args: [addrs=wolfofethereum.eth parts=int blocks=12524380-13675400]
+Opts: {"addrs":["wolfofethereum.eth"],"blocks":["12524380-13675400"],"parts":4}
 Addrs:  [0x0559a413a3ab19508a144aeebc474eb14c5e76ce]
 Blocks:  [12524380-13675400]
-Types:  [int]
+Parts:  [int]
 Caps:  cache,decache,ether
 Format:  json
 {

@@ -1,9 +1,9 @@
-slurp?addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346&types=ext&blocks=3730590-3730700&output=output_test_file&append
-Args: [addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346 types=ext blocks=3730590-3730700 output=output_test_file append]
-Opts: {"addrs":["0x1324e7b922b30B49Ab8EA81086341cc41C249346"],"blocks":["3730590-3730700"],"types":2,"output":"output_test_file","append":true}
+slurp?addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346&parts=ext&blocks=3730590-3730700&output=output_test_file&append
+Args: [addrs=0x1324e7b922b30B49Ab8EA81086341cc41C249346 parts=ext blocks=3730590-3730700 output=output_test_file append]
+Opts: {"addrs":["0x1324e7b922b30B49Ab8EA81086341cc41C249346"],"blocks":["3730590-3730700"],"parts":2,"output":"output_test_file","append":true}
 Addrs:  [0x1324e7b922b30b49ab8ea81086341cc41c249346]
 Blocks:  [3730590-3730700]
-Types:  [ext]
+Parts:  [ext]
 OutputFn:  output_test_file
 Append:  true
 Caps:  cache,decache,ether

@@ -1,9 +1,9 @@
-slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&types=uncles&blocks=1-1000&ether
-Args: [addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f types=uncles blocks=1-1000 ether]
-Opts: {"addrs":["0x05a56e2d52c817161883f50c441c3228cfe54d9f"],"blocks":["1-1000"],"types":128,"ether":true}
+slurp?addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f&parts=uncles&blocks=1-1000&ether
+Args: [addrs=0x05a56e2d52c817161883f50c441c3228cfe54d9f parts=uncles blocks=1-1000 ether]
+Opts: {"addrs":["0x05a56e2d52c817161883f50c441c3228cfe54d9f"],"blocks":["1-1000"],"parts":128,"ether":true}
 Addrs:  [0x05a56e2d52c817161883f50c441c3228cfe54d9f]
 Blocks:  [1-1000]
-Types:  [uncles]
+Parts:  [uncles]
 Ether:  true
 Caps:  cache,decache,ether
 Format:  json

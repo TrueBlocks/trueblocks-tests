@@ -1,7 +1,7 @@
 chifra slurp  0x9519afbc60719a83c470ceec41e32d3e4b8b262e 0-1500000 --appearances --source key --count --page_id invalid --per_page 12 --fmt json
 TEST[DATE|TIME] Addrs:  [0x9519afbc60719a83c470ceec41e32d3e4b8b262e]
 TEST[DATE|TIME] Blocks:  [0-1500000]
-TEST[DATE|TIME] Types:  [ext]
+TEST[DATE|TIME] Parts:  [ext]
 TEST[DATE|TIME] Appearances:  true
 TEST[DATE|TIME] Source:  key
 TEST[DATE|TIME] Count:  true

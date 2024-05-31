@@ -1,7 +1,7 @@
-chifra slurp  0x05a56e2d52c817161883f50c441c3228cfe54d9f --types uncles 1-1000 --fmt json --ether
+chifra slurp  0x05a56e2d52c817161883f50c441c3228cfe54d9f --parts uncles 1-1000 --fmt json --ether
 TEST[DATE|TIME] Addrs:  [0x05a56e2d52c817161883f50c441c3228cfe54d9f]
 TEST[DATE|TIME] Blocks:  [1-1000]
-TEST[DATE|TIME] Types:  [uncles]
+TEST[DATE|TIME] Parts:  [uncles]
 TEST[DATE|TIME] Ether:  true
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json

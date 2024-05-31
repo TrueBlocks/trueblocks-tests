@@ -1,4 +1,4 @@
-slurp?addrs=0x83f564d180b58ad9a02a449105568189ee7de8cb&types=1155&blocks=13103657-13255822&fmt=json&ether
+slurp?addrs=0x83f564d180b58ad9a02a449105568189ee7de8cb&parts=1155&blocks=13103657-13255822&fmt=json&ether
 {
   "data": [
     {

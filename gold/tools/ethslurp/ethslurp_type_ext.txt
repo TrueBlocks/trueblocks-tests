@@ -1,7 +1,7 @@
-chifra slurp  0x1324e7b922b30B49Ab8EA81086341cc41C249346 --types ext 0-7000000 --fmt json --ether
+chifra slurp  0x1324e7b922b30B49Ab8EA81086341cc41C249346 --parts ext 0-7000000 --fmt json --ether
 TEST[DATE|TIME] Addrs:  [0x1324e7b922b30b49ab8ea81086341cc41c249346]
 TEST[DATE|TIME] Blocks:  [0-7000000]
-TEST[DATE|TIME] Types:  [ext]
+TEST[DATE|TIME] Parts:  [ext]
 TEST[DATE|TIME] Ether:  true
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json

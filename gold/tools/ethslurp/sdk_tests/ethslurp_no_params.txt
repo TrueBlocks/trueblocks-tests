@@ -1,7 +1,7 @@
 slurp?
 Args: []
 Opts: {}
-Types:  [ext]
+Parts:  [ext]
 Caps:  cache,decache,ether
 Format:  json
 {

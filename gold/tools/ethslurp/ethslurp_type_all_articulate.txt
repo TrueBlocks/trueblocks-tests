@@ -1,7 +1,7 @@
 chifra slurp  trueblocks.eth 8860500-8860520 --articulate --fmt json --types all
 TEST[DATE|TIME] Addrs:  [0xf503017d7baf7fbc0fff7492b751025c6a78179b]
 TEST[DATE|TIME] Blocks:  [8860500-8860520]
-TEST[DATE|TIME] Types:  [ext int token nfts 1155 miner uncles withdrawals]
+TEST[DATE|TIME] Parts:  [ext int token nfts 1155 miner uncles withdrawals]
 TEST[DATE|TIME] Articulate:  true
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  json
