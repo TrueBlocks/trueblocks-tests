@@ -10,6 +10,9 @@ Format:  json
   "data": [
     {
       "msg": "0 items totaling 0 bytes were removed from the state cache."
+    },
+    {
+      "msg": "0 items totaling 0 bytes were removed from the results cache."
     }
   ],
   "meta": {

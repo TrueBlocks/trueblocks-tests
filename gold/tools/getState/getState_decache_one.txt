@@ -5,3 +5,4 @@ TEST[DATE|TIME] Decache:  true
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
 0 items totaling 0 bytes were removed from the state cache.
+0 items totaling 0 bytes were removed from the results cache.
