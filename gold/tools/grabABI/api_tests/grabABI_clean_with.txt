@@ -1,6 +1,14 @@
 abis?addrs=0x713b73c3994442b533e6a083ec968e40606810ec&decache
 {
-  "errors": [
-    "The --decache option is not available in api mode."
-  ]
+  "data": [],
+  "meta": {
+    "client": "0xdeadbeef",
+    "finalized": "0xdeadbeef",
+    "staging": "0xdeadbeef",
+    "ripe": "0xdeadbeef",
+    "unripe": "0xdeadbeef",
+    "chainId": 1,
+    "networkId": 1,
+    "chain": "mainnet"
+  }
 }
