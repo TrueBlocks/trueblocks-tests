@@ -4,8 +4,6 @@ Opts: {"terms":["etwork"],"autoname":"0x0","verbose":true}
 Terms:  [etwork]
 Verbose:  true
 Format:  json
-gRPC connection error: gRPC server not running
-falling back to file-based search
 {
   "data": [
     {
