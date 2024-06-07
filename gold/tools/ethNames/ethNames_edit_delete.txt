@@ -10,7 +10,6 @@ TEST[DATE|TIME] Format:  json
       "deleted": true,
       "isCustom": true,
       "name": "NAME_CHANGED",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE_CHANGED",
       "symbol": "SYMBOL_CHANGED",
       "tags": "TAGS_CHANGED"

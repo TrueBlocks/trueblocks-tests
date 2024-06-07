@@ -16,7 +16,6 @@ names?create&fmt=json
       "decimals": 11,
       "isCustom": true,
       "name": "NAME",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE",
       "symbol": "SYMBOL",
       "tags": "TAGS"

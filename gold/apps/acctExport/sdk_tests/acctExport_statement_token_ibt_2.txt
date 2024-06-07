@@ -2168,7 +2168,6 @@ export?addrs=0xf503017d7baf7fbc0fff7492b751025c6a78179b&accounting&statements&fi
       "isErc721": false,
       "isPrefund": false,
       "name": "Name 0xf503017d",
-      "petname": "annually-famous-crappie",
       "source": "0",
       "symbol": "0",
       "tags": "00-Active"

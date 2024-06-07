@@ -8,7 +8,6 @@ TEST[DATE|TIME] Format:  json
       "address": "0x0000000000000000000000000000000010101010",
       "decimals": 13,
       "name": "NAME_CHANGED",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE_CHANGED",
       "symbol": "SYMBOL_CHANGED",
       "tags": "TAGS_CHANGED"

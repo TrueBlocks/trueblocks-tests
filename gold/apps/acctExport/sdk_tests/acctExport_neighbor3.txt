@@ -27,7 +27,6 @@ export?addrs=0xffeac0305ede3a915295ec8e61c7f881006f4474&neighbors&firstBlock=0&l
       "symbol": "",
       "source": "Genesis",
       "decimals": 0,
-      "petname": "awfully-romantic-bengal",
       "isCustom": false,
       "isPrefund": true,
       "isContract": false,

@@ -4,7 +4,6 @@ names?fmt=json
     {
       "address": "0x000000000000000000000000000000000000dead",
       "name": "ENS: Burn Address",
-      "petname": "abnormally-able-bee",
       "source": "EtherScan.io",
       "tags": "55-Defi"
     },
@@ -15,7 +14,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "HomeWork 🏠🛠️",
-      "petname": "absolutely-normal-hawk",
       "source": "On chain",
       "symbol": "HWK",
       "tags": "50-Tokens:ERC721"
@@ -26,7 +24,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Chi Gastoken by 1inch",
-      "petname": "actually-suitable-finch",
       "source": "On chain",
       "symbol": "CHI",
       "tags": "50-Tokens:ERC20"
@@ -35,7 +32,6 @@ names?fmt=json
       "address": "0x000000000000541e251335090ac5b47176af4f7e",
       "isContract": true,
       "name": "dex.blue",
-      "petname": "adequately-probable-werewolf",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -45,7 +41,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "TrueUSD",
-      "petname": "mostly-whole-gecko",
       "source": "On chain",
       "symbol": "TUSD",
       "tags": "50-Tokens:ERC20"
@@ -54,7 +49,6 @@ names?fmt=json
       "address": "0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e",
       "isContract": true,
       "name": "ENS: Registry with Fallback",
-      "petname": "rightly-fast-impala",
       "source": "EtherScan.io",
       "tags": "34-ENS"
     },
@@ -62,7 +56,6 @@ names?fmt=json
       "address": "0x0000000000a84fe7f5d858c8a22121c975ff0b42",
       "isContract": true,
       "name": "Poster",
-      "petname": "hardly-singular-cowbird",
       "tags": "30-Contracts"
     },
     {
@@ -71,7 +64,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Gastoken.io",
-      "petname": "allegedly-sound-haddock",
       "source": "On chain",
       "symbol": "GST2",
       "tags": "50-Tokens:ERC20"
@@ -80,7 +72,6 @@ names?fmt=json
       "address": "0x0000000000c90bc353314b6911180ed7e06019a9",
       "isContract": true,
       "name": "Arbitrage Bot",
-      "petname": "heavily-keen-flamingo",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -88,7 +79,6 @@ names?fmt=json
       "address": "0x0000000006adbd7c01bc0738cdbfc3932600ad63",
       "isContract": true,
       "name": "1inch Exchange",
-      "petname": "sincerely-closing-blowfish",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -96,7 +86,6 @@ names?fmt=json
       "address": "0x00000000219ab540356cbb839cbe05303d7705fa",
       "isContract": true,
       "name": "Eth2 Deposit Contract",
-      "petname": "implicitly-definite-terrapin",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -106,7 +95,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Dai Backstop Syndicate v3-100",
-      "petname": "absolutely-suited-killdeer",
       "source": "On chain",
       "symbol": "DBSv3-100",
       "tags": "50-Tokens:ERC20"
@@ -117,7 +105,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "TrueGBP",
-      "petname": "hugely-robust-gull",
       "source": "On chain",
       "symbol": "TGBP",
       "tags": "50-Tokens:ERC20"
@@ -126,7 +113,6 @@ names?fmt=json
       "address": "0x0000000053d411becdb4a82d8603edc6d8b8b3bc",
       "isContract": true,
       "name": "1inch Exchange",
-      "petname": "notably-pleasant-parakeet",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -134,7 +120,6 @@ names?fmt=json
       "address": "0x00000000af5a61acaf76190794e3fdf1289288a1",
       "isContract": true,
       "name": "Arbitrage Bot",
-      "petname": "truly-electric-koala",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -142,7 +127,6 @@ names?fmt=json
       "address": "0x00000000b1786c9698c160d78232c78d6f6474fe",
       "isContract": true,
       "name": "Arbitrage Bot",
-      "petname": "correctly-profound-tiger",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -150,14 +134,12 @@ names?fmt=json
       "address": "0x0000000f8ef4be2b7aed6724e893c1b674b9682d",
       "isContract": true,
       "name": "1inch Exchange",
-      "petname": "luckily-divine-bream",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
     {
       "address": "0x0000000fcdf5ba49794f4151d6daff4505bc47d1",
       "name": "Grant 3596 - The Uniswap v3 Options Education Fund",
-      "petname": "externally-amused-monkey",
       "source": "https://gitcoin.co/grants/3596/the-uniswap-v3-options-education-fund",
       "tags": "31-Gitcoin:Grants"
     },
@@ -167,7 +149,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "TrueCAD",
-      "petname": "currently-above-hagfish",
       "source": "On chain",
       "symbol": "TCAD",
       "tags": "50-Tokens:ERC20"
@@ -176,7 +157,6 @@ names?fmt=json
       "address": "0x000005edbbc1f258302add96b5e20d3442e5dd89",
       "isContract": true,
       "name": "1inch Exchange",
-      "petname": "marginally-welcomed-orca",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -186,7 +166,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "TrueAUD",
-      "petname": "nicely-noble-akita",
       "source": "On chain",
       "symbol": "TAUD",
       "tags": "50-Tokens:ERC20"
@@ -194,7 +173,6 @@ names?fmt=json
     {
       "address": "0x000061a8f22a1e60ba0b3caadfa958e954fc2b6a",
       "name": "Grant 2195 - Best Practicers",
-      "petname": "only-optimal-oryx",
       "source": "https://gitcoin.co/grants/2195/best-practicers",
       "tags": "31-Gitcoin:Grants"
     },
@@ -204,7 +182,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "TrueHKD",
-      "petname": "routinely-dynamic-feline",
       "source": "On chain",
       "symbol": "THKD",
       "tags": "50-Tokens:ERC20"
@@ -215,7 +192,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Alchemy",
-      "petname": "correctly-composed-skink",
       "source": "On chain",
       "symbol": "ALCH",
       "tags": "50-Tokens:ERC20"
@@ -226,7 +202,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Archer DAO: Voting Power Prism Proxy",
-      "petname": "similarly-eager-ram",
       "source": "On chain",
       "tags": "50-Tokens:ERC20"
     },
@@ -234,14 +209,12 @@ names?fmt=json
       "address": "0x0001fb050fe7312791bf6475b96569d83f695c9f",
       "isContract": true,
       "name": "Ygov.finance: yearn",
-      "petname": "endlessly-apparent-dodo",
       "tags": "55-Defi"
     },
     {
       "address": "0x000983ba1a675327f0940b56c2d49cd9c042dfbf",
       "isContract": true,
       "name": "GU: Shiny Legendary Pack",
-      "petname": "largely-star-rabbit",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -249,14 +222,12 @@ names?fmt=json
       "address": "0x001a589dda0d6be37632925eaf1256986b2c6ad0",
       "isContract": true,
       "name": "Oraclize_id304",
-      "petname": "loosely-brief-grackle",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
     {
       "address": "0x001bae3291db1f401771a1eaa8f0078534177bcc",
       "name": "Sansum Diabetes Research Institute",
-      "petname": "scarcely-complete-fly",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -266,7 +237,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "IPSX",
-      "petname": "manually-enjoyed-seasnail",
       "source": "On chain",
       "symbol": "IPSX",
       "tags": "50-Tokens:ERC20"
@@ -277,14 +247,12 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "GenericLevCompFarm",
-      "petname": "hopefully-blessed-wildcat",
       "source": "On chain",
       "tags": "50-Tokens:ERC20"
     },
     {
       "address": "0x00216505799d9e3117b40b94a24dc0fa286a57a4",
       "name": "Grant 1168 Flowerpatch Emojis & Artwork Fund",
-      "petname": "primarily-many-killdeer",
       "source": "https://gitcoin.co/grants/1168/flowerpatch-emojis-artwork-fund",
       "tags": "31-Gitcoin:Grants"
     },
@@ -294,7 +262,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Democracy Earth",
-      "petname": "personally-normal-caribou",
       "source": "On chain",
       "symbol": "HOUR",
       "tags": "50-Tokens:ERC20"
@@ -303,28 +270,24 @@ names?fmt=json
       "address": "0x0034ea9808e620a0ef79261c51af20614b742b24",
       "isContract": true,
       "name": "Pool Usdc MCDAwarePool v0.2.12",
-      "petname": "steadily-cool-bengal",
       "source": "EtherScan.io",
       "tags": "30-Contracts:Pool Together"
     },
     {
       "address": "0x0035cc37599241d007d0aba1fb931c5fa757f7a1",
       "name": "Grant 2388 - The Commons Swarm: An Augmented Bonding Curve model for DAOs",
-      "petname": "jolly-still-raccoon",
       "source": "https://gitcoin.co/grants/2388/the-commons-swarm-an-augmented-bonding-curve-mode",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x0037ce3d4b7f8729c8607d8d0248252be68202c0",
       "name": "Miner_0027_260",
-      "petname": "awfully-legal-prawn",
       "source": "OnChain",
       "tags": "91-Early:Miners"
     },
     {
       "address": "0x0038eb9084ea8aa63dcb8fbdd63d8862f5bbb3a0",
       "name": "The Turing Trust",
-      "petname": "likely-massive-raptor",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -334,7 +297,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "SushiSwap LP Token",
-      "petname": "amazingly-complete-turtle",
       "source": "On chain",
       "symbol": "SLP",
       "tags": "50-Tokens:ERC20"
@@ -345,7 +307,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Uniswap V2",
-      "petname": "exactly-feasible-dogfish",
       "source": "On chain",
       "symbol": "UNI-V2",
       "tags": "50-Tokens:ERC20"
@@ -357,7 +318,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "Hall Of Fame Goat Lodge",
-      "petname": "quickly-selected-piglet",
       "source": "On chain",
       "symbol": "HOFG",
       "tags": "50-Tokens:ERC721"
@@ -365,7 +325,6 @@ names?fmt=json
     {
       "address": "0x005241438caf3eacb05bb6543151f7af894c5b58",
       "name": "Grant 2763 - rugpullindex.com - Improving stake safety",
-      "petname": "entirely-neat-fowl",
       "source": "https://gitcoin.co/grants/2763/rugpullindexcom-improving-stake-safety",
       "tags": "31-Gitcoin:Grants"
     },
@@ -375,7 +334,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Uniswap V2",
-      "petname": "formerly-vast-locust",
       "source": "On chain",
       "symbol": "UNI-V2",
       "tags": "50-Tokens:ERC20"
@@ -384,7 +342,6 @@ names?fmt=json
       "address": "0x005ca4f1493f451c1588186c570a434ec38e718d",
       "isContract": true,
       "name": "BrightID Agent",
-      "petname": "awfully-real-scorpion",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -392,7 +349,6 @@ names?fmt=json
       "address": "0x005f5cee7a43331d5a3d3eec71305925a62f34b6",
       "isContract": true,
       "name": "DAO Drain 086",
-      "petname": "hopelessly-in-snake",
       "source": "GethSource",
       "tags": "80-Malicious:DaoDrain"
     },
@@ -400,7 +356,6 @@ names?fmt=json
       "address": "0x006087d6ac20840c23ba298512db454a05c19b10",
       "isContract": true,
       "name": "Grant 0743 #fittogetherdao (like Pooltogether for Fitness and Wellbeing)",
-      "petname": "uniquely-healthy-sheepdog",
       "source": "https://gitcoin.co/grants/743/fittogetherdao-like-pooltogether-for-fitness-and-",
       "tags": "31-Gitcoin:Grants"
     },
@@ -410,7 +365,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Stox",
-      "petname": "firmly-improved-toucan",
       "source": "On chain",
       "symbol": "STX",
       "tags": "50-Tokens:ERC20"
@@ -418,7 +372,6 @@ names?fmt=json
     {
       "address": "0x006cfc89e7f521ce3290b200df9530dce911b896",
       "name": "St. Ignatius Martyr Catholic Church",
-      "petname": "broadly-bursting-mule",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -426,14 +379,12 @@ names?fmt=json
       "address": "0x006e61aa7e7ce25b8dad331d5181f2fbe5c23a54",
       "isContract": true,
       "name": "Shanghai Cleaner Contract",
-      "petname": "specially-immune-fly",
       "source": "TrueBlocks.io",
       "tags": "80-Malicious:Shanghai"
     },
     {
       "address": "0x0072d5887bc9979168835d8ac37ca1c2f6a4dac9",
       "name": "Ultimate Unicorns",
-      "petname": "reasonably-accurate-mako",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -443,7 +394,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "BrightID_Main_DAO",
-      "petname": "severely-massive-oriole",
       "source": "On chain",
       "symbol": "BMAIN",
       "tags": "50-Tokens:ERC20"
@@ -451,7 +401,6 @@ names?fmt=json
     {
       "address": "0x007b003c4d0145b512286494d5ae123aeef29d9e",
       "name": "Grant 0845 Remote Developer Bootcamp",
-      "petname": "briefly-new-glider",
       "source": "https://gitcoin.co/grants/845/remote-developer-bootcamp",
       "tags": "31-Gitcoin:Grants"
     },
@@ -459,7 +408,6 @@ names?fmt=json
       "address": "0x007d42b9192b8c087b0d3e6ef73aae48e74b41c1",
       "isContract": true,
       "name": "Ethventures4",
-      "petname": "badly-capable-koala",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -469,7 +417,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Zō Baby 象の赤ちゃん",
-      "petname": "preferably-saved-elf",
       "source": "On chain",
       "symbol": "ZOBABY",
       "tags": "50-Tokens:ERC20"
@@ -480,7 +427,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "AINU TOKEN",
-      "petname": "plainly-immune-ladybird",
       "source": "On chain",
       "symbol": "AINU",
       "tags": "50-Tokens:ERC20"
@@ -488,28 +434,24 @@ names?fmt=json
     {
       "address": "0x0087a081a9b430fd8f688c6ac5dd24421bfb060d",
       "name": "Grant 0779 DeFi Latam",
-      "petname": "grossly-upright-iguana",
       "source": "https://gitcoin.co/grants/779/defi-latam",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x0093e5f2a850268c0ca3093c7ea53731296487eb",
       "name": "Polygon Exploiter First Sender",
-      "petname": "randomly-evolved-thrush",
       "tags": "80-Malicious"
     },
     {
       "address": "0x0096800019bf4eca0bed5a714a553ecf844884c5",
       "isContract": true,
       "name": "Etheropt_id107_cnt215_5mo",
-      "petname": "horribly-fun-bee",
       "source": "Ether Camp",
       "tags": "91-Early:Addresses"
     },
     {
       "address": "0x009a82e5762189384bf2880a2d21f75e209eee12",
       "name": "UNRWA USA",
-      "petname": "barely-sweet-egret",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -519,7 +461,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Writing Hedge Contracts DAI",
-      "petname": "secretly-saving-anteater",
       "source": "On chain",
       "symbol": "writeDAI",
       "tags": "50-Tokens:ERC20"
@@ -527,7 +468,6 @@ names?fmt=json
     {
       "address": "0x009e06646ac4dece817f3e859850acd9b239bc48",
       "name": "@firepower",
-      "petname": "mistakenly-allowing-yak",
       "source": "Steem",
       "tags": "91-Early:Addresses"
     },
@@ -537,7 +477,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Knoxstertoken",
-      "petname": "annually-relevant-grouper",
       "source": "On chain",
       "symbol": "FKX",
       "tags": "50-Tokens:ERC20"
@@ -545,14 +484,12 @@ names?fmt=json
     {
       "address": "0x00a33c8379b03085ad0c0b4f6fb38c63deba8475",
       "name": "Grant 4103 - Supplements Death Match",
-      "petname": "uniquely-prime-fish",
       "source": "https://gitcoin.co/grants/4103/supplements-death-match",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x00b491d250b9bcce482b6e70321b0a5339d183a6",
       "name": "Grant 0976 Magical Machine Money",
-      "petname": "deadly-square-gecko",
       "source": "https://gitcoin.co/grants/976/magical-machine-money",
       "tags": "31-Gitcoin:Grants"
     },
@@ -563,7 +500,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "Cypher City",
-      "petname": "scarcely-handy-meerkat",
       "source": "On chain",
       "symbol": "CYPHER",
       "tags": "50-Tokens:ERC721"
@@ -574,7 +510,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Eximchain Token",
-      "petname": "rightly-fitting-stork",
       "source": "On chain",
       "symbol": "EXC",
       "tags": "50-Tokens:ERC20"
@@ -585,7 +520,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "SKALE",
-      "petname": "violently-fun-shark",
       "source": "Giveth website",
       "symbol": "SKL",
       "tags": "50-Tokens:ERC20"
@@ -593,7 +527,6 @@ names?fmt=json
     {
       "address": "0x00ca33970150dff4fdd16f4992810117296768dd",
       "name": "Creative Development Collective",
-      "petname": "regularly-massive-doberman",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -601,7 +534,6 @@ names?fmt=json
       "address": "0x00cf36853aa4024fb5bf5cc377dfd85844b411a0",
       "isContract": true,
       "name": "Grant 0143 Dappnode - Panvala League",
-      "petname": "hugely-topical-trout",
       "source": "https://gitcoin.co/grants/143/dappnode-panvala-league",
       "tags": "31-Gitcoin:Grants"
     },
@@ -609,34 +541,29 @@ names?fmt=json
       "address": "0x00d0f137b51692d0ac708bde7b367a373865cffe",
       "isContract": true,
       "name": "Zapper.Fi : Balancer Remove",
-      "petname": "similarly-unbiased-ostrich",
       "source": "EtherScan.io",
       "tags": "50-Tokens:ERC20"
     },
     {
       "address": "0x00d7e52cb140df6ab91291e289318ad62a18f80c",
       "name": "ReFi In The Classroom",
-      "petname": "unduly-quality-sloth",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x00de4b13153673bcae2616b67bf822500d325fc3",
       "name": "Gitcoin Maintainer",
-      "petname": "badly-capital-redbird",
       "tags": "31-Gitcoin:Admin"
     },
     {
       "address": "0x00e4f5f746242e4d115bd65aac7c08fe5d38fb21",
       "name": "Grant 1839 the Etherchest Ecosystem",
-      "petname": "needlessly-sure-vervet",
       "source": "https://gitcoin.co/grants/1839/the-etherchest-ecosystem",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x00fe460a15b49d09f39b057d0f1a7b9444f4f2be",
       "name": "Grant 0624 Nescience Software Portfolio Rebalancing Direct Indexing",
-      "petname": "illegally-humane-sunbeam",
       "source": "https://gitcoin.co/grants/624/nescience-software-portfolio-rebalancing-direct-in",
       "tags": "31-Gitcoin:Grants"
     },
@@ -647,7 +574,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "DAO Drain 075",
-      "petname": "slightly-key-meerkat",
       "source": "GethSource Ether Camp",
       "tags": "80-Malicious:DaoDrain"
     },
@@ -657,7 +583,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Digg",
-      "petname": "eminently-sharp-horse",
       "source": "On chain",
       "symbol": "DIGG",
       "tags": "50-Tokens:ERC20"
@@ -668,7 +593,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "SoundMoneyCoin",
-      "petname": "specially-adapting-crab",
       "source": "On chain",
       "symbol": "SOV",
       "tags": "50-Tokens:ERC20"
@@ -676,21 +600,18 @@ names?fmt=json
     {
       "address": "0x0109295ece0afa326f651d455c7aed0cb31c9685",
       "name": "Bring a stop to global poverty and alleviate hunger",
-      "petname": "properly-moral-buck",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x0109c0faae3f358bce232dff482e2d6eca1f4dab",
       "name": "FARE - Food Allergy Research &amp; Education",
-      "petname": "publicly-sharing-heron",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x010f0c8b31ba0cefe2764c373fa23e8635becb60",
       "name": "Lutheran World Relief",
-      "petname": "partially-elegant-slug",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -700,7 +621,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "FARM_UNI-V2",
-      "petname": "promptly-tight-lobster",
       "source": "On chain",
       "symbol": "fUNI-V2",
       "tags": "50-Tokens:ERC20"
@@ -708,14 +628,12 @@ names?fmt=json
     {
       "address": "0x0115f5ce3f986a35b1edb6f2c3815cebb2461e70",
       "name": "Grant 0790 Loft Radio",
-      "petname": "incredibly-good-honeybee",
       "source": "https://gitcoin.co/grants/790/loft-radio",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x011c2c1433b36a524b548444ae2f20c015427d04",
       "name": "Grant 0491 - Tokamak Network: Decentralized, Scalable, Turing Complete Layer 2 Plasma",
-      "petname": "brightly-ultimate-bengal",
       "source": "https://gitcoin.co/grants/491/tokamak-network-decentralized-scalable-turing-com",
       "tags": "31-Gitcoin:Grants"
     },
@@ -723,7 +641,6 @@ names?fmt=json
       "address": "0x012233b3c8177f0778d910ed88170b82de3bfe57",
       "isContract": true,
       "name": "Old ENS Registrar",
-      "petname": "secretly-optimum-adder",
       "source": "TrueBlocks.io",
       "tags": "34-ENS"
     },
@@ -731,14 +648,12 @@ names?fmt=json
       "address": "0x0122676358aee287246b2a84377c8ab664d013cb",
       "isContract": true,
       "name": "dYdX 0x Wrapper",
-      "petname": "happily-darling-gelding",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
     {
       "address": "0x012546d756867d4a88cd3322bbb72d787e49ebf3",
       "name": "MetaGame",
-      "petname": "annually-direct-weasel",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -746,14 +661,12 @@ names?fmt=json
       "address": "0x0133aa47b6197d0ba090bf2cd96626eb71ffd13c",
       "isContract": true,
       "name": "Chainlink BTC-ETH Aggregator",
-      "petname": "ideally-proud-spaniel",
       "source": "EtherScan.io",
       "tags": "37-SelfDestructed"
     },
     {
       "address": "0x013e247651a601535eda98528b2961813406d96e",
       "name": "Free Arts NYC",
-      "petname": "firstly-comic-hound",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -763,7 +676,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Paycentos Token",
-      "petname": "luckily-wise-chimp",
       "source": "On chain",
       "symbol": "PYN",
       "tags": "50-Tokens:ERC20"
@@ -771,7 +683,6 @@ names?fmt=json
     {
       "address": "0x014797cc3d15f6ea6bb220a32a465ac8f7a5e3b8",
       "name": "FUTURO NATIVO",
-      "petname": "utterly-cuddly-yak",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -781,14 +692,12 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "ICOS",
-      "petname": "correctly-fresh-spider",
       "source": "On chain",
       "tags": "50-Tokens:ERC20"
     },
     {
       "address": "0x014ffcf34d8515535b99d6aef654258c237168b6",
       "name": "Grant 1850 Fireth",
-      "petname": "enormously-fine-starling",
       "source": "https://gitcoin.co/grants/1850/fireth",
       "tags": "31-Gitcoin:Grants"
     },
@@ -796,14 +705,12 @@ names?fmt=json
       "address": "0x015531a044bae03bf4dab1ceabfc232a969b7175",
       "isContract": true,
       "name": "GU: Rare Pack",
-      "petname": "mentally-noted-buck",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
     {
       "address": "0x015bf68ef11bd55e43a119b5752c4b3becae7f24",
       "name": "Grant 0627 Veridex",
-      "petname": "lately-desired-sloth",
       "source": "https://gitcoin.co/grants/627/veridex",
       "tags": "31-Gitcoin:Grants"
     },
@@ -811,14 +718,12 @@ names?fmt=json
       "address": "0x015c7c7a7d65bbdb117c573007219107bd7486f9",
       "isContract": true,
       "name": "Infura Transactions Contract",
-      "petname": "amazingly-premium-pegasus",
       "source": "Infura.io",
       "tags": "30-Contracts"
     },
     {
       "address": "0x015f2ec49adc333cd4e0f348c39c506eb3b1837f",
       "name": "NFT Artist Funding",
-      "petname": "luckily-quiet-anemone",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -828,7 +733,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "KingXChain",
-      "petname": "broadly-uncommon-slug",
       "source": "On chain",
       "symbol": "KXC",
       "tags": "50-Tokens:ERC20"
@@ -839,7 +743,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "MIRO Token",
-      "petname": "briefly-evident-elf",
       "source": "On chain",
       "symbol": "MIRO",
       "tags": "50-Tokens:ERC20"
@@ -850,7 +753,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Rari Stable Pool Token",
-      "petname": "tightly-central-muskrat",
       "source": "On chain",
       "symbol": "RSPT",
       "tags": "50-Tokens:ERC20"
@@ -858,14 +760,12 @@ names?fmt=json
     {
       "address": "0x017946fc126d57e7823e68c647c24f28e5dc9988",
       "name": "Grant 0190 Groundhog",
-      "petname": "literally-devoted-fowl",
       "source": "https://gitcoin.co/grants/190/groundhog",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x018047343e8105fed2c5000912d03815d99f3e48",
       "name": "Grant 1920 Kevin",
-      "petname": "endlessly-main-chicken",
       "source": "https://gitcoin.co/grants/1920/kevin",
       "tags": "31-Gitcoin:Grants"
     },
@@ -875,7 +775,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "AIRSHIB",
-      "petname": "vertically-engaged-tapir",
       "source": "On chain",
       "symbol": "AIRSHIB",
       "tags": "50-Tokens:ERC20"
@@ -884,14 +783,12 @@ names?fmt=json
       "address": "0x01914e9c0594a087f508aceabfca45f57e471388",
       "isContract": true,
       "name": "Wallet_id66_cnt1_5mo",
-      "petname": "vaguely-enabled-trout",
       "source": "Ether Camp",
       "tags": "91-Early:Addresses"
     },
     {
       "address": "0x0193d941b50d91be6567c7ee1c0fe7af498b4137",
       "name": "Miner_0015_427",
-      "petname": "roughly-handy-troll",
       "source": "OnChain",
       "tags": "91-Early:Miners"
     },
@@ -901,7 +798,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "PlayChip",
-      "petname": "immensely-apt-fish",
       "source": "On chain",
       "symbol": "PLA",
       "tags": "50-Tokens:ERC20"
@@ -912,7 +808,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Saturday Elon",
-      "petname": "vastly-guiding-monkfish",
       "source": "On chain",
       "symbol": "SatElon",
       "tags": "50-Tokens:ERC20"
@@ -921,7 +816,6 @@ names?fmt=json
       "address": "0x01afc37f4f85babc47c0e2d0eababc7fb49793c8",
       "isContract": true,
       "name": "W-GNT",
-      "petname": "seemingly-epic-camel",
       "symbol": "W-GNT",
       "tags": "50-Tokens:ERC20"
     },
@@ -931,7 +825,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Shiba Inu Bone",
-      "petname": "scarcely-workable-troll",
       "source": "On chain",
       "symbol": "BONE",
       "tags": "50-Tokens:ERC20"
@@ -942,7 +835,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "DogeRocket",
-      "petname": "shortly-proper-warthog",
       "source": "On chain",
       "symbol": "DGRO",
       "tags": "50-Tokens:ERC20"
@@ -953,7 +845,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "kissBTC",
-      "petname": "quickly-giving-cardinal",
       "source": "On chain",
       "symbol": "kissBTC",
       "tags": "91-Early:Addresses"
@@ -961,7 +852,6 @@ names?fmt=json
     {
       "address": "0x01ca185fdcf1c2001c24e7e2362d3fc1b570ead3",
       "name": "National Association of Free and Charitable Clinics",
-      "petname": "virtually-joint-grouper",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -971,7 +861,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Ethereum Developers Night",
-      "petname": "locally-pleasant-stud",
       "source": "https://kickback.events/event/[{ADDRESS}]",
       "tags": "50-Tokens:ERC20"
     },
@@ -981,7 +870,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "XYZ",
-      "petname": "actively-capable-primate",
       "source": "On chain",
       "symbol": "XYZ",
       "tags": "91-Early:Addresses"
@@ -992,7 +880,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Ethereum Cherry",
-      "petname": "absolutely-ready-pony",
       "source": "On chain",
       "symbol": "ECHERRY 🍒",
       "tags": "50-Tokens:ERC20"
@@ -1000,14 +887,12 @@ names?fmt=json
     {
       "address": "0x01d6c3db752551baf985f5fc7d47db6f5c9b3a7b",
       "name": "The Jerusalem Hills Therapeutic Centers",
-      "petname": "mainly-relieved-foxhound",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x01da64059bc5a81ec78362505faf7bb459c575e4",
       "name": "CARITAS Aotearoa New Zealand",
-      "petname": "typically-becoming-tortoise",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1015,7 +900,6 @@ names?fmt=json
       "address": "0x01da73c4ec1355f953ad0aaca3ef20e342aea92a",
       "isContract": true,
       "name": "Arbitrage Bot",
-      "petname": "unlikely-harmless-swift",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -1025,7 +909,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Cream yETH",
-      "petname": "plainly-eager-bream",
       "source": "On chain",
       "symbol": "crYETH",
       "tags": "50-Tokens:ERC20"
@@ -1036,7 +919,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "🎇Floki Fireworks🎆",
-      "petname": "utterly-native-bee",
       "source": "On chain",
       "symbol": "FLOKIFIRE",
       "tags": "50-Tokens:ERC20"
@@ -1044,7 +926,6 @@ names?fmt=json
     {
       "address": "0x01f1e9319982ab828203c0276727cf48065434d3",
       "name": "Grant 0602 Realitylearn: Teaching the World About Blockchain",
-      "petname": "unduly-sweeping-cougar",
       "source": "https://gitcoin.co/grants/602/realitylearn",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1054,7 +935,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "FCC TRUMPBOND",
-      "petname": "gratefully-fancy-calf",
       "source": "On chain",
       "symbol": "TRUMP",
       "tags": "50-Tokens:ERC20"
@@ -1065,7 +945,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "BF Token",
-      "petname": "privately-legal-shark",
       "source": "On chain",
       "symbol": "BFT",
       "tags": "50-Tokens:ERC20"
@@ -1077,7 +956,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "yearn Gift NFT",
-      "petname": "factually-moved-feline",
       "source": "On chain",
       "symbol": "yGIFT",
       "tags": "50-Tokens:ERC721"
@@ -1085,7 +963,6 @@ names?fmt=json
     {
       "address": "0x02020d22dcf88f5edd66b382d7da019f161fb7e3",
       "name": "Miner_0022_294",
-      "petname": "sensibly-unbiased-grouper",
       "source": "OnChain",
       "tags": "91-Early:Miners"
     },
@@ -1095,7 +972,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Ethereum Hot",
-      "petname": "conversely-superb-salmon",
       "source": "On chain",
       "symbol": "EHOT",
       "tags": "50-Tokens:ERC20"
@@ -1106,7 +982,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "CZR",
-      "petname": "strongly-grown-starling",
       "source": "On chain",
       "symbol": "CZR",
       "tags": "50-Tokens:ERC20"
@@ -1114,7 +989,6 @@ names?fmt=json
     {
       "address": "0x0225d43b588e69154ec98f710249d9ff2aed4527",
       "name": "DeHealth",
-      "petname": "daily-neutral-cheetah",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1122,7 +996,6 @@ names?fmt=json
       "address": "0x02268047f5c77a6a533619773474d1a6e510443f",
       "isContract": true,
       "name": "Creator",
-      "petname": "trivially-deep-anemone",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -1132,7 +1005,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Narutocoin",
-      "petname": "trivially-driving-jawfish",
       "source": "On chain",
       "symbol": "NARUTO",
       "tags": "50-Tokens:ERC20"
@@ -1143,7 +1015,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Uniswap V2",
-      "petname": "sadly-lenient-owl",
       "source": "On chain",
       "symbol": "UNI-V2",
       "tags": "50-Tokens:ERC20"
@@ -1154,14 +1025,12 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Kickback DeFi Meetup 1",
-      "petname": "loudly-uncommon-ox",
       "source": "https://kickback.events/event/[{ADDRESS}]",
       "tags": "50-Tokens:ERC20"
     },
     {
       "address": "0x0240626490620f3b80bd7cfb1687309704fbbdd3",
       "name": "LGBTQ Freedom Fund",
-      "petname": "currently-coherent-swine",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1171,7 +1040,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Nashu Inu",
-      "petname": "centrally-immune-stinkbug",
       "source": "On chain",
       "symbol": "NASHU",
       "tags": "50-Tokens:ERC20"
@@ -1179,14 +1047,12 @@ names?fmt=json
     {
       "address": "0x0249317d94b3b85ac198cfd1232c351c551a8d41",
       "name": "Autism Alliance of Michigan (AAoM)",
-      "petname": "neatly-capable-hog",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x024bd890b037adbbfe1545d595490f65361c4a66",
       "name": "Clearway Clinic",
-      "petname": "internally-loved-dogfish",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1196,7 +1062,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Hero Origen Token",
-      "petname": "strongly-gentle-ghoul",
       "source": "On chain",
       "symbol": "HERO",
       "tags": "50-Tokens:ERC20"
@@ -1207,7 +1072,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Uniswap V2",
-      "petname": "hideously-romantic-redbird",
       "source": "On chain",
       "symbol": "UNI-V2",
       "tags": "50-Tokens:ERC20"
@@ -1219,7 +1083,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "lobsterdao",
-      "petname": "lightly-master-drum",
       "source": "On chain",
       "symbol": "LOBS",
       "tags": "50-Tokens:ERC721"
@@ -1230,7 +1093,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "BitAir",
-      "petname": "admittedly-rational-chow",
       "source": "On chain",
       "symbol": "BTCA",
       "tags": "50-Tokens:ERC20"
@@ -1241,7 +1103,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Oiler",
-      "petname": "sincerely-evolved-gobbler",
       "source": "On chain",
       "symbol": "OIL",
       "tags": "50-Tokens:ERC20"
@@ -1252,7 +1113,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Aave interest bearing DAI",
-      "petname": "nicely-tops-pika",
       "source": "On chain",
       "symbol": "aDAI",
       "tags": "50-Tokens:ERC20"
@@ -1263,7 +1123,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Andre KP9R",
-      "petname": "heavily-hot-mackerel",
       "source": "On chain",
       "symbol": "aKP9R",
       "tags": "50-Tokens:ERC20"
@@ -1271,7 +1130,6 @@ names?fmt=json
     {
       "address": "0x02a522d98ec2d2c3bbe91acc29ee7fd32ab880ab",
       "name": "Mintable: Deployer",
-      "petname": "deeply-magnetic-ringtail",
       "tags": "31-Gitcoin:Grants"
     },
     {
@@ -1280,7 +1138,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Salt Shaker",
-      "petname": "apparently-peaceful-mongrel",
       "source": "On chain",
       "symbol": "SALT 🧂",
       "tags": "50-Tokens:ERC20"
@@ -1289,7 +1146,6 @@ names?fmt=json
       "address": "0x02ad1b2f88d37825a311045663a0bf97d0dcd845",
       "isContract": true,
       "name": "YoutubeViews_id13",
-      "petname": "pleasantly-generous-gull",
       "source": "Ether Camp",
       "tags": "91-Early:Addresses"
     },
@@ -1299,7 +1155,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "MuskMarsDog",
-      "petname": "remarkably-tidy-feline",
       "source": "On chain",
       "symbol": "MDOGE",
       "tags": "50-Tokens:ERC20"
@@ -1307,7 +1162,6 @@ names?fmt=json
     {
       "address": "0x02b1cb4de1af0d10a53d0efc243e56f6baa39c1a",
       "name": "basinDAO",
-      "petname": "quickly-awake-gazelle",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1315,7 +1169,6 @@ names?fmt=json
       "address": "0x02b2101903eb6a51518e63e84b785180859fda9d",
       "isContract": true,
       "name": "Thewhalegame",
-      "petname": "abnormally-thankful-marten",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -1323,14 +1176,12 @@ names?fmt=json
       "address": "0x02bcb9675727ade60243c3d467a3bf152142698b",
       "isContract": true,
       "name": "Credmark Community Treasury",
-      "petname": "uniformly-eternal-monarch",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
     {
       "address": "0x02c2ec416601daf7eb2c69c8ed3000457945fa20",
       "name": "Merijaan — for a plastic free world",
-      "petname": "strangely-touching-prawn",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1340,7 +1191,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "InvestDigital Token",
-      "petname": "mainly-one-monarch",
       "source": "On chain",
       "symbol": "IDT",
       "tags": "50-Tokens:ERC20"
@@ -1349,14 +1199,12 @@ names?fmt=json
       "address": "0x02cb3c150bedca124d0ae8cccb72fefbe705c953",
       "isContract": true,
       "name": "Grant 0782 Ethereum Cat Herders Community Fund",
-      "petname": "frankly-poetic-moose",
       "source": "https://gitcoin.co/grants/782/ethereum-cat-herders-community-fund",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x02d17f0e3c1cadfa4e480a3e6bdb8ed6d3203614",
       "name": "Swarm City Reboot",
-      "petname": "duly-finer-crow",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1364,7 +1212,6 @@ names?fmt=json
       "address": "0x02d5c618dbc591544b19d0bf13543c0728a3c4ec",
       "isContract": true,
       "name": "Chainlink CHF-USD Aggregator",
-      "petname": "greatly-loved-possum",
       "source": "EtherScan.io",
       "tags": "37-SelfDestructed"
     },
@@ -1374,7 +1221,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Uniswap V2",
-      "petname": "singularly-eminent-buffalo",
       "source": "On chain",
       "symbol": "UNI-V2",
       "tags": "50-Tokens:ERC20"
@@ -1385,7 +1231,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Seppuku.me",
-      "petname": "primarily-curious-krill",
       "source": "On chain",
       "symbol": "SEPPUKU",
       "tags": "50-Tokens:ERC20"
@@ -1394,14 +1239,12 @@ names?fmt=json
       "address": "0x02e01e9a73ed2cb24b32628c935256e455b0a078",
       "isContract": true,
       "name": "Raceftw",
-      "petname": "previously-generous-newt",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
     {
       "address": "0x02e0ea1bd6bbd1f5a30b51903b5987f187a2dfcc",
       "name": "Childrens Cancer Association",
-      "petname": "lightly-proper-sloth",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1411,7 +1254,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "YFISwap",
-      "petname": "widely-eternal-wombat",
       "source": "On chain",
       "symbol": "YFIS",
       "tags": "50-Tokens:ERC20"
@@ -1422,7 +1264,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "EplusCoin",
-      "petname": "endlessly-frank-pig",
       "source": "On chain",
       "symbol": "EPLUS",
       "tags": "50-Tokens:ERC20"
@@ -1433,7 +1274,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Kawaii Iun Moon Moon",
-      "petname": "steadily-grateful-sole",
       "source": "On chain",
       "symbol": "KAWAINU",
       "tags": "50-Tokens:ERC20"
@@ -1441,14 +1281,12 @@ names?fmt=json
     {
       "address": "0x02eb002d88051c03ef312f63bbf3e38aada0b902",
       "name": "Grant 0031 Grantops",
-      "petname": "genuinely-thankful-aphid",
       "source": "https://gitcoin.co/grants/31/grantops",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x02ee97a13e434717e3ffa12758a235d1a1680775",
       "name": "Grant 1551 Niftycrates",
-      "petname": "jointly-perfect-pheasant",
       "source": "https://gitcoin.co/grants/1551/niftycrates",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1458,7 +1296,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "PKG Token",
-      "petname": "kindly-discrete-hamster",
       "source": "On chain",
       "symbol": "PKG",
       "tags": "50-Tokens:ERC20"
@@ -1469,7 +1306,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "LikeCoin",
-      "petname": "notably-cosmic-escargot",
       "source": "On chain",
       "symbol": "LIKE",
       "tags": "50-Tokens:ERC20"
@@ -1480,7 +1316,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Akita Doge",
-      "petname": "surely-flowing-dolphin",
       "source": "On chain",
       "symbol": "ADOGE",
       "tags": "50-Tokens:ERC20"
@@ -1491,7 +1326,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Aave interest bearing WETH",
-      "petname": "specially-strong-polecat",
       "source": "On chain",
       "symbol": "aWETH",
       "tags": "50-Tokens:ERC20"
@@ -1499,7 +1333,6 @@ names?fmt=json
     {
       "address": "0x0312855bb6e548578a36fa8de63b8f0d3d7d7dc2",
       "name": "Betonhashv84",
-      "petname": "mutually-true-gnat",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -1507,7 +1340,6 @@ names?fmt=json
       "address": "0x0318179601a70085aeb488f178b081295b65ecc9",
       "isContract": true,
       "name": "Self_Store",
-      "petname": "intensely-organic-lionfish",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -1518,7 +1350,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "CryptoZunks",
-      "petname": "nicely-integral-grizzly",
       "source": "On chain",
       "symbol": "ZUNK",
       "tags": "50-Tokens:ERC721"
@@ -1529,7 +1360,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "PieDAO BTC++",
-      "petname": "previously-apparent-fox",
       "source": "On chain",
       "symbol": "BTC++",
       "tags": "50-Tokens:ERC20"
@@ -1538,7 +1368,6 @@ names?fmt=json
       "address": "0x032747313c4e914b5fce356ab8dc4df551972dcd",
       "isContract": true,
       "name": "Trusteth",
-      "petname": "abnormally-united-mouse",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -1549,7 +1378,6 @@ names?fmt=json
       "isErc20": true,
       "isErc721": true,
       "name": "HashDemons",
-      "petname": "firmly-just-heron",
       "source": "On chain",
       "symbol": "HASHDEMONS",
       "tags": "50-Tokens:ERC721"
@@ -1560,7 +1388,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "BDT Token",
-      "petname": "closely-easy-raccoon",
       "source": "On chain",
       "symbol": "BDT",
       "tags": "50-Tokens:ERC20"
@@ -1568,21 +1395,18 @@ names?fmt=json
     {
       "address": "0x033618a08649300184ec221c6d825416dbee8f92",
       "name": "World Vision",
-      "petname": "visually-sincere-gazelle",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x035032655b5b3784d359b56eb82c803bd971c582",
       "name": "Grant 2800 - LogicBeach Explainer Series",
-      "petname": "secondly-easy-oryx",
       "source": "https://gitcoin.co/grants/2800/logicbeach-explainer-series",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x035495b687850f79cb1652f416ea7ec19907557c",
       "name": "Bees network",
-      "petname": "plainly-climbing-coral",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1592,7 +1416,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Miller Real Estate Holdings",
-      "petname": "painfully-tough-orca",
       "source": "On chain",
       "symbol": "RENT",
       "tags": "50-Tokens:ERC20"
@@ -1601,7 +1424,6 @@ names?fmt=json
       "address": "0x0358629bd27fa559b88d0f41ea3da28d057c3414",
       "isContract": true,
       "name": "Arbitrage Bot",
-      "petname": "widely-sacred-bluebird",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -1611,7 +1433,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "NL",
-      "petname": "loosely-refined-hawk",
       "source": "On chain",
       "symbol": "NL Token",
       "tags": "50-Tokens:ERC20"
@@ -1622,7 +1443,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Alphabit",
-      "petname": "actually-humorous-rabbit",
       "source": "On chain",
       "symbol": "ABC",
       "tags": "50-Tokens:ERC20"
@@ -1633,7 +1453,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "ShibAkita Inu",
-      "petname": "presumably-mighty-stag",
       "source": "On chain",
       "symbol": "SHIBAKITA",
       "tags": "50-Tokens:ERC20"
@@ -1644,7 +1463,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Student Coin",
-      "petname": "terminally-allowing-wahoo",
       "source": "On chain",
       "symbol": "STU",
       "tags": "50-Tokens:ERC20"
@@ -1652,7 +1470,6 @@ names?fmt=json
     {
       "address": "0x03798c0d62e6a0b0548114fb6241efa07ca4122d",
       "name": "Grant 4257 - Reputable DAO",
-      "petname": "naturally-skilled-toucan",
       "source": "https://gitcoin.co/grants/4257/reputable-dao",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1660,7 +1477,6 @@ names?fmt=json
       "address": "0x037e414abacc799a598314153509b6b967608bf9",
       "isContract": true,
       "name": "Grant 3059 - CO2KEN — Carbon as a money lego",
-      "petname": "recently-present-midge",
       "source": "https://gitcoin.co/grants/3059/co2ken-carbon-as-a-money-lego",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1668,14 +1484,12 @@ names?fmt=json
       "address": "0x037e8f2125bf532f3e228991e051c8a7253b642c",
       "isContract": true,
       "name": "Chainlink DAI-ETH Aggregator",
-      "petname": "awfully-striking-octopus",
       "source": "EtherScan.io",
       "tags": "37-SelfDestructed"
     },
     {
       "address": "0x0384610bf8e9292ec499145cb126e32a17e7ccd6",
       "name": "Grant 3475 - Nectar: L2 + Healthcare",
-      "petname": "partially-well-monster",
       "source": "https://gitcoin.co/grants/3475/nectar-l2-healthcare",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1683,14 +1497,12 @@ names?fmt=json
       "address": "0x03893a7c7463ae47d46bc7f091665f1893656003",
       "isContract": true,
       "name": "Tornado Cash ETH 37",
-      "petname": "marginally-awake-ewe",
       "source": "Ofac website",
       "tags": "66-Ofac:Sanctioned"
     },
     {
       "address": "0x0389836416d1d46724f0913eeee42622950b20c1",
       "name": "Grant 1488 Ercgraph",
-      "petname": "terminally-enabling-joey",
       "source": "https://gitcoin.co/grants/1488/ercgraph",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1698,7 +1510,6 @@ names?fmt=json
       "address": "0x0389a06b028526b05966c287370bebefa0082176",
       "isContract": true,
       "name": "Dividend",
-      "petname": "sincerely-genuine-crane",
       "source": "EtherScan.io",
       "tags": "91-Early:Addresses"
     },
@@ -1708,7 +1519,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "BarnBridge Governance Token",
-      "petname": "privately-discrete-goshawk",
       "source": "Giveth website",
       "symbol": "BOND",
       "tags": "50-Tokens:ERC20"
@@ -1716,7 +1526,6 @@ names?fmt=json
     {
       "address": "0x039ae2898d257f4c9d7e381d478ee1ed042fe2f4",
       "name": "Grant 0284 My DAO Dashboard",
-      "petname": "ultimately-famous-possum",
       "source": "https://gitcoin.co/grants/284/my-dao-dashboard",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1726,7 +1535,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Kucoin Shares",
-      "petname": "quietly-saving-pika",
       "source": "Giveth website",
       "symbol": "KCS",
       "tags": "50-Tokens:ERC20"
@@ -1735,7 +1543,6 @@ names?fmt=json
       "address": "0x039b739a1e7353878bfb2f2a4ec23502f4885baa",
       "isContract": true,
       "name": "Maker: Oasis",
-      "petname": "presumably-distinct-basilisk",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -1743,7 +1550,6 @@ names?fmt=json
       "address": "0x03a99d9235732d94a300bf7013acb11020484bf1",
       "isContract": true,
       "name": "Arbitrage Bot",
-      "petname": "thoroughly-cheerful-sturgeon",
       "source": "0xTracker",
       "tags": "30-Contracts"
     },
@@ -1753,7 +1559,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "Rai Reflex Index",
-      "petname": "overly-eager-stork",
       "source": "Giveth website",
       "symbol": "RAI",
       "tags": "50-Tokens:ERC20"
@@ -1764,7 +1569,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "NZXT Protocol Governance Token (Shareholder only)",
-      "petname": "evenly-mint-dodo",
       "source": "On chain",
       "symbol": "NZXT",
       "tags": "50-Tokens:ERC20"
@@ -1773,21 +1577,18 @@ names?fmt=json
       "address": "0x03b904c8b912194464ae97eaa0381e5518446d25",
       "isContract": true,
       "name": "Possibly Malicious 0x03b",
-      "petname": "publicly-unbiased-gobbler",
       "source": "TrueBlocks.io",
       "tags": "80-Malicious:Shanghai"
     },
     {
       "address": "0x03bc0c4b986457b20a0afcedd2537912bc1b0532",
       "name": "Test with native token on new project",
-      "petname": "truly-curious-aphid",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
     {
       "address": "0x03c2bc72a3e007179e54ffb4563cc235bec8151a",
       "name": "Grant 0600 Synthereum: Synthetic Assets with Liquidity Pools to Bridge Traditional and Digital Finance",
-      "petname": "closely-helped-wahoo",
       "source": "https://gitcoin.co/grants/600/synthereum-synthetic-assets-with-liquidity-pools-t",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1797,7 +1598,6 @@ names?fmt=json
       "isContract": true,
       "isErc20": true,
       "name": "BTRN",
-      "petname": "humbly-improved-toucan",
       "source": "On chain",
       "symbol": "BTRN",
       "tags": "50-Tokens:ERC20"

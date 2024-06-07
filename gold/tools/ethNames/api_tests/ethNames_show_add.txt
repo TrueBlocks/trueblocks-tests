@@ -5,7 +5,6 @@ names?terms=0x0000000000000000000000000000000010101010&fmt=json&expand
       "address": "0x0000000000000000000000000000000010101010",
       "decimals": 11,
       "name": "NAME",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE",
       "symbol": "SYMBOL",
       "tags": "TAGS"
