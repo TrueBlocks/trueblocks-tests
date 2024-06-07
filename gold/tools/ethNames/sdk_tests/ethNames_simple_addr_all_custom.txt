@@ -1,4 +1,9 @@
 names?addr&custom
+Args: [addr custom]
+Opts: {"custom":true,"addr":true,"autoname":"0x0"}
+Custom:  true
+Addr:  true
+Format:  json
 {
   "data": [
     {

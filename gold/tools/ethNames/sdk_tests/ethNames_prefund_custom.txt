@@ -1,4 +1,9 @@
 names?prefund&custom
+Args: [prefund custom]
+Opts: {"custom":true,"prefund":true,"autoname":"0x0"}
+Custom:  true
+Prefund:  true
+Format:  json
 {
   "data": [
     {

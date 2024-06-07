@@ -1,4 +1,11 @@
 names?prefund&custom&terms=0001&verbose
+Args: [prefund custom terms=0001 verbose]
+Opts: {"terms":["0001"],"custom":true,"prefund":true,"autoname":"0x0","verbose":true}
+Terms:  [0001]
+Custom:  true
+Prefund:  true
+Verbose:  true
+Format:  json
 {
   "data": [
     {

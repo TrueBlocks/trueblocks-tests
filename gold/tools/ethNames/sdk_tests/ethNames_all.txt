@@ -1,4 +1,8 @@
 names?all
+Args: [all]
+Opts: {"all":true,"autoname":"0x0"}
+All:  true
+Format:  json
 {
   "data": [
     {
