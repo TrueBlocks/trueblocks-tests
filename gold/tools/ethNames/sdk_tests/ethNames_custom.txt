@@ -40,6 +40,27 @@ Format:  json
       "source": "Testing",
       "symbol": "SYM_4",
       "tags": "81-Custom"
+    },
+    {
+      "address": "0x5ed8cee6b63b1c6afce3ad7c92f4fd7e1b8fad9f",
+      "isCustom": true,
+      "name": "Vitalik",
+      "source": "TrueBlocks",
+      "tags": "91-Friends"
+    },
+    {
+      "address": "0xbc62985faabed27a8f174cbd5ea1ee7b1ed8fc12",
+      "isCustom": true,
+      "name": "Consensys Grant Sender",
+      "source": "TrueBlocks",
+      "tags": "91-Friends"
+    },
+    {
+      "address": "0xde58d6a070c7490f10a9aac1b7bc6e3583383958",
+      "isCustom": true,
+      "name": "Vlad",
+      "source": "TrueBlocks",
+      "tags": "91-Friends"
     }
   ],
   "meta": {

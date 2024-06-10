@@ -12,6 +12,15 @@ names?addr&custom
     },
     {
       "address": "0x0000000000000000000000000000000000000004"
+    },
+    {
+      "address": "0x5ed8cee6b63b1c6afce3ad7c92f4fd7e1b8fad9f"
+    },
+    {
+      "address": "0xbc62985faabed27a8f174cbd5ea1ee7b1ed8fc12"
+    },
+    {
+      "address": "0xde58d6a070c7490f10a9aac1b7bc6e3583383958"
     }
   ],
   "meta": {
