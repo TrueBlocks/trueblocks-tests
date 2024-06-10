@@ -45,21 +45,21 @@ Format:  json
       "address": "0x5ed8cee6b63b1c6afce3ad7c92f4fd7e1b8fad9f",
       "isCustom": true,
       "name": "Vitalik",
-      "source": "TrueBlocks",
+      "source": "WhaleWatch.io",
       "tags": "91-Friends"
     },
     {
       "address": "0xbc62985faabed27a8f174cbd5ea1ee7b1ed8fc12",
       "isCustom": true,
       "name": "Consensys Grant Sender",
-      "source": "TrueBlocks",
+      "source": "On chain",
       "tags": "91-Friends"
     },
     {
       "address": "0xde58d6a070c7490f10a9aac1b7bc6e3583383958",
       "isCustom": true,
       "name": "Vlad",
-      "source": "TrueBlocks",
+      "source": "https://kickback.events/",
       "tags": "91-Friends"
     }
   ],
