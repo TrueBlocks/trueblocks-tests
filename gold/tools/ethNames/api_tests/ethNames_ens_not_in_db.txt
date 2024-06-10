@@ -1,6 +1,12 @@
 names?terms=nick.eth
 {
-  "data": [],
+  "data": [
+    {
+      "address": "0xb8c2c29ee19d8307cb7255e1cd9cbde883a267d5",
+      "name": "nick.eth",
+      "tags": "66-ENS"
+    }
+  ],
   "meta": {
     "client": "0xdeadbeef",
     "finalized": "0xdeadbeef",
