@@ -4,6 +4,11 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&parts=token&blocks=0-1500
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1434022,
+      "name": {
+        "isCustom": true,
+        "name": "GHC DAO Wallet",
+        "tags": "12-Empty"
+      },
       "transactionIndex": 2
     }
   ],
