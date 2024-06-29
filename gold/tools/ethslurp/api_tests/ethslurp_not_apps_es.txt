@@ -7,11 +7,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "date": "2016-04-22 13:08:11 UTC",
       "ether": "499.995",
       "from": "0x2910543af39aba0cd09dbb2d50200b3e800a63d2",
-      "fromName": {
-        "name": "Kraken Exchange",
-        "source": "CarbonVote, Ether Camp",
-        "tags": "40-Exchanges"
-      },
       "gas": 150000,
       "gasCost": 531520000000000,
       "gasPrice": 20000000000,
@@ -104,15 +99,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "input": "0x54686f6d6173204a6179205275736820627579696e6720686973206669727374207265616c2044414f20746f6b656e2e",
       "timestamp": 1461712449,
       "to": "0xd838f9c9792bf8398e1f5fbfbd3b43c5a86445aa",
-      "toName": {
-        "decimals": 1,
-        "isContract": true,
-        "isErc20": true,
-        "isErc721": true,
-        "name": "TestDAOonMainChain",
-        "source": "The DAO",
-        "tags": "50-Tokens:ERC721"
-      },
       "transactionIndex": 2,
       "value": "1000000000000000"
     },
@@ -130,15 +116,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "input": "0x5365636f6e64207075726368617365206f6e2074686520746573742044414f206f6620392066696e6e65792e204669727374206f6e6520776173206f6e652066696e6e65792e",
       "timestamp": 1461713258,
       "to": "0xd838f9c9792bf8398e1f5fbfbd3b43c5a86445aa",
-      "toName": {
-        "decimals": 1,
-        "isContract": true,
-        "isErc20": true,
-        "isErc721": true,
-        "name": "TestDAOonMainChain",
-        "source": "The DAO",
-        "tags": "50-Tokens:ERC721"
-      },
       "transactionIndex": 0,
       "value": "9000000000000000"
     },
@@ -148,11 +125,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "date": "2016-04-28 20:47:39 UTC",
       "ether": "443.09693",
       "from": "0x2910543af39aba0cd09dbb2d50200b3e800a63d2",
-      "fromName": {
-        "name": "Kraken Exchange",
-        "source": "CarbonVote, Ether Camp",
-        "tags": "40-Exchanges"
-      },
       "gas": 150000,
       "gasCost": 498880000000000,
       "gasPrice": 20000000000,
@@ -170,11 +142,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "date": "2016-04-30 05:27:17 UTC",
       "ether": "62.5271",
       "from": "0x2910543af39aba0cd09dbb2d50200b3e800a63d2",
-      "fromName": {
-        "name": "Kraken Exchange",
-        "source": "CarbonVote, Ether Camp",
-        "tags": "40-Exchanges"
-      },
       "gas": 150000,
       "gasCost": 501600000000000,
       "gasPrice": 20000000000,
@@ -200,15 +167,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "input": "0x4669727374207075726368617365206f662044414f20746f6b656e732062792047726561742048696c6c20436f72706f726174696f6e",
       "timestamp": 1462011669,
       "to": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
-      "toName": {
-        "decimals": 1,
-        "isContract": true,
-        "isErc20": true,
-        "isErc721": true,
-        "name": "The DAO Original",
-        "source": "On chain",
-        "tags": "50-Tokens:ERC721"
-      },
       "transactionIndex": 0,
       "value": "10000000000000000000"
     },
@@ -226,15 +184,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "input": "0x5365636f6e642070757263686173652062792047726561742048696c6c20436f72706f726174696f6e",
       "timestamp": 1462014751,
       "to": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
-      "toName": {
-        "decimals": 1,
-        "isContract": true,
-        "isErc20": true,
-        "isErc721": true,
-        "name": "The DAO Original",
-        "source": "On chain",
-        "tags": "50-Tokens:ERC721"
-      },
       "transactionIndex": 0,
       "value": "90000000000000000000"
     },
@@ -335,15 +284,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "input": "0x5365636f6e64207075726368617365206f662044414f20746f6b656e732062792047726561742048696c6c202831303020657468657229",
       "timestamp": 1462841331,
       "to": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
-      "toName": {
-        "decimals": 1,
-        "isContract": true,
-        "isErc20": true,
-        "isErc721": true,
-        "name": "The DAO Original",
-        "source": "On chain",
-        "tags": "50-Tokens:ERC721"
-      },
       "transactionIndex": 0,
       "value": "100000000000000000000"
     },
@@ -377,15 +317,6 @@ slurp?addrs=0x9519afbc60719a83c470ceec41e32d3e4b8b262e&blocks=0-1500000&source=e
       "input": "0x546869726420616e642066696e616c2044414f2070757263686173652062792047726561742048696c6c",
       "timestamp": 1462884223,
       "to": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
-      "toName": {
-        "decimals": 1,
-        "isContract": true,
-        "isErc20": true,
-        "isErc721": true,
-        "name": "The DAO Original",
-        "source": "On chain",
-        "tags": "50-Tokens:ERC721"
-      },
       "transactionIndex": 5,
       "value": "800000000000000000000"
     }

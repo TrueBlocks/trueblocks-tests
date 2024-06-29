@@ -10,191 +10,96 @@ TEST[DATE|TIME] Format:  json
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1383378,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 7
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1385649,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 1
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1386522,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1386735,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 2
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1395423,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1410065,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 2
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1410101,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1421461,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 1
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1429678,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 1
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1430958,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1431182,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1433348,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1434017,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 1
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1434025,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 6
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1440785,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 2
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1470405,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1488784,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1491735,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 6
     },
     {
       "address": "0x9519afbc60719a83c470ceec41e32d3e4b8b262e",
       "blockNumber": 1491745,
-      "name": {
-        "isCustom": true,
-        "name": "GHC DAO Wallet",
-        "tags": "12-Empty"
-      },
       "transactionIndex": 5
     }
   ]

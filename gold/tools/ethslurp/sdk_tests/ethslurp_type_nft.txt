@@ -12,13 +12,6 @@ Format:  json
       "blockHash": "0x8bf4c00ee96191ad067f09f01a0d95a4c67b114dee00d8b7990a706cc76935b8",
       "blockNumber": 8302300,
       "contractAddress": "0xfac7bea255a6990f749363002136af6556b31e04",
-      "contractName": {
-        "isContract": true,
-        "name": "ENS: Old ENS Token",
-        "source": "EtherScan.io",
-        "symbol": "ENS",
-        "tags": "50-Tokens:ERC721"
-      },
       "date": "2019-08-07 08:01:01 UTC",
       "ether": "0",
       "from": "0x0",
@@ -37,13 +30,6 @@ Format:  json
       "blockHash": "0x3bd86efc7f75db1f1b9d47e1bae51eec1d7e64bc03c0f56db5830bf7e760d88e",
       "blockNumber": 8302306,
       "contractAddress": "0xfac7bea255a6990f749363002136af6556b31e04",
-      "contractName": {
-        "isContract": true,
-        "name": "ENS: Old ENS Token",
-        "source": "EtherScan.io",
-        "symbol": "ENS",
-        "tags": "50-Tokens:ERC721"
-      },
       "date": "2019-08-07 08:02:05 UTC",
       "ether": "0",
       "from": "0x0",
@@ -62,13 +48,6 @@ Format:  json
       "blockHash": "0x90b2baf5b144010b896dfd84f917e693e40b206c395b45efbb486a057afb3240",
       "blockNumber": 8302324,
       "contractAddress": "0xfac7bea255a6990f749363002136af6556b31e04",
-      "contractName": {
-        "isContract": true,
-        "name": "ENS: Old ENS Token",
-        "source": "EtherScan.io",
-        "symbol": "ENS",
-        "tags": "50-Tokens:ERC721"
-      },
       "date": "2019-08-07 08:06:49 UTC",
       "ether": "0",
       "from": "0x0",

@@ -25,12 +25,6 @@ Format:  json
       "input": "0xce92dced348c814793453116b587f98c53a30e581be4d6bf82c8dc3519ab898334260729",
       "timestamp": 1495166269,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
-      "toName": {
-        "isContract": true,
-        "name": "ENS: Old Registrar",
-        "source": "EtherScan.io",
-        "tags": "34-ENS"
-      },
       "transactionIndex": 2,
       "value": "184811000000000000000000"
     }
