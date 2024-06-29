@@ -48,6 +48,16 @@ TEST[DATE|TIME] Format:  json
             },
             "data": "0x000000000000000000000000000000000000000000000000000000005911a79a",
             "date": "2017-05-04 11:27:22 UTC",
+            "emitterName": {
+              "address": "0x0",
+              "decimals": 0,
+              "isContract": true,
+              "name": "ENS: Old Registrar",
+              "source": "EtherScan.io",
+              "symbol": "",
+              "tags": "34-ENS",
+              "prefund": {}
+            },
             "logIndex": 4,
             "timestamp": 1493897242,
             "topics": [
@@ -66,6 +76,16 @@ TEST[DATE|TIME] Format:  json
             },
             "data": "0x000000000000000000000000000000000000000000000000000000005911a79a",
             "date": "2017-05-04 11:27:22 UTC",
+            "emitterName": {
+              "address": "0x0",
+              "decimals": 0,
+              "isContract": true,
+              "name": "ENS: Old Registrar",
+              "source": "EtherScan.io",
+              "symbol": "",
+              "tags": "34-ENS",
+              "prefund": {}
+            },
             "logIndex": 5,
             "timestamp": 1493897242,
             "topics": [
@@ -84,6 +104,16 @@ TEST[DATE|TIME] Format:  json
             },
             "data": "0x000000000000000000000000000000000000000000000000000000005911a79a",
             "date": "2017-05-04 11:27:22 UTC",
+            "emitterName": {
+              "address": "0x0",
+              "decimals": 0,
+              "isContract": true,
+              "name": "ENS: Old Registrar",
+              "source": "EtherScan.io",
+              "symbol": "",
+              "tags": "34-ENS",
+              "prefund": {}
+            },
             "logIndex": 6,
             "timestamp": 1493897242,
             "topics": [
@@ -103,6 +133,16 @@ TEST[DATE|TIME] Format:  json
             },
             "data": "0x000000000000000000000000000000000000000000000000002386f26fc10000",
             "date": "2017-05-04 11:27:22 UTC",
+            "emitterName": {
+              "address": "0x0",
+              "decimals": 0,
+              "isContract": true,
+              "name": "ENS: Old Registrar",
+              "source": "EtherScan.io",
+              "symbol": "",
+              "tags": "34-ENS",
+              "prefund": {}
+            },
             "logIndex": 7,
             "timestamp": 1493897242,
             "topics": [
@@ -116,6 +156,12 @@ TEST[DATE|TIME] Format:  json
       },
       "timestamp": 1493897242,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "traces": [
         {
           "action": {

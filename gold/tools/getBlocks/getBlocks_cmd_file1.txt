@@ -163,6 +163,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-15 06:16:42 UTC",
           "ether": "1.09262349",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -254,6 +259,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.09343767",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -304,6 +314,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.10455681",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -354,6 +369,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.10683556",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -404,6 +424,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.11274243",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -454,6 +479,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.14281127",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -504,6 +534,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.17647189",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -554,6 +589,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-03-17 11:26:30 UTC",
           "ether": "0.22384685",
           "from": "0xf8b483dba2c3b7176a3da549ad41a48bb3121069",
+          "fromName": {
+            "name": "KNOWN_MINERS_005",
+            "source": "Ether Camp",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
@@ -910,6 +950,12 @@ Results in ./cmd_file1_out.file
           },
           "timestamp": 1459980885,
           "to": "0xba6284ca128d72b25f1353fadd06aa145d9095af",
+          "toName": {
+            "isContract": true,
+            "name": "Ethstick",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "traces": [],
           "transactionIndex": 0,
           "value": "5000000000000000000"
@@ -1090,6 +1136,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-10-01 13:48:39 UTC",
           "ether": "1.02305802",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 1050000000000000,
           "gasPrice": 50000000000,
@@ -1115,6 +1166,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-10-01 13:48:39 UTC",
           "ether": "1.02254689",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 1050000000000000,
           "gasPrice": 50000000000,
@@ -1140,6 +1196,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-10-01 13:48:39 UTC",
           "ether": "1.02245794",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 1050000000000000,
           "gasPrice": 50000000000,
@@ -1165,6 +1226,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-10-01 13:48:39 UTC",
           "ether": "1.0224329",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 1050000000000000,
           "gasPrice": 50000000000,
@@ -1190,6 +1256,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-10-01 13:48:39 UTC",
           "ether": "1.0214981",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 1050000000000000,
           "gasPrice": 50000000000,
@@ -1215,6 +1286,11 @@ Results in ./cmd_file1_out.file
           "date": "2016-10-01 13:48:39 UTC",
           "ether": "1.02047848",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 1050000000000000,
           "gasPrice": 50000000000,

@@ -578,6 +578,16 @@
                 "address": "0x276c5c6ca8507ed7bac085fc9b9521f4f54b58d3",
                 "data": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002faf080",
                 "date": "2016-02-19 08:55:28 UTC",
+                "emitterName": {
+                  "address": "0x0",
+                  "decimals": 0,
+                  "isContract": true,
+                  "name": "Elcoindb",
+                  "source": "EtherScan.io",
+                  "symbol": "",
+                  "tags": "91-Early:Addresses",
+                  "prefund": {}
+                },
                 "logIndex": 0,
                 "timestamp": 1455872128,
                 "topics": [
@@ -591,6 +601,16 @@
                 "address": "0x276c5c6ca8507ed7bac085fc9b9521f4f54b58d3",
                 "data": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002faf080",
                 "date": "2016-02-19 08:55:28 UTC",
+                "emitterName": {
+                  "address": "0x0",
+                  "decimals": 0,
+                  "isContract": true,
+                  "name": "Elcoindb",
+                  "source": "EtherScan.io",
+                  "symbol": "",
+                  "tags": "91-Early:Addresses",
+                  "prefund": {}
+                },
                 "logIndex": 1,
                 "timestamp": 1455872128,
                 "topics": [
@@ -614,6 +634,16 @@
                 "address": "0x276c5c6ca8507ed7bac085fc9b9521f4f54b58d3",
                 "data": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
                 "date": "2016-02-19 08:55:28 UTC",
+                "emitterName": {
+                  "address": "0x0",
+                  "decimals": 0,
+                  "isContract": true,
+                  "name": "Elcoindb",
+                  "source": "EtherScan.io",
+                  "symbol": "",
+                  "tags": "91-Early:Addresses",
+                  "prefund": {}
+                },
                 "logIndex": 3,
                 "timestamp": 1455872128,
                 "topics": [
@@ -693,6 +723,11 @@
           "date": "2016-03-15 06:16:42 UTC",
           "ether": "1.09262349",
           "from": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
+          "fromName": {
+            "name": "DwarfPool1",
+            "source": "EtherScan.io",
+            "tags": "91-Early:Addresses"
+          },
           "gas": 90000,
           "gasCost": 420000000000000,
           "gasPrice": 20000000000,
