@@ -10,101 +10,51 @@ Format:  json
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8854723,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 61
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8855603,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 121
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8856290,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 62
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8856316,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 91
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8856476,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 55
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8856511,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 161
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8860434,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 21
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8860511,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 47
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8860513,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 85
     },
     {
       "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
       "blockNumber": 8860529,
-      "name": {
-        "isCustom": true,
-        "name": "TrueBlocks 2020 Wallet 0xf503",
-        "tags": "00-Active"
-      },
       "transactionIndex": 145
     }
   ],

@@ -4,31 +4,16 @@ list?addrs=rhyslindmark.eth&firstBlock=4037786&lastBlock=4081406
     {
       "address": "0xff9387a9aae1f5daab1cd8eb0e92113ea9d19ca3",
       "blockNumber": 4037786,
-      "name": {
-        "name": "rhyslindmark",
-        "source": "https://kickback.events/",
-        "tags": "90-Individuals:Kickback"
-      },
       "transactionIndex": 47
     },
     {
       "address": "0xff9387a9aae1f5daab1cd8eb0e92113ea9d19ca3",
       "blockNumber": 4037800,
-      "name": {
-        "name": "rhyslindmark",
-        "source": "https://kickback.events/",
-        "tags": "90-Individuals:Kickback"
-      },
       "transactionIndex": 77
     },
     {
       "address": "0xff9387a9aae1f5daab1cd8eb0e92113ea9d19ca3",
       "blockNumber": 4081406,
-      "name": {
-        "name": "rhyslindmark",
-        "source": "https://kickback.events/",
-        "tags": "90-Individuals:Kickback"
-      },
       "transactionIndex": 20
     }
   ],

@@ -8,34 +8,16 @@ TEST[DATE|TIME] Format:  json
     {
       "address": "0x001d14804b399c6ef80e64576f657660804fec0b",
       "blockNumber": 0,
-      "name": {
-        "isPrefund": true,
-        "name": "Prefund_0002",
-        "source": "Genesis",
-        "tags": "80-Prefund"
-      },
       "transactionIndex": 2
     },
     {
       "address": "0x001d14804b399c6ef80e64576f657660804fec0b",
       "blockNumber": 202249,
-      "name": {
-        "isPrefund": true,
-        "name": "Prefund_0002",
-        "source": "Genesis",
-        "tags": "80-Prefund"
-      },
       "transactionIndex": 0
     },
     {
       "address": "0x001d14804b399c6ef80e64576f657660804fec0b",
       "blockNumber": 1501459,
-      "name": {
-        "isPrefund": true,
-        "name": "Prefund_0002",
-        "source": "Genesis",
-        "tags": "80-Prefund"
-      },
       "transactionIndex": 2
     }
   ]

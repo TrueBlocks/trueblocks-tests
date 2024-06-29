@@ -11,12 +11,6 @@ Format:  json
     {
       "address": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819",
       "blockNumber": 4102000,
-      "name": {
-        "isContract": true,
-        "name": "EtherDelta 2",
-        "source": "EtherScan.io",
-        "tags": "40-Exchanges"
-      },
       "reason": "to",
       "transactionIndex": 0
     }

@@ -24,11 +24,6 @@ Format:  json
     {
       "address": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
       "blockNumber": 1152642,
-      "name": {
-        "name": "DwarfPool1",
-        "source": "EtherScan.io",
-        "tags": "91-Early:Addresses"
-      },
       "reason": "from",
       "transactionIndex": 1
     },
@@ -41,11 +36,6 @@ Format:  json
     {
       "address": "0x2a65aca4d5fc5b5c859090a6c34d164135398226",
       "blockNumber": 1152642,
-      "name": {
-        "name": "DwarfPool1",
-        "source": "EtherScan.io",
-        "tags": "91-Early:Addresses"
-      },
       "reason": "miner",
       "transactionIndex": 99999
     }
