@@ -55,6 +55,12 @@ Format:  json
       "input": "0xce92dced348c814793453116b587f98c53a30e581be4d6bf82c8dc3519ab898334260729",
       "timestamp": 1495166269,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 2,
       "value": "184811000000000000000000"
     },
@@ -72,6 +78,12 @@ Format:  json
       "input": "0x47872b42358c4c78a09fb497f6189740618baa4bba273193d57007a5ace38857d8ea785a0000000000000000000000000000000000000000000027229fd7b15b4ccc00001763b10ad2d3c0f8de908e73bbac5612b94f030298ef04ef9b49ca126d50f265",
       "timestamp": 1495167816,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 70,
       "value": "0"
     },
@@ -89,6 +101,12 @@ Format:  json
       "input": "0x983b94fb358c4c78a09fb497f6189740618baa4bba273193d57007a5ace38857d8ea785a",
       "timestamp": 1496113206,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 9,
       "value": "0"
     },
@@ -106,6 +124,12 @@ Format:  json
       "input": "0xce92dced8b0136823ea9d3b977e28499b6bd89b3163241edd881b887fc4c3015fb394939",
       "timestamp": 1496159345,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 57,
       "value": "184761000000000000000000"
     },
@@ -123,6 +147,12 @@ Format:  json
       "input": "0x47872b4269edc0ff6c1e084ebd1295782a6c284c57eda43f402b6ecc23762b931681288800000000000000000000000000000000000000000000271fe9f402449b44000040629072c4b3cc807216291690353bb2f0dc4521a47bb214781ca635641f39fd",
       "timestamp": 1496163547,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 73,
       "value": "0"
     },
@@ -140,6 +170,12 @@ Format:  json
       "input": "0x983b94fb69edc0ff6c1e084ebd1295782a6c284c57eda43f402b6ecc23762b9316812888",
       "timestamp": 1496854695,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 1,
       "value": "0"
     },
@@ -157,6 +193,12 @@ Format:  json
       "input": "0xce92dcedb9aa373368c562c7e69e2765c08177a8785f97c25634662706ed374ee3ac1907",
       "timestamp": 1496855525,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 8,
       "value": "184400000000000000000000"
     },
@@ -174,6 +216,12 @@ Format:  json
       "input": "0x47872b428fc329de83f39ed620ec9dbe39100dba6c45b29a90c3b8da061d7030e8b5c09f00000000000000000000000000000000000000000000270c58125eed8f4000007bf9a1781788ef87d328fb03eebd06ac82a58e94913bc0ed55d4af81cb2b0163",
       "timestamp": 1496922607,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 5,
       "value": "0"
     },
@@ -191,6 +239,12 @@ Format:  json
       "input": "0x983b94fb8fc329de83f39ed620ec9dbe39100dba6c45b29a90c3b8da061d7030e8b5c09f",
       "timestamp": 1498123857,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 15,
       "value": "0"
     },
@@ -208,6 +262,12 @@ Format:  json
       "input": "0xce92dcedccdab013cdaabbf4a372f2911904cc9c642f79952d41b771c7b47f2b145f6825",
       "timestamp": 1500167743,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 10,
       "value": "10000000000000000000000"
     },
@@ -225,6 +285,12 @@ Format:  json
       "input": "0x47872b42c14a54da4752db647a43f6d15e2dda471fdba23f27f339fc9a5a28695be7a4e600000000000000000000000000000000000000000000021e19e0c9bab240000053e04783e92d6492f89a3d446376db619cbeda950d33568ecd90e42c0b933769",
       "timestamp": 1500230756,
       "to": "0x6090a6e47849629b7245dfa1ca21d94cd15878ef",
+      "toName": {
+        "isContract": true,
+        "name": "ENS: Old Registrar",
+        "source": "EtherScan.io",
+        "tags": "34-ENS"
+      },
       "transactionIndex": 19,
       "value": "0"
     },
@@ -417,6 +483,12 @@ Format:  json
       "hash": "0x02eb3933856066dc83bcc92010be4b9c801babe8358ae18670fc590f94466ffc",
       "timestamp": 1513474157,
       "to": "0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae",
+      "toName": {
+        "isContract": true,
+        "name": "EthDev Multisig Wallet",
+        "source": "Ethereum.org",
+        "tags": "30-Contracts"
+      },
       "transactionIndex": 57,
       "value": "6435000000000000000000"
     },
