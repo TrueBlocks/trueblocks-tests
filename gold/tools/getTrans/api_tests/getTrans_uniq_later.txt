@@ -16,6 +16,15 @@ transactions?transactions=14987654.0&fmt=json&uniq
     {
       "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "blockNumber": 14987654,
+      "name": {
+        "decimals": 6,
+        "isContract": true,
+        "isErc20": true,
+        "name": "USD Coin",
+        "source": "Giveth website",
+        "symbol": "USDC",
+        "tags": "50-Tokens:ERC20"
+      },
       "reason": "log_0_generator",
       "transactionIndex": 0
     },
@@ -28,6 +37,15 @@ transactions?transactions=14987654.0&fmt=json&uniq
     {
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "blockNumber": 14987654,
+      "name": {
+        "decimals": 18,
+        "isContract": true,
+        "isErc20": true,
+        "name": "Wrapped Ether",
+        "source": "On chain",
+        "symbol": "WETH",
+        "tags": "50-Tokens:ERC20"
+      },
       "reason": "log_1_generator",
       "transactionIndex": 0
     },
