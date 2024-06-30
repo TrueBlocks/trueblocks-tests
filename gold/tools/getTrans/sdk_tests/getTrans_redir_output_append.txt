@@ -1,7 +1,8 @@
-transactions?transactions=3657480.9&output=output_test_file&append
-Args: [transactions=3657480.9 output=output_test_file append]
-Opts: {"transactions":["3657480.9"],"output":"output_test_file","append":true}
+transactions?transactions=3657480.9&verbose&output=output_test_file&append
+Args: [transactions=3657480.9 verbose output=output_test_file append]
+Opts: {"transactions":["3657480.9"],"verbose":true,"output":"output_test_file","append":true}
 Transactions:  [3657480.9]
+Verbose:  true
 OutputFn:  output_test_file
 Append:  true
 Caps:  cache,decache,ether
