@@ -11,7 +11,6 @@ Format:  json
       "isContract": true,
       "isErc20": true,
       "name": "Super Module Network One",
-      "petname": "safely-dominant-hagfish",
       "source": "On chain",
       "symbol": "SMN1",
       "tags": "50-Tokens:ERC20"
@@ -22,7 +21,6 @@ Format:  json
       "isContract": true,
       "isErc20": true,
       "name": "NarutoNetwork",
-      "petname": "mistakenly-deep-stud",
       "source": "On chain",
       "symbol": "NARUTO",
       "tags": "50-Tokens:ERC20"
@@ -33,7 +31,6 @@ Format:  json
       "isContract": true,
       "isErc20": true,
       "name": "BrokerNekoNetwork",
-      "petname": "freely-perfect-chimp",
       "source": "On chain",
       "symbol": "BNN",
       "tags": "50-Tokens:ERC20"
@@ -44,7 +41,6 @@ Format:  json
       "isContract": true,
       "isErc20": true,
       "name": "OneRoot Network Token",
-      "petname": "primarily-true-rooster",
       "source": "On chain",
       "symbol": "RNT",
       "tags": "50-Tokens:ERC20"

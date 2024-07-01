@@ -6,7 +6,6 @@ names?all
       "decimals": 1,
       "isCustom": true,
       "name": "Account_1",
-      "petname": "abnormally-able-ant",
       "source": "Testing",
       "symbol": "SYM_1",
       "tags": "81-Custom"
@@ -16,7 +15,6 @@ names?all
       "decimals": 2,
       "isCustom": true,
       "name": "Account_2",
-      "petname": "abnormally-able-ape",
       "source": "Testing",
       "symbol": "SYM_2",
       "tags": "81-Custom"
@@ -26,7 +24,6 @@ names?all
       "decimals": 3,
       "isCustom": true,
       "name": "Account_3",
-      "petname": "abnormally-able-asp",
       "source": "Testing",
       "symbol": "SYM_3",
       "tags": "81-Custom"
@@ -36,7 +33,6 @@ names?all
       "decimals": 4,
       "isCustom": true,
       "name": "Account_4",
-      "petname": "abnormally-able-bat",
       "source": "Testing",
       "symbol": "SYM_4",
       "tags": "81-Custom"
@@ -44,7 +40,6 @@ names?all
     {
       "address": "0x000000000000000000000000000000000000dead",
       "name": "ENS: Burn Address",
-      "petname": "abnormally-able-bee",
       "source": "EtherScan.io",
       "tags": "55-Defi"
     },
@@ -55,7 +50,6 @@ names?all
       "isErc20": true,
       "isErc721": true,
       "name": "HomeWork 🏠🛠️",
-      "petname": "absolutely-normal-hawk",
       "source": "On chain",
       "symbol": "HWK",
       "tags": "50-Tokens:ERC721"
@@ -66,7 +60,6 @@ names?all
       "isContract": true,
       "isErc20": true,
       "name": "Chi Gastoken by 1inch",
-      "petname": "actually-suitable-finch",
       "source": "On chain",
       "symbol": "CHI",
       "tags": "50-Tokens:ERC20"
@@ -75,7 +68,6 @@ names?all
       "address": "0x000000000000541e251335090ac5b47176af4f7e",
       "isContract": true,
       "name": "dex.blue",
-      "petname": "adequately-probable-werewolf",
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -85,7 +77,6 @@ names?all
       "isContract": true,
       "isErc20": true,
       "name": "TrueUSD",
-      "petname": "mostly-whole-gecko",
       "source": "On chain",
       "symbol": "TUSD",
       "tags": "50-Tokens:ERC20"
