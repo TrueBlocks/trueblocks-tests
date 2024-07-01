@@ -1,4 +1,10 @@
 names?terms=81&tags&custom
+Args: [terms=81 tags custom]
+Opts: {"terms":["81"],"custom":true,"tags":true,"autoname":"0x0"}
+Terms:  [81]
+Custom:  true
+Tags:  true
+Format:  json
 {
   "data": [
     {

@@ -1,4 +1,10 @@
 names?custom&terms=Account_1&matchCase
+Args: [custom terms=Account_1 matchCase]
+Opts: {"terms":["Account_1"],"matchCase":true,"custom":true,"autoname":"0x0"}
+Terms:  [Account_1]
+MatchCase:  true
+Custom:  true
+Format:  json
 {
   "data": [
     {
@@ -6,7 +12,6 @@ names?custom&terms=Account_1&matchCase
       "decimals": 1,
       "isCustom": true,
       "name": "Account_1",
-      "petname": "abnormally-able-ant",
       "source": "Testing",
       "symbol": "SYM_1",
       "tags": "81-Custom"

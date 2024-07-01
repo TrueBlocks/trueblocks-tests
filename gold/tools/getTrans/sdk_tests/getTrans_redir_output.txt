@@ -30,6 +30,7 @@ Format:  json
         "logs": [
           {
             "address": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+            "addressName": "FirstBlood Token",
             "data": "0x00000000000000000000000000000000000000000000002b10d76857b3e61000",
             "date": "2017-05-06 00:43:39 UTC",
             "logIndex": 7,
@@ -45,6 +46,7 @@ Format:  json
       },
       "timestamp": 1494031419,
       "to": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+      "toName": "FirstBlood Token",
       "traces": [],
       "transactionIndex": 12,
       "value": "0"

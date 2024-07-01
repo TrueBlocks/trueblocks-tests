@@ -3,9 +3,14 @@ Args: [terms=nick.eth]
 Opts: {"terms":["nick.eth"],"autoname":"0x0"}
 Terms:  [0xb8c2c29ee19d8307cb7255e1cd9cbde883a267d5]
 Format:  json
-No known names found for [0xb8c2c29ee19d8307cb7255e1cd9cbde883a267d5]
 {
-  "data": [],
+  "data": [
+    {
+      "address": "0xb8c2c29ee19d8307cb7255e1cd9cbde883a267d5",
+      "name": "nick.eth",
+      "tags": "66-ENS"
+    }
+  ],
   "meta": {
     "client": "0xdeadbeef",
     "finalized": "0xdeadbeef",

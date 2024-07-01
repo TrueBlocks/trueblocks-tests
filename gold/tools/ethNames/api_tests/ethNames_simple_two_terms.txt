@@ -12,6 +12,34 @@ names?terms=etwork&terms=one
       "tags": "50-Tokens:ERC20"
     },
     {
+      "address": "0x389715f05658c4644b2089ec0557fbadd5805053",
+      "decimals": 18,
+      "isContract": true,
+      "isErc20": true,
+      "name": "alco.network",
+      "source": "Etherscan ",
+      "symbol": "ALCONET",
+      "tags": "30-Contracts"
+    },
+    {
+      "address": "0xbc5e593cd15e45243cdae9c229d1cde03d04b355",
+      "decimals": 18,
+      "isContract": true,
+      "isErc20": true,
+      "name": "limestone.network",
+      "source": "Etherscan ",
+      "symbol": "LIMEX",
+      "tags": "30-Contracts"
+    },
+    {
+      "address": "0xc69eba65e87889f0805db717af06797055a0ba07",
+      "decimals": 18,
+      "name": "NitroNetwork",
+      "source": "Rotki",
+      "symbol": "ncash",
+      "tags": "60-Rotki"
+    },
+    {
       "address": "0xcc1230436557f1250812fabbee5b8524b43250f3",
       "decimals": 18,
       "isContract": true,

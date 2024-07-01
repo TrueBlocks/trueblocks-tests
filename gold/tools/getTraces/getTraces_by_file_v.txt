@@ -31,6 +31,7 @@ Results in ./by_file_v_out.file
       "action": {
         "callType": "call",
         "from": "0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5",
+        "fromName": "KNOWN_MINERS_004",
         "gas": 29000,
         "to": "0x8c222fb428f9f44715cf85349f79a18761c8e53c",
         "value": "233602441535478432"
@@ -50,6 +51,7 @@ Results in ./by_file_v_out.file
       "action": {
         "callType": "call",
         "from": "0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5",
+        "fromName": "KNOWN_MINERS_004",
         "gas": 29000,
         "to": "0x8c222fb428f9f44715cf85349f79a18761c8e53c",
         "value": "233602441535478432"

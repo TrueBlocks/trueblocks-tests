@@ -1,8 +1,16 @@
 names?tags&custom
+Args: [tags custom]
+Opts: {"custom":true,"tags":true,"autoname":"0x0"}
+Custom:  true
+Tags:  true
+Format:  json
 {
   "data": [
     {
       "tags": "81-Custom"
+    },
+    {
+      "tags": "91-Friends"
     }
   ],
   "meta": {

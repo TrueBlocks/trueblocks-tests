@@ -9,9 +9,9 @@ TEST[DATE|TIME] Format:  json
   "data": [
     {
       "address": "0x001d14804b399c6ef80e64576f657660804fec0b",
+      "addressName": "Prefund_0002",
       "blockNumber": 0,
       "date": "2015-07-30 15:26:15 UTC",
-      "name": "Prefund_0002",
       "timestamp": 1438269975,
       "transactionIndex": 2
     }

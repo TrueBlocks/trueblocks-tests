@@ -1,11 +1,14 @@
-names?terms=0x0000000000000000000000000000000010101010&fmt=json&expand
+names?terms=0x0000000000000000000000000000000010101010
+Args: [terms=0x0000000000000000000000000000000010101010]
+Opts: {"terms":["0x0000000000000000000000000000000010101010"]}
+Terms:  [0x0000000000000000000000000000000010101010]
+Format:  json
 {
   "data": [
     {
       "address": "0x0000000000000000000000000000000010101010",
       "decimals": 11,
       "name": "NAME",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE",
       "symbol": "SYMBOL",
       "tags": "TAGS"

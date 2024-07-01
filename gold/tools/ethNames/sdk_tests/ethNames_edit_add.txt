@@ -1,10 +1,9 @@
 Env: TB_NAME_ADDRESS  = 0x0000000000000000000000000000000010101010
 Env: TB_NAME_NAME     = NAME
-Env: TB_NAME_TAG      = TAGS
+Env: TB_NAME_TAGS     = TAGS
 Env: TB_NAME_SOURCE   = SOURCE
 Env: TB_NAME_SYMBOL   = SYMBOL
 Env: TB_NAME_DECIMALS = 11
-Env: TB_NAME_DESCR    = DESCRIPTION
 CURL: -X POST
 CURL: -H "Content-Type: application/x-www-form-urlencoded"
 CURL: -d "address=0x0000000000000000000000000000000010101010&name=NAME&tag=TAGS&source=SOURCE&symbol=SYMBOL&decimals=11&description=DESCRIPTION"
@@ -20,7 +19,6 @@ Format:  json
       "decimals": 11,
       "isCustom": true,
       "name": "NAME",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE",
       "symbol": "SYMBOL",
       "tags": "TAGS"

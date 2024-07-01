@@ -89,9 +89,6 @@ names?tags
       "tags": "37-SelfDestructed"
     },
     {
-      "tags": "39-Yearn"
-    },
-    {
       "tags": "40-Exchanges"
     },
     {
@@ -102,6 +99,15 @@ names?tags
     },
     {
       "tags": "55-Defi"
+    },
+    {
+      "tags": "60-Rotki"
+    },
+    {
+      "tags": "60-SmolAssets"
+    },
+    {
+      "tags": "60-Whales"
     },
     {
       "tags": "66-Ofac:Sanctioned"

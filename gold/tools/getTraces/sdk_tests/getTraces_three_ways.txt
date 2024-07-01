@@ -11,6 +11,7 @@ Format:  json
       "action": {
         "callType": "call",
         "from": "0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5",
+        "fromName": "KNOWN_MINERS_004",
         "gas": 29000,
         "to": "0x85ac33fe36a146ca3651693c16fbb45b3832b3f6",
         "value": "207260709928115808"
@@ -30,6 +31,7 @@ Format:  json
       "action": {
         "callType": "call",
         "from": "0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5",
+        "fromName": "KNOWN_MINERS_004",
         "gas": 29000,
         "to": "0x85ac33fe36a146ca3651693c16fbb45b3832b3f6",
         "value": "207260709928115808"
@@ -49,6 +51,7 @@ Format:  json
       "action": {
         "callType": "call",
         "from": "0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5",
+        "fromName": "KNOWN_MINERS_004",
         "gas": 29000,
         "to": "0x85ac33fe36a146ca3651693c16fbb45b3832b3f6",
         "value": "207260709928115808"

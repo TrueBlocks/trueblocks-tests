@@ -1,4 +1,9 @@
 names?custom&terms=Account_1
+Args: [custom terms=Account_1]
+Opts: {"terms":["Account_1"],"custom":true,"autoname":"0x0"}
+Terms:  [Account_1]
+Custom:  true
+Format:  json
 {
   "data": [
     {
@@ -6,7 +11,6 @@ names?custom&terms=Account_1
       "decimals": 1,
       "isCustom": true,
       "name": "Account_1",
-      "petname": "abnormally-able-ant",
       "source": "Testing",
       "symbol": "SYM_1",
       "tags": "81-Custom"

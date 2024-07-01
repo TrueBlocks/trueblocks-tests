@@ -16,6 +16,7 @@ Results in ./output_test_file
         "gas": 126744,
         "input": "0xa9059cbb000000000000000000000000733c82c24e0b00219cd3f448e1ca8ae08d38169400000000000000000000000000000000000000000000002b10d76857b3e61000",
         "to": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+        "toName": "FirstBlood Token",
         "value": "0"
       },
       "blockHash": "0x0f1217b92276cd17608d4212879739e6a5ec388bd7a03bef9798655234afd2b9",

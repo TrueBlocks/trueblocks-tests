@@ -1,6 +1,6 @@
 Env: TB_NAME_ADDRESS  = 0x0000000000000000000000000000000010101010
 Env: TB_NAME_NAME     = NAME_CHANGED
-Env: TB_NAME_TAG      = TAGS_CHANGED
+Env: TB_NAME_TAGS     = TAGS_CHANGED
 Env: TB_NAME_SOURCE   = SOURCE_CHANGED
 Env: TB_NAME_SYMBOL   = SYMBOL_CHANGED
 Env: TB_NAME_DECIMALS = 13
@@ -16,7 +16,6 @@ names?update&fmt=json
       "decimals": 13,
       "isCustom": true,
       "name": "NAME_CHANGED",
-      "petname": "abnormally-able-quetzal",
       "source": "SOURCE_CHANGED",
       "symbol": "SYMBOL_CHANGED",
       "tags": "TAGS_CHANGED"

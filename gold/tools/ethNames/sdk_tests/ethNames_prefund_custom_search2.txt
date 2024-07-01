@@ -1,11 +1,18 @@
 names?prefund&custom&terms=0001&terms=Genesis&expand
+Args: [prefund custom terms=0001 terms=Genesis expand]
+Opts: {"terms":["0001","Genesis"],"expand":true,"custom":true,"prefund":true,"autoname":"0x0"}
+Terms:  [0001 Genesis]
+Expand:  true
+Custom:  true
+Prefund:  true
+Format:  json
 {
   "data": [
     {
       "address": "0x001762430ea9c3a26e5749afdb70da5f78ddbb8c",
       "isPrefund": true,
       "name": "Prefund_0001",
-      "petname": "blatantly-distinct-crow",
+      "prefund": "200000000000000000000",
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -13,7 +20,7 @@ names?prefund&custom&terms=0001&terms=Genesis&expand
       "address": "0x28818e18b610001321b31df6fe7d2815cdadc9f5",
       "isPrefund": true,
       "name": "Prefund_1377",
-      "petname": "nicely-famous-liger",
+      "prefund": "1000000000000000000000",
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -21,7 +28,7 @@ names?prefund&custom&terms=0001&terms=Genesis&expand
       "address": "0x6ca5de00817de0cedce5fd000128dede12648b3c",
       "isPrefund": true,
       "name": "Prefund_3718",
-      "petname": "explicitly-true-fawn",
+      "prefund": "20000000000000000000",
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -29,7 +36,7 @@ names?prefund&custom&terms=0001&terms=Genesis&expand
       "address": "0x936dcf000194e3bff50ac5b4243a3ba014d661d8",
       "isPrefund": true,
       "name": "Prefund_5047",
-      "petname": "utterly-magical-jackal",
+      "prefund": "10000000000000000000000",
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -37,7 +44,7 @@ names?prefund&custom&terms=0001&terms=Genesis&expand
       "address": "0xc1b500011cfba95d7cd636e95e6cbf6167464b25",
       "isPrefund": true,
       "name": "Prefund_6662",
-      "petname": "basically-cool-treefrog",
+      "prefund": "200000000000000000000",
       "source": "Genesis",
       "tags": "80-Prefund"
     }
