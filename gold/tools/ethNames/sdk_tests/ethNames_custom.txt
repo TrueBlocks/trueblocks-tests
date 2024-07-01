@@ -49,13 +49,6 @@ Format:  json
       "tags": "91-Friends"
     },
     {
-      "address": "0x65377d4dfe9c01639a41952b5083d58964782892",
-      "isCustom": true,
-      "name": "Optimism Vesting Smart Contract",
-      "source": "Optimism Forum",
-      "tags": "30-Contracts"
-    },
-    {
       "address": "0xbc62985faabed27a8f174cbd5ea1ee7b1ed8fc12",
       "isCustom": true,
       "name": "Consensys Grant Sender",

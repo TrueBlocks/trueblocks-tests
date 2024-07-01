@@ -7,9 +7,6 @@ Format:  json
 {
   "data": [
     {
-      "tags": "30-Contracts"
-    },
-    {
       "tags": "81-Custom"
     },
     {
