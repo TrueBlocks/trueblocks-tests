@@ -471,6 +471,13 @@ Format:  json
       "tags": "50-Tokens:ERC20"
     },
     {
+      "address": "0x4727e3265706c59dbc31e7c518960f4f843bb4da",
+      "isCustom": true,
+      "name": "GG19 - GreenPill Network - independent - OP - 5000",
+      "source": "https://raw.githubusercontent.com/ufkhan97/gitcoin-grants-heroku/main/all_rounds.csv",
+      "tags": "31-Gitcoin:Core"
+    },
+    {
       "address": "0x476f2d18d28fa1a4fc62ce680fa7852524eb820f",
       "isContract": true,
       "name": "Grant 1949 Network State Genesis",
@@ -1695,16 +1702,6 @@ Format:  json
       "name": "Strengthening the Citizen Water Observatories Network",
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
-    },
-    {
-      "address": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
-      "decimals": 18,
-      "isContract": true,
-      "isErc20": true,
-      "name": "Morpheus.Network",
-      "source": "Rotki",
-      "symbol": "MNW",
-      "tags": "50-Tokens:ERC20"
     }
   ],
   "meta": {
