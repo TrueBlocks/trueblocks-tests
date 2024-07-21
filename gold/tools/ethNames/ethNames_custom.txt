@@ -6,6 +6,44 @@ tags	address	name	symbol	decimals
 81-Custom	0x0000000000000000000000000000000000000002	Account_2	SYM_2	2
 81-Custom	0x0000000000000000000000000000000000000003	Account_3	SYM_3	3
 81-Custom	0x0000000000000000000000000000000000000004	Account_4	SYM_4	4
+31-Gitcoin:Core	0x10be322de44389ded49c0b2b73d8c3a1e3b6d871	GG18 - ReFi DAO Local Node - community - OP - 30000		
+31-Gitcoin:Core	0x12bb5bbbfe596dbc489d209299b8302c3300fa40	GR17 - Web3 Open Source Software Round - program - ETH - 350000		
+31-Gitcoin:Core	0x274554eb289004e15a7679123901b7f070dda0fa	GR17 - ZK Tech Round - program - ETH - 150000		
+31-Gitcoin:Core	0x2871742b184633f8dc8546c6301cbc209945033e	GG18 - Web3 Community & Education - program - ETH - 250000		
+31-Gitcoin:Core	0x30c381033aa2830ceb0aa372c2e4d28f004b3db9	GG18 - Global Chinese Community - community - OP - 25000		
+31-Gitcoin:Core	0x32c49d2da5f6866a057e4aa2058c62a2974a5623	GR17 - Crypto Advocacy - community - eth - 100000		
+31-Gitcoin:Core	0x36f548e082b09b0cec5b3f5a7b78953c75de5e74	GG19 - SheFi - independent - OP - 5000		
+31-Gitcoin:Core	0x40511f88b87b69496a3471cdbe1d3d25ac68e408	GG19 - Build Guild - independent - OP - 11000		
+31-Gitcoin:Core	0x421510312c40486965767be5ea603aa8a5707983	GR17 - Climate Solutions - program - ETH - 350000		
+31-Gitcoin:Core	0x4727e3265706c59dbc31e7c518960f4f843bb4da	GG19 - GreenPill Network - independent - OP - 5000		
+31-Gitcoin:Core	0x5b95acf46c73fd116f0fedadcbedf453530e35d0	GG18 - Zuzalu Continuous Innovation - community - OP - 25000		
+31-Gitcoin:Core	0x5eb890e41c8d2cff75ea942085e406bb90016561	GG19 - Climate Solutions - community - OP - 150000		
 91-Friends	0x5ed8cee6b63b1c6afce3ad7c92f4fd7e1b8fad9f	Vitalik		
+31-Gitcoin:Core	0x64aa545c9c63944f8e765d9a65eda3cbbdc6e620	GR17 - ReFi Local Nodes - community - eth - 25000		
+31-Gitcoin:Core	0x64e5b2228ef31437909900b38fc42dd5e4b83147	GR17 - ENS Ecosystem - community - eth - 50000		
+31-Gitcoin:Core	0x6726fe9c89fb04eaef388c11cf55be6aa0a62fb9	GG19 - GCC - community - OP - 30000		
+31-Gitcoin:Core	0x69e423181f1d3e6bebf8ab88030c36da73785f26	GG18 - Arbitrum Domain - community - eth - 100000		
+31-Gitcoin:Core	0x6e8dc2e623204d61b0e59e668702654ae336c9f7	GR17 - DeSci (Decentralized Science) - community - eth - 85000		
+31-Gitcoin:Core	0x79115c9114055f16bb5b0e9bbfa450844d0fcb3a	GG19 - Meta Pool - community - OP - 30000		
+31-Gitcoin:Core	0x7f9415761afbd82e3fe2fd9e878fa643184bc729	GG19 - Cult DAO - independent - OP - 6500		
+31-Gitcoin:Core	0x859faeaa266ba13bd1e72eb6dd7a223902d1adfe	GR17 - Global Chinese Community beta round - community - eth - 25000		
+31-Gitcoin:Core	0x8aa06b3b8cac2970857f4e0fd78f21dc01aade94	GR17 - Metacrisis - community - eth - 25000		
+31-Gitcoin:Core	0x8de918f0163b2021839a8d84954dd7e8e151326d	GG18 - Web3 Open Source Software - program - OP - 300000		
+31-Gitcoin:Core	0x905efbabe2d52cd648fadfafcec8d6c8c60f7423	GR17 - The Phantom Menace - community - eth - 25000		
+31-Gitcoin:Core	0x9331fde4db7b9d9d1498c09d30149929f24cf9d5	GG18 - Web3 Social - community - OP - 25000		
+31-Gitcoin:Core	0x984e29dcb4286c2d9cbaa2c238afdd8a191eefbc	Gitcoin Citizens Round #1 - community - OP - 20000		
+31-Gitcoin:Core	0x9c3b81967eafba0a451e324417dd4f3f353b997b	GR17 - Web3 Social - community - eth - 50000		
+31-Gitcoin:Core	0x9e669c0a6e075f14ba9d9d98c3580ad67e20ec38	GR17 - Token Engineering - community - eth - 25000		
+31-Gitcoin:Core	0xaa40e2e5c8df03d792a52b5458959c320f86ca18	GR17 - Web3 Community and Education - program - ETH - 200000		
+31-Gitcoin:Core	0xb5c0939a9bb0c404b028d402493b86d9998af55e	GG19 - Raid Guild - independent - OP - 2500		
+31-Gitcoin:Core	0xb6be0ecafdb66dd848b0480db40056ff94a9465d	GG18 - Climate Solutions - program - OP - 250000		
 91-Friends	0xbc62985faabed27a8f174cbd5ea1ee7b1ed8fc12	Consensys Grant Sender		
+31-Gitcoin:Core	0xc08008d47e3deb10b27fc1a75a96d97d11d58cf8	GG19 - Daily Gwei - independent - OP - 5000		
+31-Gitcoin:Core	0xc34745b3852df32d5958be88df2bee0a83474001	GG19 - Web3 Social - community - OP - 22500		
+31-Gitcoin:Core	0xc5fdf5cff79e92fac1d6efa725c319248d279200	GG18 - Token Engineering - community - OP - 25000		
+31-Gitcoin:Core	0xc9a01d3d2505d9d2418dd2da64d06cf53fd403a0	GG19 - Ethereum.org - independent - OP - 5000		
+31-Gitcoin:Core	0xd309defd59c0b8792b14197eaa40043d9625b22b	GG19 - Public Goods Africa - independent - OP - 5000		
 91-Friends	0xde58d6a070c7490f10a9aac1b7bc6e3583383958	Vlad		
+31-Gitcoin:Core	0xdf22a2c8f6ba9376ff17ee13e6154b784ee92094	GR17 - Ethereum Infrastructure - program - ETH - 200000		
+31-Gitcoin:Core	0xf1c021df6dc6b2dc2e5a837cdfddc2f42503233b	GR17 - Mantle Grants 1 - community - eth - 50000		
+31-Gitcoin:Core	0xf591e42dfdfe8e62c2085ccaadfe05f84d89d0c6	GG18 - Meta Pool LatAm - community - OP - 25000		

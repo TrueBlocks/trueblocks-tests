@@ -7,6 +7,9 @@ Format:  json
 {
   "data": [
     {
+      "tags": "31-Gitcoin:Core"
+    },
+    {
       "tags": "81-Custom"
     },
     {
