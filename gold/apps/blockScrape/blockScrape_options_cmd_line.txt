@@ -9,7 +9,7 @@ TEST[DATE|TIME] Publisher:  0x02f2b09b33fdbd406ead954a31f98bd29a2a3492
 TEST[DATE|TIME] DryRun:  true
 TEST[DATE|TIME] Caps:  -fmt,-noHeader,-file,-output,-append
 TEST[DATE|TIME] Format:  txt
-INFO[DATE|TIME] Scraping:
-INFO[DATE|TIME]   RPC:      --rpc-provider--
-INFO[DATE|TIME]   Path:     --unchained-path--
-INFO[DATE|TIME]   Settings: {10000 10000 10000 10000 true 10000}
+"Scraping mainnet
+  Rpc --rpc-provider--
+  Path --unchained-path--
+  Settings {10000 10000 10000 10000 true 10000}"
