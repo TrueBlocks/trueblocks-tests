@@ -8,177 +8,177 @@ Format:  json
   "data": [
     {
       "fileSize": 3754,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_00020.json",
-      "path": "./abis/known-000/"
+      "name": "erc_00020.json"
     },
     {
       "fileSize": 8051,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_00721.json",
-      "path": "./abis/known-000/"
+      "name": "erc_00721.json"
     },
     {
       "fileSize": 4355,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "gitcoin.json",
-      "path": "./abis/known-000/"
+      "name": "gitcoin.json"
     },
     {
       "fileSize": 137261,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "openzeppelin.json",
-      "path": "./abis/known-000/"
+      "name": "openzeppelin.json"
     },
     {
       "fileSize": 6972,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "proxy.json",
-      "path": "./abis/known-000/"
+      "name": "proxy.json"
     },
     {
       "fileSize": 1748,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "unchained.json",
-      "path": "./abis/known-000/"
+      "name": "unchained.json"
     },
     {
       "fileSize": 3368,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "unchainedV2.json",
-      "path": "./abis/known-000/"
+      "name": "unchainedV2.json"
     },
     {
       "fileSize": 14333,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "uniswap-pair.json",
-      "path": "./abis/known-000/"
+      "name": "uniswap-pair.json"
     },
     {
       "fileSize": 40367,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "uniswap.json",
-      "path": "./abis/known-000/"
+      "name": "uniswap.json"
     },
     {
       "fileSize": 16133,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "wallet_abis.json",
-      "path": "./abis/known-000/"
+      "name": "wallet_abis.json"
     },
     {
       "fileSize": 349,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_00165.json",
-      "path": "./abis/known-005/"
+      "name": "erc_00165.json"
     },
     {
       "fileSize": 7076,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_00777.json",
-      "path": "./abis/known-005/"
+      "name": "erc_00777.json"
     },
     {
       "fileSize": 62261,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_00998.json",
-      "path": "./abis/known-005/"
+      "name": "erc_00998.json"
     },
     {
       "fileSize": 32557,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_01155.json",
-      "path": "./abis/known-005/"
+      "name": "erc_01155.json"
     },
     {
       "fileSize": 4638,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_01594.json",
-      "path": "./abis/known-005/"
+      "name": "erc_01594.json"
     },
     {
       "fileSize": 5342,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "erc_01820.json",
-      "path": "./abis/known-005/"
+      "name": "erc_01820.json"
     },
     {
       "fileSize": 39649,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "loose.json",
-      "path": "./abis/known-005/"
+      "name": "loose.json"
     },
     {
       "fileSize": 215572,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "aragon.json",
-      "path": "./abis/known-010/"
+      "name": "aragon.json"
     },
     {
       "fileSize": 19296,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "cryptokitties.json",
-      "path": "./abis/known-010/"
+      "name": "cryptokitties.json"
     },
     {
       "fileSize": 12869,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "ens-old.json",
-      "path": "./abis/known-010/"
+      "name": "ens-old.json"
     },
     {
       "fileSize": 92096,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "ens.json",
-      "path": "./abis/known-010/"
+      "name": "ens.json"
     },
     {
       "fileSize": 24220,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "kickback.json",
-      "path": "./abis/known-010/"
+      "name": "kickback.json"
     },
     {
       "fileSize": 5305,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "maker-v1.json",
-      "path": "./abis/known-010/"
+      "name": "maker-v1.json"
     },
     {
       "fileSize": 91116,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "truebit.json",
-      "path": "./abis/known-010/"
+      "name": "truebit.json"
     },
     {
       "fileSize": 4071,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "diamond.json",
-      "path": "./abis/known-015/"
+      "name": "diamond.json"
     },
     {
       "fileSize": 32865,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "moloch.json",
-      "path": "./abis/known-015/"
+      "name": "moloch.json"
     },
     {
       "fileSize": 10909,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "populous.json",
-      "path": "./abis/known-015/"
+      "name": "populous.json"
     },
     {
       "fileSize": 115696,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "sabilier.json",
-      "path": "./abis/known-015/"
+      "name": "sabilier.json"
     },
     {
       "fileSize": 81144,
+      "isKnown": true,
       "lastModDate": "--date--",
-      "name": "set.json",
-      "path": "./abis/known-015/"
+      "name": "set.json"
     }
   ],
   "meta": {
