@@ -11,6 +11,8 @@ Format:  json
       "fileSize": 3754,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 2,
+      "nFunctions": 9,
       "name": "erc_00020.json",
       "path": "./abis/known-000/"
     },
@@ -18,6 +20,8 @@ Format:  json
       "fileSize": 8051,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 3,
+      "nFunctions": 17,
       "name": "erc_00721.json",
       "path": "./abis/known-000/"
     },
@@ -25,6 +29,8 @@ Format:  json
       "fileSize": 4355,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 5,
+      "nFunctions": 9,
       "name": "gitcoin.json",
       "path": "./abis/known-000/"
     },
@@ -32,6 +38,8 @@ Format:  json
       "fileSize": 137261,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 50,
+      "nFunctions": 332,
       "name": "openzeppelin.json",
       "path": "./abis/known-000/"
     },
@@ -39,6 +47,8 @@ Format:  json
       "fileSize": 6972,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 3,
+      "nFunctions": 19,
       "name": "proxy.json",
       "path": "./abis/known-000/"
     },
@@ -46,6 +56,8 @@ Format:  json
       "fileSize": 1748,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 2,
+      "nFunctions": 4,
       "name": "unchained.json",
       "path": "./abis/known-000/"
     },
@@ -53,6 +65,8 @@ Format:  json
       "fileSize": 3368,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 3,
+      "nFunctions": 5,
       "name": "unchainedV2.json",
       "path": "./abis/known-000/"
     },
@@ -60,6 +74,8 @@ Format:  json
       "fileSize": 14333,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 6,
+      "nFunctions": 27,
       "name": "uniswap-pair.json",
       "path": "./abis/known-000/"
     },
@@ -67,6 +83,8 @@ Format:  json
       "fileSize": 40367,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 7,
+      "nFunctions": 67,
       "name": "uniswap.json",
       "path": "./abis/known-000/"
     },
@@ -74,6 +92,8 @@ Format:  json
       "fileSize": 16133,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 19,
+      "nFunctions": 36,
       "name": "wallet_abis.json",
       "path": "./abis/known-000/"
     },
@@ -81,6 +101,8 @@ Format:  json
       "fileSize": 349,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 0,
+      "nFunctions": 1,
       "name": "erc_00165.json",
       "path": "./abis/known-005/"
     },
@@ -88,6 +110,8 @@ Format:  json
       "fileSize": 7076,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 5,
+      "nFunctions": 13,
       "name": "erc_00777.json",
       "path": "./abis/known-005/"
     },
@@ -95,6 +119,8 @@ Format:  json
       "fileSize": 62261,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 8,
+      "nFunctions": 128,
       "name": "erc_00998.json",
       "path": "./abis/known-005/"
     },
@@ -102,6 +128,8 @@ Format:  json
       "fileSize": 32557,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 7,
+      "nFunctions": 66,
       "name": "erc_01155.json",
       "path": "./abis/known-005/"
     },
@@ -109,6 +137,8 @@ Format:  json
       "fileSize": 4638,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 2,
+      "nFunctions": 8,
       "name": "erc_01594.json",
       "path": "./abis/known-005/"
     },
@@ -116,6 +146,8 @@ Format:  json
       "fileSize": 5342,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 2,
+      "nFunctions": 11,
       "name": "erc_01820.json",
       "path": "./abis/known-005/"
     },
@@ -123,6 +155,8 @@ Format:  json
       "fileSize": 39649,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 1,
+      "nFunctions": 100,
       "name": "loose.json",
       "path": "./abis/known-005/"
     },
@@ -130,6 +164,8 @@ Format:  json
       "fileSize": 215572,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 59,
+      "nFunctions": 475,
       "name": "aragon.json",
       "path": "./abis/known-010/"
     },
@@ -137,6 +173,8 @@ Format:  json
       "fileSize": 19296,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 5,
+      "nFunctions": 59,
       "name": "cryptokitties.json",
       "path": "./abis/known-010/"
     },
@@ -144,6 +182,8 @@ Format:  json
       "fileSize": 12869,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 9,
+      "nFunctions": 19,
       "name": "ens-old.json",
       "path": "./abis/known-010/"
     },
@@ -151,6 +191,8 @@ Format:  json
       "fileSize": 92096,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 63,
+      "nFunctions": 201,
       "name": "ens.json",
       "path": "./abis/known-010/"
     },
@@ -158,6 +200,8 @@ Format:  json
       "fileSize": 24220,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 13,
+      "nFunctions": 68,
       "name": "kickback.json",
       "path": "./abis/known-010/"
     },
@@ -165,6 +209,8 @@ Format:  json
       "fileSize": 5305,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 3,
+      "nFunctions": 20,
       "name": "maker-v1.json",
       "path": "./abis/known-010/"
     },
@@ -172,6 +218,8 @@ Format:  json
       "fileSize": 91116,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 31,
+      "nFunctions": 178,
       "name": "truebit.json",
       "path": "./abis/known-010/"
     },
@@ -179,6 +227,8 @@ Format:  json
       "fileSize": 4071,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 1,
+      "nFunctions": 12,
       "name": "diamond.json",
       "path": "./abis/known-015/"
     },
@@ -186,6 +236,8 @@ Format:  json
       "fileSize": 32865,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 16,
+      "nFunctions": 62,
       "name": "moloch.json",
       "path": "./abis/known-015/"
     },
@@ -193,6 +245,8 @@ Format:  json
       "fileSize": 10909,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 8,
+      "nFunctions": 33,
       "name": "populous.json",
       "path": "./abis/known-015/"
     },
@@ -200,6 +254,8 @@ Format:  json
       "fileSize": 115696,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 48,
+      "nFunctions": 247,
       "name": "sabilier.json",
       "path": "./abis/known-015/"
     },
@@ -207,6 +263,8 @@ Format:  json
       "fileSize": 81144,
       "isKnown": true,
       "lastModDate": "--date--",
+      "nEvents": 10,
+      "nFunctions": 221,
       "name": "set.json",
       "path": "./abis/known-015/"
     }
