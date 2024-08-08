@@ -13,6 +13,7 @@ Format:  json
       "decimals": 1,
       "isCustom": true,
       "name": "Account_1",
+      "parts": 4,
       "source": "Testing",
       "symbol": "SYM_1",
       "tags": "81-Custom"
@@ -21,6 +22,7 @@ Format:  json
       "address": "0x001762430ea9c3a26e5749afdb70da5f78ddbb8c",
       "isPrefund": true,
       "name": "Prefund_0001",
+      "parts": 8,
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -28,6 +30,7 @@ Format:  json
       "address": "0x28818e18b610001321b31df6fe7d2815cdadc9f5",
       "isPrefund": true,
       "name": "Prefund_1377",
+      "parts": 8,
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -35,6 +38,7 @@ Format:  json
       "address": "0x6ca5de00817de0cedce5fd000128dede12648b3c",
       "isPrefund": true,
       "name": "Prefund_3718",
+      "parts": 8,
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -42,6 +46,7 @@ Format:  json
       "address": "0x936dcf000194e3bff50ac5b4243a3ba014d661d8",
       "isPrefund": true,
       "name": "Prefund_5047",
+      "parts": 8,
       "source": "Genesis",
       "tags": "80-Prefund"
     },
@@ -49,6 +54,7 @@ Format:  json
       "address": "0xc1b500011cfba95d7cd636e95e6cbf6167464b25",
       "isPrefund": true,
       "name": "Prefund_6662",
+      "parts": 8,
       "source": "Genesis",
       "tags": "80-Prefund"
     }

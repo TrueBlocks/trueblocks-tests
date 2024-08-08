@@ -4,12 +4,14 @@ names?terms=etwork&verbose
     {
       "address": "0x011c2c1433b36a524b548444ae2f20c015427d04",
       "name": "Grant 0491 - Tokamak Network: Decentralized, Scalable, Turing Complete Layer 2 Plasma",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/491/tokamak-network-decentralized-scalable-turing-com",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x035495b687850f79cb1652f416ea7ec19907557c",
       "name": "Bees network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -17,12 +19,14 @@ names?terms=etwork&verbose
       "address": "0x04c62019ab478bff5874e7b7d9bc84fcf7e30025",
       "isContract": true,
       "name": "POA Network: MultiSig",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "50-Tokens:ERC20"
     },
     {
       "address": "0x067f2bef6a1f929544253b9fb95f99bae77b2518",
       "name": "Grant 1753 Resetdao ― Web 3.0 Programmable Social Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1753/resetdao-web-30-programmable-social-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -32,6 +36,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Jarvis network Smart Relay Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "JRTBNT",
       "tags": "50-Tokens:ERC20"
@@ -42,6 +47,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Super Module Network One",
+      "parts": 2,
       "source": "On chain",
       "symbol": "SMN1",
       "tags": "50-Tokens:ERC20"
@@ -52,6 +58,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Tierion Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "TNT",
       "tags": "50-Tokens:ERC20"
@@ -59,6 +66,7 @@ names?terms=etwork&verbose
     {
       "address": "0x090b41c23f5890feb4182a201d95476bb35e4a09",
       "name": "Grant 1706 - ZVM from Tokamak Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1706/zvm-from-tokamak-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -68,6 +76,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "DOS Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "DOS",
       "tags": "50-Tokens:ERC20"
@@ -78,6 +87,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "district0x Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "DNT",
       "tags": "50-Tokens:ERC20"
@@ -87,6 +97,7 @@ names?terms=etwork&verbose
       "decimals": 18,
       "isContract": true,
       "name": "Pawtocol Network UPI Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "BUPI",
       "tags": "60-Rotki"
@@ -97,6 +108,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "XIO Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "XIO",
       "tags": "50-Tokens:ERC20"
@@ -104,6 +116,7 @@ names?terms=etwork&verbose
     {
       "address": "0x1074f62d7019c3184a2f7ea8c6a8acd6780beb48",
       "name": "Grant 0083 Poa Network Community Management Grant for Adj",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/83/poa-network-community-management-grant-for-adj",
       "tags": "31-Gitcoin:Grants"
     },
@@ -113,6 +126,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Iron Bank Synthetix Network Token",
+      "parts": 2,
       "source": "SmolAssets",
       "symbol": "iSNX",
       "tags": "50-Tokens:ERC20"
@@ -122,6 +136,7 @@ names?terms=etwork&verbose
       "decimals": 18,
       "isContract": true,
       "name": "Synthetix Network Token Hop Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "hSNX",
       "tags": "60-Rotki"
@@ -132,6 +147,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "PYRO Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "PYRO",
       "tags": "50-Tokens:ERC20"
@@ -142,6 +158,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Gelato Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "GEL",
       "tags": "50-Tokens:ERC20"
@@ -152,6 +169,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "KIRA Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "KEX",
       "tags": "50-Tokens:ERC20"
@@ -162,6 +180,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "CustomContractNetwork",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "CCN",
       "tags": "50-Tokens:ERC20"
@@ -170,6 +189,7 @@ names?terms=etwork&verbose
       "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
       "decimals": 18,
       "name": "Gains Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "GNS",
       "tags": "60-Rotki"
@@ -177,6 +197,7 @@ names?terms=etwork&verbose
     {
       "address": "0x1b415ec11276f385db867e631c5c9692f3088112",
       "name": "Austin Disaster Relief Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -184,6 +205,7 @@ names?terms=etwork&verbose
       "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
       "decimals": 18,
       "name": "Wootrade Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "WOO",
       "tags": "60-Rotki"
@@ -192,6 +214,7 @@ names?terms=etwork&verbose
       "address": "0x1bb76a939d6b7f5be6b95c4f9f822b02b4d62ced",
       "decimals": 18,
       "name": "POP Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "POP",
       "tags": "60-Rotki"
@@ -202,6 +225,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Bancor Network Token",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "BNT",
       "tags": "50-Tokens:ERC20"
@@ -209,6 +233,7 @@ names?terms=etwork&verbose
     {
       "address": "0x1fb3e449448faf1330dba45d945554c1bedcab5a",
       "name": "Grant 2250 - Cura Network - the decentralized healthcare system that super-charges healthcare delivery",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2250/cura-network-the-decentralized-healthcare-system-",
       "tags": "31-Gitcoin:Grants"
     },
@@ -218,6 +243,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Sapien Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "SPN",
       "tags": "50-Tokens:ERC20"
@@ -228,6 +254,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "BITVoxy NetworkTokens",
+      "parts": 2,
       "source": "On chain",
       "symbol": "BVN",
       "tags": "50-Tokens:ERC20"
@@ -238,6 +265,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "NTWK",
       "tags": "50-Tokens:ERC20"
@@ -246,6 +274,7 @@ names?terms=etwork&verbose
       "address": "0x2456493e757fdeedf569781f053998a72adfad03",
       "decimals": 6,
       "name": "Definder network token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "DNT",
       "tags": "60-Rotki"
@@ -254,6 +283,7 @@ names?terms=etwork&verbose
       "address": "0x26f3901ac8a79c50fb0d8289c74f0d09adc42e29",
       "decimals": 18,
       "name": "ThresholdNetworkToken",
+      "parts": 2,
       "source": "SmolAssets",
       "symbol": "T",
       "tags": "60-SmolAssets"
@@ -264,6 +294,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Tercet Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "TCNX",
       "tags": "50-Tokens:ERC20"
@@ -272,6 +303,7 @@ names?terms=etwork&verbose
       "address": "0x2af47a65da8cd66729b4209c22017d6a5c2d2400",
       "isContract": true,
       "name": "Bounties Network",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -279,6 +311,7 @@ names?terms=etwork&verbose
       "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
       "decimals": 18,
       "name": "Mask Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "MASK",
       "tags": "60-Rotki"
@@ -289,6 +322,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Tokamak Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "TON",
       "tags": "50-Tokens:ERC20"
@@ -299,6 +333,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "CERE Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "CERE",
       "tags": "50-Tokens:ERC20"
@@ -309,6 +344,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Amino Intelligent Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "AMIO",
       "tags": "50-Tokens:ERC20"
@@ -317,6 +353,7 @@ names?terms=etwork&verbose
       "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
       "decimals": 18,
       "name": "Mask Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "MASK",
       "tags": "60-Rotki"
@@ -324,18 +361,21 @@ names?terms=etwork&verbose
     {
       "address": "0x2fefe22dbb33670a13039039982cd3d12b1a4b6f",
       "name": "Grant 1875 Garuda Network (dmrd)",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1875/garuda-network-dmrd",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x301605c95acbed7a1fd9c2c0deee964e2afbd0c3",
       "name": "Grant 1353 - Synapsis. Network 🌌🌱",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1353/synapsis-network",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x30755d3e65c0cf46c35b72d11e52d941c5fc3a3e",
       "name": "Grant 0026 Peepeth: Social Network for a Better World",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/26/peepeth-social-network-for-a-better-world",
       "tags": "31-Gitcoin:Grants"
     },
@@ -343,6 +383,7 @@ names?terms=etwork&verbose
       "address": "0x32a3256a4b15badd4a6e072a03d23404d925a5cf",
       "isContract": true,
       "name": "Celsius Network: Contract",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -350,6 +391,7 @@ names?terms=etwork&verbose
       "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
       "decimals": 18,
       "name": "AIOZ Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "AIOZ",
       "tags": "60-Rotki"
@@ -360,6 +402,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "UNetworkToken",
+      "parts": 2,
       "source": "On chain",
       "symbol": "UUU",
       "tags": "50-Tokens:ERC20"
@@ -368,12 +411,14 @@ names?terms=etwork&verbose
       "address": "0x3700414bb6716fcd8b14344fb10ddd91fdea59ec",
       "isContract": true,
       "name": "Kyber Network Wrapper",
+      "parts": 2,
       "source": "TrueBlocks.io",
       "tags": "30-Contracts:Set Protocol"
     },
     {
       "address": "0x373483a546e5212b0d009db1dbf0d14daff80f9a",
       "name": "Luminus Network for New Americans",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -383,6 +428,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "alco.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "ALCONET",
       "tags": "30-Contracts"
@@ -393,6 +439,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "PeerEx Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "PERX",
       "tags": "50-Tokens:ERC20"
@@ -403,6 +450,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "300FIT Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "FIT",
       "tags": "50-Tokens:ERC20"
@@ -413,6 +461,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "OPTICAL NETWORK",
+      "parts": 2,
       "source": "On chain",
       "symbol": "OPTC",
       "tags": "50-Tokens:ERC20"
@@ -423,6 +472,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "LTO Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "LTO",
       "tags": "50-Tokens:ERC20"
@@ -432,6 +482,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc721": true,
       "name": "Network State Genesis",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "NSG",
       "tags": "30-Contracts"
@@ -442,6 +493,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Colu Local Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "CLN",
       "tags": "50-Tokens:ERC20"
@@ -452,6 +504,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "DOG Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "DOG",
       "tags": "50-Tokens:ERC20"
@@ -462,6 +515,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Wootrade Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "WOO",
       "tags": "50-Tokens:ERC20"
@@ -470,6 +524,7 @@ names?terms=etwork&verbose
       "address": "0x4727e3265706c59dbc31e7c518960f4f843bb4da",
       "isCustom": true,
       "name": "GG19 - GreenPill Network - independent - OP - 5000",
+      "parts": 2,
       "source": "https://raw.githubusercontent.com/ufkhan97/gitcoin-grants-heroku/main/all_rounds.csv",
       "tags": "31-Gitcoin:Core"
     },
@@ -477,6 +532,7 @@ names?terms=etwork&verbose
       "address": "0x476f2d18d28fa1a4fc62ce680fa7852524eb820f",
       "isContract": true,
       "name": "Grant 1949 Network State Genesis",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1949/network-state-genesis",
       "tags": "31-Gitcoin:Grants"
     },
@@ -484,6 +540,7 @@ names?terms=etwork&verbose
       "address": "0x4aa42145aa6ebf72e164c9bbc74fbd3788045016",
       "isContract": true,
       "name": "POA Network: DAI-XDAI Bridge",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -493,6 +550,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "WABnetwork",
+      "parts": 2,
       "source": "On chain",
       "symbol": "WAB",
       "tags": "50-Tokens:ERC20"
@@ -500,6 +558,7 @@ names?terms=etwork&verbose
     {
       "address": "0x4c63f570590b7e145d5af265497aa23fa2bc0b8c",
       "name": "Grant 0653 Gas Stations Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/653/gas-stations-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -507,6 +566,7 @@ names?terms=etwork&verbose
       "address": "0x4c994efd3cf90092dc35ee2e3d660d782652727b",
       "isContract": true,
       "name": "Grant 2103 - Open Source Climate Offsets Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2103/open-source-climate-offsets-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -516,6 +576,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "cere.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "CERE",
       "tags": "30-Contracts"
@@ -526,6 +587,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "deeper.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "DPR",
       "tags": "30-Contracts"
@@ -536,6 +598,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Caribbean Network Token",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "CBN",
       "tags": "30-Contracts"
@@ -544,6 +607,7 @@ names?terms=etwork&verbose
       "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
       "decimals": 18,
       "name": "Synthetix Network Token (PoS)",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "SNX",
       "tags": "60-Rotki"
@@ -552,12 +616,14 @@ names?terms=etwork&verbose
       "address": "0x52166528fcc12681af996e409ee3a421a4e128a3",
       "isContract": true,
       "name": "Kyber Fee Burner",
+      "parts": 2,
       "source": "TrueBlocks.io",
       "tags": "30-Contracts:Kyber Network"
     },
     {
       "address": "0x5219ffb88175588510e9752a1ecaa3cd217ca783",
       "name": "Bloom Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -565,6 +631,7 @@ names?terms=etwork&verbose
       "address": "0x521d32f3d23f1fc82b1dbe306edc3ef668e5d973",
       "isContract": true,
       "name": "Clovers Network Related",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -574,6 +641,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Penta Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "PNT",
       "tags": "50-Tokens:ERC20"
@@ -582,12 +650,14 @@ names?terms=etwork&verbose
       "address": "0x5346d0f80e2816fad329f2c140c870ffc3c3e2ef",
       "isContract": true,
       "name": "EtherRouter: Colony Network",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
     {
       "address": "0x538f022f50038994f7a04a58f5004c1b98ed41a4",
       "name": "Alexander Youth Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -595,12 +665,14 @@ names?terms=etwork&verbose
       "address": "0x54431918cec22932fcf97e54769f4e00f646690f",
       "isContract": true,
       "name": "1inch Network: Deployer Related",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
     {
       "address": "0x55b23ed53fe13060183b92979c737a8ef9a73b73",
       "name": "Grant 4201 - Spect Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/4201/spect-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -609,6 +681,7 @@ names?terms=etwork&verbose
       "decimals": 18,
       "isContract": true,
       "name": "SynthetixNetwork",
+      "parts": 2,
       "source": "SmolAssets",
       "symbol": "SNX",
       "tags": "60-SmolAssets"
@@ -617,6 +690,7 @@ names?terms=etwork&verbose
       "address": "0x57f8160e1c59d16c01bbe181fd94db4e56b60495",
       "isContract": true,
       "name": "Kyber Weth Reserve",
+      "parts": 2,
       "source": "TrueBlocks.io",
       "tags": "30-Contracts:Kyber Network"
     },
@@ -626,6 +700,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "easify.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "EASY",
       "tags": "30-Contracts"
@@ -633,6 +708,7 @@ names?terms=etwork&verbose
     {
       "address": "0x5bb21dbb7b2876b0524530c8666969ac9eaf9ede",
       "name": "Cryptolink Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -640,6 +716,7 @@ names?terms=etwork&verbose
       "address": "0x5d2cd3a7190d38d271d9a4cceb193040ef259840",
       "decimals": 18,
       "name": "MURAT NETWORK",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "MRT",
       "tags": "60-Rotki"
@@ -650,6 +727,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "POP Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "POP",
       "tags": "50-Tokens:ERC20"
@@ -660,6 +738,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Content and Ad Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "CAN",
       "tags": "50-Tokens:ERC20"
@@ -670,6 +749,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "iEx.ec Network Token",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "RLC",
       "tags": "50-Tokens:ERC20"
@@ -680,6 +760,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "AIOZ Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "AIOZ",
       "tags": "50-Tokens:ERC20"
@@ -687,6 +768,7 @@ names?terms=etwork&verbose
     {
       "address": "0x629224fc7ce36163040454cd51b37acc550b77cb",
       "name": "Rainforest Action Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -696,6 +778,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "CovidFree Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "COVIDFREE",
       "tags": "50-Tokens:ERC20"
@@ -704,6 +787,7 @@ names?terms=etwork&verbose
       "address": "0x63825c174ab367968ec60f061753d3bbd36a0d8f",
       "isContract": true,
       "name": "Kyber Reserve",
+      "parts": 2,
       "source": "0xTracker",
       "tags": "30-Contracts:Kyber Network"
     },
@@ -713,6 +797,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Shyft Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "SHFT",
       "tags": "30-Contracts"
@@ -720,6 +805,7 @@ names?terms=etwork&verbose
     {
       "address": "0x641845407bc5b9920ee786270ab25b73bcc88a19",
       "name": "Grant 2108 - SkyFeed • Decentralized Social Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2108/skyfeed-decentralized-social-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -727,6 +813,7 @@ names?terms=etwork&verbose
       "address": "0x64a9edd3f5fce0252cd708e26c8dd11205742826",
       "isContract": true,
       "name": "Uniswap: ANJ Aragon Network Juror",
+      "parts": 2,
       "source": "EtherScan.io",
       "symbol": "ANJ",
       "tags": "40-Exchanges"
@@ -737,6 +824,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "gelato.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "GELO",
       "tags": "30-Contracts"
@@ -747,6 +835,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Shadows Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "DOWS",
       "tags": "50-Tokens:ERC20"
@@ -754,6 +843,7 @@ names?terms=etwork&verbose
     {
       "address": "0x6626593c237f530d15ae9980a95ef938ac15c35c",
       "name": "Gauntlet Network",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "55-Defi"
     },
@@ -761,6 +851,7 @@ names?terms=etwork&verbose
       "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
       "decimals": 18,
       "name": "WOO Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "WOO",
       "tags": "60-Rotki"
@@ -768,6 +859,7 @@ names?terms=etwork&verbose
     {
       "address": "0x66aa8bee5366b6b48811ae0dac9fe5e1eefe1621",
       "name": "Grant 0049 Blockchain Education Network (ben)",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/49/blockchain-education-network-ben",
       "tags": "31-Gitcoin:Grants"
     },
@@ -777,6 +869,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Trustlines Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "TLN",
       "tags": "50-Tokens:ERC20"
@@ -787,6 +880,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Kylin Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "KYL",
       "tags": "50-Tokens:ERC20"
@@ -797,6 +891,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Mask Network",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "MASK",
       "tags": "50-Tokens:ERC20"
@@ -807,6 +902,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Luxurious Pro Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "LPNT",
       "tags": "50-Tokens:ERC20"
@@ -817,6 +913,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Kenysians Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "KEN",
       "tags": "30-Contracts"
@@ -825,6 +922,7 @@ names?terms=etwork&verbose
       "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
       "decimals": 18,
       "name": "AdEx Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "ADX",
       "tags": "60-Rotki"
@@ -835,6 +933,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "IoTeX Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "IOTX",
       "tags": "50-Tokens:ERC20"
@@ -845,6 +944,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "CDX",
       "tags": "50-Tokens:ERC20"
@@ -855,6 +955,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "DOS Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "DOS",
       "tags": "50-Tokens:ERC20"
@@ -862,6 +963,7 @@ names?terms=etwork&verbose
     {
       "address": "0x70a68a29bac0b3c85bed4b47bb3a639f0f245e70",
       "name": "Allergy &amp; Asthma Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -871,6 +973,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Pawtocol Network UPI Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "UPI",
       "tags": "50-Tokens:ERC20"
@@ -881,6 +984,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Status Network Token",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "SNT",
       "tags": "50-Tokens:ERC20"
@@ -889,6 +993,7 @@ names?terms=etwork&verbose
       "address": "0x747e42eb0591547a0ab429b3627816208c734ea7",
       "decimals": 18,
       "name": "ThresholdNetworkToken",
+      "parts": 2,
       "source": "SmolAssets",
       "symbol": "T",
       "tags": "60-SmolAssets"
@@ -897,6 +1002,7 @@ names?terms=etwork&verbose
       "address": "0x75db8b92937f8f86213e523788ab9f066efde3fe",
       "isContract": true,
       "name": "Celsius Network: Wallet 2",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -906,6 +1012,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Meteorite.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "Meteor",
       "tags": "30-Contracts"
@@ -914,6 +1021,7 @@ names?terms=etwork&verbose
       "address": "0x798abda6cc246d0edba912092a2a3dbd3d11191b",
       "isContract": true,
       "name": "Kyber Conversion Rates",
+      "parts": 2,
       "source": "TrueBlocks.io",
       "tags": "30-Contracts:Kyber Network"
     },
@@ -923,6 +1031,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Freight Trust Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "EDI",
       "tags": "30-Contracts"
@@ -933,6 +1042,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Morpheus.Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "MRPH",
       "tags": "50-Tokens:ERC20"
@@ -943,6 +1053,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Archetypal Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ACTP",
       "tags": "50-Tokens:ERC20"
@@ -953,6 +1064,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "casper.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "CSPR",
       "tags": "30-Contracts"
@@ -960,6 +1072,7 @@ names?terms=etwork&verbose
     {
       "address": "0x7bc1f30ffeaeee36baf17ea421830281b148b397",
       "name": "Trustlines Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -969,6 +1082,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "SANtiment network token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "SAN",
       "tags": "50-Tokens:ERC20"
@@ -979,6 +1093,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Loon Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "LOON",
       "tags": "50-Tokens:ERC20"
@@ -989,6 +1104,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Union Network Dollar Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "UNDT",
       "tags": "50-Tokens:ERC20"
@@ -999,6 +1115,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Golem Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "GLM",
       "tags": "50-Tokens:ERC20"
@@ -1007,6 +1124,7 @@ names?terms=etwork&verbose
       "address": "0x818e6fecd516ecc3849daf6845e3ec868087b755",
       "isContract": true,
       "name": "Kyber Network Proxy",
+      "parts": 2,
       "source": "https://github.com/SetProtocol/set-protocol-contracts",
       "tags": "30-Contracts:Set Protocol"
     },
@@ -1016,6 +1134,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Ankr Network",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "ANKR",
       "tags": "50-Tokens:ERC20"
@@ -1024,6 +1143,7 @@ names?terms=etwork&verbose
       "address": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
       "decimals": 18,
       "name": "LTO Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "LTO",
       "tags": "60-Rotki"
@@ -1032,6 +1152,7 @@ names?terms=etwork&verbose
       "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
       "decimals": 18,
       "name": "SynthetixNetworkToken",
+      "parts": 2,
       "source": "SmolAssets",
       "symbol": "SNX",
       "tags": "60-SmolAssets"
@@ -1039,6 +1160,7 @@ names?terms=etwork&verbose
     {
       "address": "0x8767aacd8ae48e6a23077548c24121e46dca0696",
       "name": "Grant 2728 - Using social networks for fun, affordable, and lucrative delivery.",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2728/using-social-networks-for-fun-affordable-and-lucr",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1048,6 +1170,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Open Trading Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "OTN",
       "tags": "50-Tokens:ERC20"
@@ -1055,6 +1178,7 @@ names?terms=etwork&verbose
     {
       "address": "0x887a26839d9e33b1536857a24f91f192ce9d4732",
       "name": "Grant 2776 - pulp-network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2776/pulp-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1064,6 +1188,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Meridian Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "MRDN",
       "tags": "30-Contracts"
@@ -1074,6 +1199,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "pNetwork Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "PNT",
       "tags": "50-Tokens:ERC20"
@@ -1084,6 +1210,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Depository Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "DEPO",
       "tags": "50-Tokens:ERC20"
@@ -1091,6 +1218,7 @@ names?terms=etwork&verbose
     {
       "address": "0x8a970573f88dbc7b69dfed2ba193c98c2d5d8314",
       "name": "Grant 0101 Geon App: Augmented Reality App Leveraging Poa Core Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/101/geon-app-augmented-reality-app-leveraging-poa-cor",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1100,6 +1228,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Bellevue Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "BLV",
       "tags": "30-Contracts"
@@ -1110,6 +1239,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Not Aragon Network DAO launch council",
+      "parts": 2,
       "source": "On chain",
       "symbol": "NOTANLC",
       "tags": "50-Tokens:ERC20"
@@ -1117,12 +1247,14 @@ names?terms=etwork&verbose
     {
       "address": "0x904065ba663879deb7e5f902220e7db97cbf04af",
       "name": "Grant 0681 Flowstake - Activity Staking Blockchain Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/681/flowstake-activity-staking-blockchain-network",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0x934b510d4c9103e6a87aef13b816fb080286d649",
       "name": "Grant 0159 - Mask Network - The Portal to the New, Open Internet.",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/159/mask-network-the-portal-to-the-new-open-internet",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1132,6 +1264,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Dusk Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "DUSK",
       "tags": "50-Tokens:ERC20"
@@ -1142,6 +1275,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Darwinia Network Native Token",
+      "parts": 2,
       "source": "defipulse.com",
       "symbol": "RING",
       "tags": "50-Tokens:ERC20"
@@ -1152,6 +1286,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Meridian Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "LOCK",
       "tags": "30-Contracts"
@@ -1159,6 +1294,7 @@ names?terms=etwork&verbose
     {
       "address": "0x95bc825c196f42c13b0fd5d636251005f3756809",
       "name": "Blockchain Education Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     },
@@ -1168,6 +1304,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Vegetanetwork",
+      "parts": 2,
       "source": "On chain",
       "symbol": "Vegeta",
       "tags": "50-Tokens:ERC20"
@@ -1178,6 +1315,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Aragon Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ANT",
       "tags": "50-Tokens:ERC20"
@@ -1186,6 +1324,7 @@ names?terms=etwork&verbose
       "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
       "decimals": 18,
       "name": "Binance-Peg IoTeX Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "IOTX",
       "tags": "60-Rotki"
@@ -1196,6 +1335,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "shyft.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "SHFT",
       "tags": "30-Contracts"
@@ -1204,6 +1344,7 @@ names?terms=etwork&verbose
       "address": "0x9ae49c0d7f8f9ef4b864e004fe86ac8294e20950",
       "isContract": true,
       "name": "Kyber Network",
+      "parts": 2,
       "source": "0xTracker",
       "tags": "30-Contracts:Kyber Network"
     },
@@ -1213,6 +1354,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Ethereum Cell Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "eCell",
       "tags": "50-Tokens:ERC20"
@@ -1223,6 +1365,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "KP2R.Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "KP2R",
       "tags": "50-Tokens:ERC20"
@@ -1230,6 +1373,7 @@ names?terms=etwork&verbose
     {
       "address": "0x9c159121ceebf937e9bad98fd0c895d7f6038bd4",
       "name": "Grant 0565 Our Network - Community Driven Analytics",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/565/our-network-community-driven-analytics",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1240,6 +1384,7 @@ names?terms=etwork&verbose
       "isErc20": true,
       "isErc721": true,
       "name": "Opium Network Position Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ONP",
       "tags": "50-Tokens:ERC721"
@@ -1248,6 +1393,7 @@ names?terms=etwork&verbose
       "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
       "decimals": 18,
       "name": "KyberNetworkCrystalv2",
+      "parts": 2,
       "source": "SmolAssets",
       "symbol": "KNC",
       "tags": "60-SmolAssets"
@@ -1256,6 +1402,7 @@ names?terms=etwork&verbose
       "address": "0xa0a2ee912caf7921eaabc866c6ef6fec8f7e90a4",
       "decimals": 18,
       "name": "Deeper Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "DPR",
       "tags": "60-Rotki"
@@ -1266,6 +1413,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Aragon Network Token",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "ANT",
       "tags": "50-Tokens:ERC20"
@@ -1273,6 +1421,7 @@ names?terms=etwork&verbose
     {
       "address": "0xa1381b40e0a6b91814f77de19a7ad2cb21753184",
       "name": "Grant 0334 Interstate Network EVM optimistic rollup",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/334/interstate-network-evm-generic-optimistic-rollups",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1282,6 +1431,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "IvyKoin Public Network Tokens",
+      "parts": 2,
       "source": "On chain",
       "symbol": "IVY",
       "tags": "50-Tokens:ERC20"
@@ -1289,6 +1439,7 @@ names?terms=etwork&verbose
     {
       "address": "0xa5fb245acdf6a08ad8fa47b542a30068316fb2a1",
       "name": "Grant 4174 - DAO Stewards Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/4174/dao-stewards-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1298,6 +1449,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Jibrel Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "JNT",
       "tags": "50-Tokens:ERC20"
@@ -1305,6 +1457,7 @@ names?terms=etwork&verbose
     {
       "address": "0xa70b419a6028cd48f050d7251cf4fbbc682cc8ab",
       "name": "Grant 1995 - Ralie Network - Connecting Through Blockchain",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1995/ralie-network-connecting-through-blockchain",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1312,6 +1465,7 @@ names?terms=etwork&verbose
       "address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
       "decimals": 18,
       "name": "Ferrum Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "FRM",
       "tags": "60-Rotki"
@@ -1322,6 +1476,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Golem Network Token",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "GNT",
       "tags": "50-Tokens:ERC20"
@@ -1332,6 +1487,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Media Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "MNT",
       "tags": "50-Tokens:ERC20"
@@ -1340,6 +1496,7 @@ names?terms=etwork&verbose
       "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
       "decimals": 18,
       "name": "Wootrade Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "WOO.e",
       "tags": "60-Rotki"
@@ -1350,6 +1507,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "AdEx Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ADX",
       "tags": "50-Tokens:ERC20"
@@ -1360,6 +1518,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "LGCY Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "LGCY",
       "tags": "50-Tokens:ERC20"
@@ -1368,18 +1527,21 @@ names?terms=etwork&verbose
       "address": "0xb0d27b025d5f79f955fa37cd3170b998661abff3",
       "isContract": true,
       "name": "Kyber Orderbook Reserve",
+      "parts": 2,
       "source": "TrueBlocks.io",
       "tags": "30-Contracts:Kyber Network"
     },
     {
       "address": "0xb101f7893738e34e5333ba1e385ebe6cd65bf1ef",
       "name": "Grant 1096 Pareto Network - Financial Content Marketplace",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1096/pareto-network-financial-content-marketplace",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0xb1f6ddaafce638c21a56b0b2216e796ec9ca428e",
       "name": "Grant 0073 Poa Network Community Management Grant for Aly",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/73/poa-network-community-management-grant-for-aly",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1389,6 +1551,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Signals Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "SGN",
       "tags": "50-Tokens:ERC20"
@@ -1399,6 +1562,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Cere.Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "CERE",
       "tags": "30-Contracts"
@@ -1409,6 +1573,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Coin Display Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "CDN",
       "tags": "50-Tokens:ERC20"
@@ -1416,6 +1581,7 @@ names?terms=etwork&verbose
     {
       "address": "0xb422e46540153ddaaccd8f5e899893fc53ab77b8",
       "name": "Grant 0338 2key Network Labs",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/338/2key-network-labs",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1425,6 +1591,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Aragon Network governor council",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ANGC",
       "tags": "50-Tokens:ERC20"
@@ -1432,12 +1599,14 @@ names?terms=etwork&verbose
     {
       "address": "0xb5e48595afb989ddbc97763cd516ae3a983a3e36",
       "name": "Grant 0072 Poa Network Community Management Grant for Khizer",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/72/poa-network-community-management-grant-for-khizer",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0xb64850fe701fb64667b6cc762aa2c12f2e02193c",
       "name": "Grant 0742 Crypto Community Ventures Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/742/crypto-community-ventures-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1447,6 +1616,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Shyft Network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "SHFT",
       "tags": "30-Contracts"
@@ -1454,6 +1624,7 @@ names?terms=etwork&verbose
     {
       "address": "0xb9c5ed064288dc62adb6e6a0d8106fd6e71ac2a2",
       "name": "Grant 4294 - Frontpage Ping: Decentralized Real-Time Collaboration Network Protocol for Web3",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/4294/frontpage-ping-decentralized-real-time-collaborat",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1463,6 +1634,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "limestone.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "LIMEX",
       "tags": "30-Contracts"
@@ -1473,6 +1645,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "hathor.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "HTR",
       "tags": "30-Contracts"
@@ -1481,6 +1654,7 @@ names?terms=etwork&verbose
       "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
       "decimals": 18,
       "name": "Synthetix Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "SNX.e",
       "tags": "60-Rotki"
@@ -1489,6 +1663,7 @@ names?terms=etwork&verbose
       "address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
       "isContract": true,
       "name": "Synthetix Network Token",
+      "parts": 2,
       "source": "EtherScan.io",
       "symbol": "SNX",
       "tags": "50-Tokens:ERC20"
@@ -1499,6 +1674,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Synthetix Network Token",
+      "parts": 2,
       "source": "Giveth website",
       "symbol": "SNX",
       "tags": "50-Tokens:ERC20"
@@ -1507,12 +1683,14 @@ names?terms=etwork&verbose
       "address": "0xc0d3e654676b117663143eac33b45b620171244b",
       "isContract": true,
       "name": "Kyber Order List",
+      "parts": 2,
       "source": "TrueBlocks.io",
       "tags": "30-Contracts:Kyber Network"
     },
     {
       "address": "0xc0dd8e21a31f62861e668833f47770592d379a4c",
       "name": "Grant 2694 - Matrix2 - An aggregated Layer 2 network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2694/matrix2-an-aggregated-layer-2-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1522,6 +1700,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Public Index Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "PIN",
       "tags": "50-Tokens:ERC20"
@@ -1529,18 +1708,21 @@ names?terms=etwork&verbose
     {
       "address": "0xc22e8d32d3146efc54088f39ec9c29eaf3905b1d",
       "name": "Grant 3090 - Atelio : creating open , blockchain based digital supply network.",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/3090/atelio-creating-open-blockchain-based-digital-sup",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0xc37e165fcfa2cb5cca7329dd9daa8cd72907b983",
       "name": "Grant 0037 Connext Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/37/connext-network",
       "tags": "31-Gitcoin:Grants"
     },
     {
       "address": "0xc41bc99044fd4836dba4104bcf53b6f2b62716b1",
       "name": "Grant 2190 - Layer 2 faucet in ethereum network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/2190/layer-2-faucet-in-ethereum-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1548,6 +1730,7 @@ names?terms=etwork&verbose
       "address": "0xc4a8b7e29e3c8ec560cd4945c1cf3461a85a148d",
       "isContract": true,
       "name": "1inch Network: Deployer Related",
+      "parts": 2,
       "source": "EtherScan.io",
       "tags": "30-Contracts"
     },
@@ -1557,6 +1740,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "KEX",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "KIRA Network",
       "tags": "30-Contracts"
@@ -1565,6 +1749,7 @@ names?terms=etwork&verbose
       "address": "0xc69eba65e87889f0805db717af06797055a0ba07",
       "decimals": 18,
       "name": "NitroNetwork",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "ncash",
       "tags": "60-Rotki"
@@ -1575,6 +1760,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Insights Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "INSTAR",
       "tags": "50-Tokens:ERC20"
@@ -1583,6 +1769,7 @@ names?terms=etwork&verbose
       "address": "0xc80e9ffcc3774f1fe5a925bda8f846fa4301eae8",
       "isContract": true,
       "name": "Grant 4017 - Swell Network | Maintaining a decentralised, open, and liquid Ethereum ecosystem",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/4017/swell-network-maintaining-a-decentralised-open-an",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1592,6 +1779,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Kper.network",
+      "parts": 2,
       "source": "Etherscan ",
       "symbol": "KPER",
       "tags": "30-Contracts"
@@ -1600,6 +1788,7 @@ names?terms=etwork&verbose
       "address": "0xc8e36f0a44fbeca89fdd5970439cbe62eb4b5d03",
       "decimals": 18,
       "name": "AdEx Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "ADX",
       "tags": "60-Rotki"
@@ -1608,6 +1797,7 @@ names?terms=etwork&verbose
       "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
       "decimals": 18,
       "name": "Wootrade Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "WOO",
       "tags": "60-Rotki"
@@ -1617,6 +1807,7 @@ names?terms=etwork&verbose
       "decimals": 18,
       "isContract": true,
       "name": "PeerEx_Network",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "PERX",
       "tags": "60-Rotki"
@@ -1624,6 +1815,7 @@ names?terms=etwork&verbose
     {
       "address": "0xcb8f9c706f9f5683d1bd6261f52f5f2b2182d780",
       "name": "Grant 1796 Crypton Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1796/crypton-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1633,6 +1825,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "NarutoNetwork",
+      "parts": 2,
       "source": "On chain",
       "symbol": "NARUTO",
       "tags": "50-Tokens:ERC20"
@@ -1643,6 +1836,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Aragon Network Juror",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ANJ",
       "tags": "50-Tokens:ERC20"
@@ -1653,6 +1847,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Threshold Network Token",
+      "parts": 2,
       "source": "Rotki",
       "symbol": "T",
       "tags": "50-Tokens:ERC20"
@@ -1660,6 +1855,7 @@ names?terms=etwork&verbose
     {
       "address": "0xcfb3c2dc81718ff0087d46e4d7b1c4692ded1586",
       "name": "Grant 1323 Resource Network",
+      "parts": 2,
       "source": "https://gitcoin.co/grants/1323/resource-network",
       "tags": "31-Gitcoin:Grants"
     },
@@ -1669,6 +1865,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Nimiq Network Interim Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "NET",
       "tags": "50-Tokens:ERC20"
@@ -1679,6 +1876,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Liquidity.Network Token",
+      "parts": 2,
       "source": "On chain",
       "symbol": "LQD",
       "tags": "50-Tokens:ERC20"
@@ -1689,6 +1887,7 @@ names?terms=etwork&verbose
       "isContract": true,
       "isErc20": true,
       "name": "Origami Network",
+      "parts": 2,
       "source": "On chain",
       "symbol": "ORI",
       "tags": "50-Tokens:ERC20"
@@ -1696,6 +1895,7 @@ names?terms=etwork&verbose
     {
       "address": "0xd3a8518a8e75a6c9317027abd29847ea1965f2b1",
       "name": "Strengthening the Citizen Water Observatories Network",
+      "parts": 2,
       "source": "Tokenomics",
       "tags": "31-Giveth:Project"
     }
