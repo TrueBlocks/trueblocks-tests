@@ -1,7 +1,9 @@
-chifra abis --help
-Purpose:
-  Fetches the ABI for a smart contract.
-
+chifra abis  --count --find 0x1aa3a008
+TEST[DATE|TIME] Count:  true
+TEST[DATE|TIME] Find:  [0x1aa3a008]
+TEST[DATE|TIME] Caps:  cache,decache
+TEST[DATE|TIME] Format:  txt
+Error: The --count and --list options must be used alone.
 Usage:
   chifra abis [flags] <address> [address...]
 
