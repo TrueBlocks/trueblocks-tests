@@ -3,6 +3,7 @@ abis?list&verbose
   "data": [
     {
       "fileSize": 3754,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 2,
@@ -48,6 +49,7 @@ abis?list&verbose
     },
     {
       "fileSize": 1748,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 2,
@@ -75,6 +77,7 @@ abis?list&verbose
     },
     {
       "fileSize": 40367,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 7,
@@ -84,6 +87,8 @@ abis?list&verbose
     },
     {
       "fileSize": 16133,
+      "hasConstructor": true,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 19,
@@ -165,6 +170,8 @@ abis?list&verbose
     },
     {
       "fileSize": 19296,
+      "hasConstructor": true,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 5,
@@ -174,6 +181,7 @@ abis?list&verbose
     },
     {
       "fileSize": 12869,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 9,
@@ -183,6 +191,8 @@ abis?list&verbose
     },
     {
       "fileSize": 92096,
+      "hasConstructor": true,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 63,
@@ -237,6 +247,7 @@ abis?list&verbose
     },
     {
       "fileSize": 10909,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 8,

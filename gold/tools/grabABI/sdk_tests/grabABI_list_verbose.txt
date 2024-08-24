@@ -9,6 +9,7 @@ Format:  json
   "data": [
     {
       "fileSize": 3754,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 2,
@@ -54,6 +55,7 @@ Format:  json
     },
     {
       "fileSize": 1748,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 2,
@@ -81,6 +83,7 @@ Format:  json
     },
     {
       "fileSize": 40367,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 7,
@@ -90,6 +93,8 @@ Format:  json
     },
     {
       "fileSize": 16133,
+      "hasConstructor": true,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 19,
@@ -171,6 +176,8 @@ Format:  json
     },
     {
       "fileSize": 19296,
+      "hasConstructor": true,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 5,
@@ -180,6 +187,7 @@ Format:  json
     },
     {
       "fileSize": 12869,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 9,
@@ -189,6 +197,8 @@ Format:  json
     },
     {
       "fileSize": 92096,
+      "hasConstructor": true,
+      "hasFallback": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 63,
@@ -243,6 +253,7 @@ Format:  json
     },
     {
       "fileSize": 10909,
+      "hasConstructor": true,
       "isKnown": true,
       "lastModDate": "--date--",
       "nEvents": 8,
