@@ -13,4 +13,5 @@ Arguments:
 Flags:
   -l, --local    open the local TrueBlocks explorer
   -g, --google   search google excluding popular blockchain explorers
+  -d, --dalle    open the address to the DalleDress explorer (hidden)
   -h, --help     display this help screen
