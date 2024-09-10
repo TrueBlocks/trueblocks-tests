@@ -61,10 +61,9 @@ names?terms=tip&fmt=json
     {
       "address": "0xfb6916095ca1df60bb79ce92ce3ea74c37c5d359",
       "isContract": true,
-      "name": "Ethereum Tip Jar",
-      "source": "TrueBlocks.io",
-      "symbol": "TIP",
-      "tags": "50-Tokens:ERC20"
+      "name": "Ethereum Foundation (Tip Jar)",
+      "source": "https://platform.spotonchain.ai",
+      "tags": "95-EF"
     },
     {
       "address": "0xfeb8b9496df7d8c9677dda076813dc6885fb0646",

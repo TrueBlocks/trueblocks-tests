@@ -57,7 +57,7 @@ TEST[DATE|TIME] Format:  txt
 50-Tokens:ERC20	0x4162178b78d6985480a308b2190ee5517460406d	Colu Local Network	CLN	On chain	18	false	false	false	true	true	false
 50-Tokens:ERC20	0x447f59850dc5f72609a5e5edc71fbf45fb3af17a	DOG Network	DOG	On chain	18	false	false	false	true	true	false
 50-Tokens:ERC20	0x4691937a7508860f876c9c0a2a617e7d9e945d4b	Wootrade Network	WOO	Rotki	18	false	false	false	true	true	false
-31-Gitcoin:Core	0x4727e3265706c59dbc31e7c518960f4f843bb4da	GG19 - GreenPill Network - independent - OP - 5000		https://raw.githubusercontent.com/ufkhan97/gitcoin-grants-heroku/main/all_rounds.csv		false	true	false	false	false	false
+31-Gitcoin:Core	0x4727e3265706c59dbc31e7c518960f4f843bb4da	GG19 - GreenPill Network - independent - OP - 5000		https://raw.githubusercontent.com/ufkhan97/gitcoin-grants-heroku/main/all_rounds.csv		false	false	false	false	false	false
 31-Gitcoin:Grants	0x476f2d18d28fa1a4fc62ce680fa7852524eb820f	Grant 1949 Network State Genesis		https://gitcoin.co/grants/1949/network-state-genesis		false	false	false	true	false	false
 30-Contracts	0x4aa42145aa6ebf72e164c9bbc74fbd3788045016	POA Network: DAI-XDAI Bridge		EtherScan.io		false	false	false	true	false	false
 50-Tokens:ERC20	0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604	WABnetwork	WAB	On chain	18	false	false	false	true	true	false

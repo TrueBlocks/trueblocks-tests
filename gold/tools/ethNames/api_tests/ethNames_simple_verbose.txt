@@ -522,7 +522,6 @@ names?terms=etwork&verbose
     },
     {
       "address": "0x4727e3265706c59dbc31e7c518960f4f843bb4da",
-      "isCustom": true,
       "name": "GG19 - GreenPill Network - independent - OP - 5000",
       "parts": 2,
       "source": "https://raw.githubusercontent.com/ufkhan97/gitcoin-grants-heroku/main/all_rounds.csv",
