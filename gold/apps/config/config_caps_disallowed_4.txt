@@ -11,6 +11,7 @@ Arguments:
 
 Flags:
   -a, --paths        show the configuration paths for the system
+  -s, --session      standin for ui code - no purpose (hidden)
   -x, --fmt string   export format, one of [none|json*|txt|csv]
   -v, --verbose      enable verbose output
   -h, --help         display this help screen
