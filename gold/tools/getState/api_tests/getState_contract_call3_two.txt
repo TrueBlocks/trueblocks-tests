@@ -1,4 +1,4 @@
-state?call='manifestHashMap(0xf503017d7baf7fbc0fff7492b751025c6a78179b,"mainnet"):owner()'&addrs=unchainedindex.eth&blocks=14976122&fmt=json
+state?calldata='manifestHashMap(0xf503017d7baf7fbc0fff7492b751025c6a78179b,"mainnet"):owner()'&addrs=unchainedindex.eth&blocks=14976122&fmt=json
 {
   "data": [
     {

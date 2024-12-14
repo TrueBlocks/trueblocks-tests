@@ -17,7 +17,7 @@ Flags:
                            One or more of [ balance | nonce | code | proxy | deployed | accttype | some | all ]
   -c, --changes            only report a balance when it changes from one block to the next
   -z, --no_zero            suppress the display of zero balance accounts
-  -l, --call string        write-only call to a smart contract with one or more solidity calls, four-byte plus parameters, or encoded call data strings
+  -l, --calldata string    write-only call to a smart contract with one or more solidity calls, four-byte plus parameters, or encoded call data strings
   -s, --send string        send a transaction to a smart contract using a solidity function, a four-byte plus parameters, or an encoded call data string
   -a, --articulate         for the --call option only, articulate the retrieved data if ABIs can be found
   -r, --proxy_for string   for the --call option only, redirects calls to this implementation
