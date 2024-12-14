@@ -6,7 +6,7 @@ TEST[DATE|TIME] Call:  true
 TEST[DATE|TIME] Calldata:  0x0902f1ac()
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
-Error: The --parts option is not available with the --call option.
+Error: The --parts option is not available with the --call or --send option.
 Usage:
   chifra state [flags] <address> [address...] [block...]
 

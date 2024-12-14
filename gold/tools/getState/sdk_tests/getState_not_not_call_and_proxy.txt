@@ -8,6 +8,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "The --proxy_for option is only available with the --call option."
+    "The --proxy_for option is only available with the --call or --send option."
   ]
 }

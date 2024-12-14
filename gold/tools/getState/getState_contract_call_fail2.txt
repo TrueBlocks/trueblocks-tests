@@ -5,7 +5,7 @@ TEST[DATE|TIME] Call:  true
 TEST[DATE|TIME] Calldata:  12065fe0()
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
-Error: the --call value provided (12065fe0()) was not found: the value provided --call (12065fe0()) is invalid
+Error: the --calldata value provided (12065fe0()) was not found: the value provided (12065fe0()) is invalid
 Usage:
   chifra state [flags] <address> [address...] [block...]
 

@@ -8,6 +8,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "the --call value provided (0x) was not found: the value provided --call (0x) is invalid"
+    "The --calldata option is only available with the --call or --send option."
   ]
 }

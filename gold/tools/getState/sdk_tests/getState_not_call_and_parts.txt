@@ -10,6 +10,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "The --parts option is not available with the --call option."
+    "The --parts option is not available with the --call or --send option."
   ]
 }

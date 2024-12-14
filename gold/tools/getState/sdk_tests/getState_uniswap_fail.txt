@@ -9,6 +9,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "the --call value provided (0x0902f1ad()) was not found: abi not found for 0x0902f1ad(): abi not found "
+    "the --calldata value provided (0x0902f1ad()) was not found: abi not found for 0x0902f1ad(): abi not found "
   ]
 }

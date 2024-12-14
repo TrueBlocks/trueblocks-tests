@@ -9,6 +9,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "The --articulate option is only available with the --call option."
+    "The --articulate option is only available with the --call or --send option."
   ]
 }

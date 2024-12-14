@@ -5,7 +5,7 @@ TEST[DATE|TIME] Parts:  [accttype]
 TEST[DATE|TIME] Articulate:  true
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
-Error: The --articulate option is only available with the --call option.
+Error: The --articulate option is only available with the --call or --send option.
 Usage:
   chifra state [flags] <address> [address...] [block...]
 

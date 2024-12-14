@@ -9,6 +9,6 @@ Caps:  cache,decache,ether
 Format:  json
 {
   "errors": [
-    "the --call value provided (0x12065fe01()) was not found: the value provided --call (0x12065fe01()) is invalid"
+    "the --calldata value provided (0x12065fe01()) was not found: the value provided (0x12065fe01()) is invalid"
   ]
 }

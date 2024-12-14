@@ -4,7 +4,7 @@ TEST[DATE|TIME] Blocks:  [6523977-6540000:2000]
 TEST[DATE|TIME] Calldata:  0x
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
-Error: the --call value provided (0x) was not found: the value provided --call (0x) is invalid
+Error: The --calldata option is only available with the --call or --send option.
 Usage:
   chifra state [flags] <address> [address...] [block...]
 

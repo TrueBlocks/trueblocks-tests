@@ -1,11 +1,11 @@
-chifra state  --call --calldata '0x12065fe01()' 0xa4f29fc548856180f6b1e319ee4d86715875cce4 6523977-6540000:2000
-TEST[DATE|TIME] Addrs:  [0xa4f29fc548856180f6b1e319ee4d86715875cce4]
-TEST[DATE|TIME] Blocks:  [6523977-6540000:2000]
-TEST[DATE|TIME] Call:  true
+chifra state  --send --calldata '0x12065fe01()' --parts all
+TEST[DATE|TIME] Blocks:  [17000000]
+TEST[DATE|TIME] Parts:  [all]
+TEST[DATE|TIME] Send:  true
 TEST[DATE|TIME] Calldata:  0x12065fe01()
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
-Error: the --calldata value provided (0x12065fe01()) was not found: the value provided (0x12065fe01()) is invalid
+Error: The --parts option is not available with the --call or --send option.
 Usage:
   chifra state [flags] <address> [address...] [block...]
 
