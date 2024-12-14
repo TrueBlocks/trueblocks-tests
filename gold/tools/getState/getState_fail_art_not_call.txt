@@ -18,6 +18,7 @@ Flags:
                            One or more of [ balance | nonce | code | proxy | deployed | accttype | some | all ]
   -c, --changes            only report a balance when it changes from one block to the next
   -z, --no_zero            suppress the display of zero balance accounts
+  -l, --call               write-only call (a query) to a smart contract
   -s, --send               writes a transaction to an address (see docs for more information) (hidden)
   -d, --calldata string    for commands (--call or --send), provides the call data (in various forms) for the command (may be empty for --send)
   -a, --articulate         for commands only, articulate the retrieved data if ABIs can be found

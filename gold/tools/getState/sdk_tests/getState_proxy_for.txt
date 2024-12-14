@@ -1,8 +1,9 @@
-state?calldata='0x0902f1ac()'&addrs=0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B&proxyFor=0xbb2b8038a1640196fbe3e38816f3e67cba72d940&blocks=10092000
-Args: [calldata='0x0902f1ac()' addrs=0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B proxyFor=0xbb2b8038a1640196fbe3e38816f3e67cba72d940 blocks=10092000]
-Opts: {"addrs":["0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B"],"blocks":["10092000"],"calldata":"'0x0902f1ac()'","proxyFor":"0xbb2b8038a1640196fbe3e38816f3e67cba72d940"}
+state?call&calldata='0x0902f1ac()'&addrs=0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B&proxyFor=0xbb2b8038a1640196fbe3e38816f3e67cba72d940&blocks=10092000
+Args: [call calldata='0x0902f1ac()' addrs=0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B proxyFor=0xbb2b8038a1640196fbe3e38816f3e67cba72d940 blocks=10092000]
+Opts: {"addrs":["0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B"],"blocks":["10092000"],"call":true,"calldata":"'0x0902f1ac()'","proxyFor":"0xbb2b8038a1640196fbe3e38816f3e67cba72d940"}
 Addrs:  [0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b]
 Blocks:  [10092000]
+Call:  true
 Calldata:  0x0902f1ac()
 ProxyFor:  0xbb2b8038a1640196fbe3e38816f3e67cba72d940
 Caps:  cache,decache,ether

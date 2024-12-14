@@ -1,8 +1,9 @@
-state?calldata='manifestHashMap(trueblocks.eth,"mainnet"):0x8da5cb5b'&addrs=unchainedindex.eth&blocks=14976122
-Args: [calldata='manifestHashMap(trueblocks.eth,"mainnet"):0x8da5cb5b' addrs=unchainedindex.eth blocks=14976122]
-Opts: {"addrs":["unchainedindex.eth"],"blocks":["14976122"],"calldata":"'manifestHashMap(trueblocks.eth,\"mainnet\"):0x8da5cb5b'","proxyFor":"0x0"}
+state?calldata='manifestHashMap(trueblocks.eth,"mainnet"):0x8da5cb5b'&call&addrs=unchainedindex.eth&blocks=14976122
+Args: [calldata='manifestHashMap(trueblocks.eth,"mainnet"):0x8da5cb5b' call addrs=unchainedindex.eth blocks=14976122]
+Opts: {"addrs":["unchainedindex.eth"],"blocks":["14976122"],"call":true,"calldata":"'manifestHashMap(trueblocks.eth,\"mainnet\"):0x8da5cb5b'","proxyFor":"0x0"}
 Addrs:  [0x0c316b7042b419d07d343f2f4f5bd54ff731183d]
 Blocks:  [14976122]
+Call:  true
 Calldata:  manifestHashMap(trueblocks.eth,"mainnet"):0x8da5cb5b
 Caps:  cache,decache,ether
 Format:  json

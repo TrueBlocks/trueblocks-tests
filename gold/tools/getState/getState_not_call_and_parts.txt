@@ -1,7 +1,8 @@
-chifra state  --calldata '0x0902f1ac()' 0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B --parts some
+chifra state  --call --calldata '0x0902f1ac()' 0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B --parts some
 TEST[DATE|TIME] Addrs:  [0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b]
 TEST[DATE|TIME] Blocks:  [17000000]
 TEST[DATE|TIME] Parts:  [some]
+TEST[DATE|TIME] Call:  true
 TEST[DATE|TIME] Calldata:  0x0902f1ac()
 TEST[DATE|TIME] Caps:  cache,decache,ether
 TEST[DATE|TIME] Format:  txt
@@ -18,6 +19,7 @@ Flags:
                            One or more of [ balance | nonce | code | proxy | deployed | accttype | some | all ]
   -c, --changes            only report a balance when it changes from one block to the next
   -z, --no_zero            suppress the display of zero balance accounts
+  -l, --call               write-only call (a query) to a smart contract
   -s, --send               writes a transaction to an address (see docs for more information) (hidden)
   -d, --calldata string    for commands (--call or --send), provides the call data (in various forms) for the command (may be empty for --send)
   -a, --articulate         for commands only, articulate the retrieved data if ABIs can be found
