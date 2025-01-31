@@ -1,6 +1,0 @@
-abis?decache&file=signatures.txt
-{
-  "errors": [
-    "The --file option is not available in api mode."
-  ]
-}

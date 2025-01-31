@@ -1,4 +1,0 @@
-chifra config  show
-TEST[DATE|TIME] Mode:  show
-TEST[DATE|TIME] Format:  txt
-INFO[DATE|TIME] Can not process this command in test mode.

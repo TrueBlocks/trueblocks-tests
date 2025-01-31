@@ -1,8 +1,0 @@
-chunks?mode=junk&count
-Args: [mode=junk count]
-Opts: null
-{
-  "errors": [
-    "unknown mode: junk"
-  ]
-}

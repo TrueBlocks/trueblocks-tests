@@ -1,4 +1,0 @@
-chifra explore  
-TEST[DATE|TIME] Format:  txt
-term	termType	url	source
-	DestinationNone	https://etherscan.io/	url

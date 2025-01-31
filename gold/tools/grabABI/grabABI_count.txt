@@ -1,6 +1,0 @@
-chifra abis  --count
-TEST[DATE|TIME] Count:  true
-TEST[DATE|TIME] Caps:  cache,decache
-TEST[DATE|TIME] Format:  txt
-count
-199
